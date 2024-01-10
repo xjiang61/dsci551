@@ -1,0 +1,45 @@
+#relational
+create table movies (movie_id, title, director, year, genre)
+create table reviews (review_id, movie_id, rating, reviewer)
+
+insert into movies (1, "Inception", "Christopher Nolan", 2010, "Sci-Fi")
+insert into movies (2, "The Godfather", "Francis Ford Coppola", 1972, "Crime")
+insert into movies (3, "Pulp Fiction", "Quentin Tarantino", 1994, "Crime")
+insert into movies (4, "Interstellar", "Christopher Nolan", 2014, "Sci-Fi")
+
+insert into reviews (1, 1, 9, "Alice")
+insert into reviews (2, 1, 8, "Bob")
+insert into reviews (3, 2, 10, "Charlie")
+insert into reviews (4, 3, 9, "Dave")
+insert into reviews (5, 5, 9, "Jane")
+
+
+# Projection + Filtering - Selecting movie title from a specific year
+find all movies where year == 1994  
+find title from movies where year == 1994  
+
+# Join - Combining movies and reviews tables
+join movies reviews on movie_id movie_id left
+join movies reviews on movie_id movie_id right
+join movies reviews on movie_id movie_id inner
+
+# Grouping and Aggregation 
+select count(rating) from reviews group by movie_id
+select avg(rating) from reviews group by movie_id
+
+# Ordering - Ordering movies by year
+find all movies order by year
+
+# Updating a movie's title
+find all movies
+update movies set title = "The Godfather Part I" where title = 'Inception'  
+find all movies
+
+# Deleting a movie
+delete from movies where movie_id == 1
+find all movies
+
+delete all movies
+
+# Exiting the program
+exit

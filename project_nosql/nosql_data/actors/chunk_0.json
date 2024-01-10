@@ -1,0 +1,26 @@
+[
+    {
+        "actor_id": "1",
+        "name": "'Leonardo DiCaprio'",
+        "associated_movie_id": "1",
+        "role": "'Cobb'"
+    },
+    {
+        "actor_id": "2",
+        "name": "'Keanu Reeves'",
+        "associated_movie_id": "2",
+        "role": "'Neo'"
+    },
+    {
+        "actor_id": "3",
+        "name": "'Anne Hathaway'",
+        "associated_movie_id": "3",
+        "role": "'Brand'"
+    },
+    {
+        "actor_id": "4",
+        "name": "'Actor Without Film'",
+        "associated_movie_id": "5",
+        "role": "'Unknown'"
+    }
+]

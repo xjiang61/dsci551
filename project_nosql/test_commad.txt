@@ -1,0 +1,39 @@
+#nosql
+create table movies (movie_id, title, year, director)
+create table actors (actor_id, name, associated_movie_id, role)
+
+insert into movies movie_id=1; title='Inception'; year='2010'; director='Christopher Nolan'
+insert into movies movie_id=2; title='The Matrix'; year='1999'; director='Lana Wachowski'
+insert into movies movie_id=3; title='Interstellar'; year='2014'; director='Christopher Nolan'
+insert into movies movie_id=4; title='Unfilmed'; year='2023'; director='Future Director'
+
+insert into actors actor_id=1; name='Leonardo DiCaprio'; associated_movie_id=1; role='Cobb'
+insert into actors actor_id=2; name='Keanu Reeves'; associated_movie_id=2; role='Neo'
+insert into actors actor_id=3; name='Anne Hathaway'; associated_movie_id=3; role='Brand'
+insert into actors actor_id=4; name='Actor Without Film'; associated_movie_id=5; role='Unknown'
+
+select from movies join actors on movie_id=associated_movie_id inner
+select from movies join actors on movie_id=associated_movie_id left
+select from movies join actors on movie_id=associated_movie_id right
+select from movies join actors on movie_id=associated_movie_id full
+
+#projection
+select from movies project (title,director)
+
+#filtering
+select from movies where year > '2000'
+
+#Grouping and Aggregation
+select from movies group by director aggregate count
+
+#Ordering
+select from movies order by year
+
+#Update Data
+select from movies
+update table movies set director='New Director' where title='Inception'
+select from movies
+
+#Delete Data
+delete from movies where title='Unfilmed'
+select from movies

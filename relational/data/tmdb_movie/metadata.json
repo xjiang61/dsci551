@@ -1,0 +1,18 @@
+{
+    "columns": [
+        "budget",
+        "id",
+        "original_language",
+        "original_title",
+        "overview",
+        "popularity",
+        "release_date",
+        "revenue",
+        "runtime",
+        "status",
+        "title",
+        "vote_average",
+        "vote_count",
+        "movie_id"
+    ]
+}

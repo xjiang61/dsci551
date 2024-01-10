@@ -1,0 +1,10 @@
+{
+    "columns": [
+        "movie_id",
+        "title",
+        "overview",
+        "runtime",
+        "release_date",
+        "vote_average"
+    ]
+}

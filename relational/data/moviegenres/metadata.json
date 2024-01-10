@@ -1,0 +1,6 @@
+{
+    "columns": [
+        "movie_id",
+        "genre_id"
+    ]
+}

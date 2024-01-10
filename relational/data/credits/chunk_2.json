@@ -1,0 +1,6002 @@
+[
+    {
+        "title": "10 Days in a Madhouse",
+        "movie_id": "345003",
+        "cast": "['Caroline Barry', 'Christopher Lambert', 'Kelly LeBrock']",
+        "crew": "['Timothy Hines']"
+    },
+    {
+        "title": "10 Things I Hate About You",
+        "movie_id": "4951",
+        "cast": "['Heath Ledger', 'Julia Stiles', 'Joseph Gordon-Levitt']",
+        "crew": "['Gil Junger']"
+    },
+    {
+        "title": "12 Rounds",
+        "movie_id": "17134",
+        "cast": "['John Cena', 'Aidan Gillen', 'Ashley Scott']",
+        "crew": "['Renny Harlin']"
+    },
+    {
+        "title": "12 Years a Slave",
+        "movie_id": "76203",
+        "cast": "['Chiwetel Ejiofor', 'Michael Fassbender', \"Lupita Nyong'o\"]",
+        "crew": "['Steve McQueen']"
+    },
+    {
+        "title": "127 Hours",
+        "movie_id": "44115",
+        "cast": "['James Franco', 'Kate Mara', 'Amber Tamblyn']",
+        "crew": "['Danny Boyle']"
+    },
+    {
+        "title": "1408",
+        "movie_id": "3021",
+        "cast": "['John Cusack', 'Samuel L. Jackson', 'Mary McCormack']",
+        "crew": "['Mikael H\u00e5fstr\u00f6m']"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "movie_id": "62",
+        "cast": "['Keir Dullea', 'Gary Lockwood', 'William Sylvester']",
+        "crew": "['Stanley Kubrick']"
+    },
+    {
+        "title": "2046",
+        "movie_id": "844",
+        "cast": "['Tony Leung Chiu-Wai', 'Zhang Ziyi', 'Faye Wong']",
+        "crew": "['Wong Kar-wai']"
+    },
+    {
+        "title": "21 & Over",
+        "movie_id": "107811",
+        "cast": "['Miles Teller', 'Skylar Astin', 'Justin Chon']",
+        "crew": "['Jon Lucas']"
+    },
+    {
+        "title": "21 Grams",
+        "movie_id": "470",
+        "cast": "['Sean Penn', 'Naomi Watts', 'Benicio del Toro']",
+        "crew": "['Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu']"
+    },
+    {
+        "title": "28 Weeks Later",
+        "movie_id": "1562",
+        "cast": "['Imogen Poots', 'Robert Carlyle', 'Rose Byrne']",
+        "crew": "['Juan Carlos Fresnadillo']"
+    },
+    {
+        "title": "3 Ninjas Kick Back",
+        "movie_id": "18885",
+        "cast": "['Victor Wong', 'Max Elliott Slade', 'Sean Fox']",
+        "crew": "['Charles T. Kanganis']"
+    },
+    {
+        "title": "40 Days and 40 Nights",
+        "movie_id": "2752",
+        "cast": "['Josh Hartnett', 'Shannyn Sossamon', 'Adam Trese']",
+        "crew": "['Michael Lehmann']"
+    },
+    {
+        "title": "5 Days of War",
+        "movie_id": "50601",
+        "cast": "['Rupert Friend', 'Val Kilmer', 'Andy Garc\u00eda']",
+        "crew": "['Renny Harlin']"
+    },
+    {
+        "title": "54",
+        "movie_id": "3682",
+        "cast": "['Ryan Phillippe', 'Salma Hayek', 'Breckin Meyer']",
+        "crew": "['Mark Christopher']"
+    },
+    {
+        "title": "55 Days at Peking",
+        "movie_id": "27759",
+        "cast": "['Charlton Heston', 'Ava Gardner', 'David Niven']",
+        "crew": "['Nicholas Ray']"
+    },
+    {
+        "title": "A Cinderella Story",
+        "movie_id": "11247",
+        "cast": "['Hilary Duff', 'Jennifer Coolidge', 'Chad Michael Murray']",
+        "crew": "['Mark Rosman']"
+    },
+    {
+        "title": "A Dangerous Method",
+        "movie_id": "48231",
+        "cast": "['Keira Knightley', 'Viggo Mortensen', 'Michael Fassbender']",
+        "crew": "['David Cronenberg']"
+    },
+    {
+        "title": "A Guy Thing",
+        "movie_id": "9582",
+        "cast": "['Jason Lee', 'Julia Stiles', 'Selma Blair']",
+        "crew": "['Chris Koch']"
+    },
+    {
+        "title": "A Mighty Heart",
+        "movie_id": "1988",
+        "cast": "['Angelina Jolie', 'Dan Futterman', 'Irrfan Khan']",
+        "crew": "['Michael Winterbottom']"
+    },
+    {
+        "title": "A Most Violent Year",
+        "movie_id": "241239",
+        "cast": "['Oscar Isaac', 'Jessica Chastain', 'Albert Brooks']",
+        "crew": "['J.C. Chandor']"
+    },
+    {
+        "title": "A Most Wanted Man",
+        "movie_id": "157849",
+        "cast": "['Philip Seymour Hoffman', 'Rachel McAdams', 'Robin Wright']",
+        "crew": "['Anton Corbijn']"
+    },
+    {
+        "title": "A Night at the Roxbury",
+        "movie_id": "9429",
+        "cast": "['Will Ferrell', 'Chris Kattan', 'Jennifer Coolidge']",
+        "crew": "['John Fortenberry']"
+    },
+    {
+        "title": "A Nightmare on Elm Street 4: The Dream Master",
+        "movie_id": "10131",
+        "cast": "['Robert Englund', 'Tuesday Knight', 'Ken Sagoes']",
+        "crew": "['Renny Harlin']"
+    },
+    {
+        "title": "A Perfect Getaway",
+        "movie_id": "12403",
+        "cast": "['Milla Jovovich', 'Timothy Olyphant', 'Steve Zahn']",
+        "crew": "['David Twohy']"
+    },
+    {
+        "title": "A Scanner Darkly",
+        "movie_id": "3509",
+        "cast": "['Keanu Reeves', 'Winona Ryder', 'Woody Harrelson']",
+        "crew": "['Richard Linklater']"
+    },
+    {
+        "title": "A Simple Plan",
+        "movie_id": "10223",
+        "cast": "['Bill Paxton', 'Bridget Fonda', 'Billy Bob Thornton']",
+        "crew": "['Sam Raimi']"
+    },
+    {
+        "title": "A Tale of Three Cities",
+        "movie_id": "358451",
+        "cast": "['Lau Ching-Wan', 'Tang Wei', 'Qin Hailu']",
+        "crew": "['Mabel Cheung']"
+    },
+    {
+        "title": "A Very Harold & Kumar Christmas",
+        "movie_id": "55465",
+        "cast": "['Neil Patrick Harris', 'John Cho', 'Elias Koteas']",
+        "crew": "['Todd Strauss-Schulson']"
+    },
+    {
+        "title": "A Walk on the Moon",
+        "movie_id": "28029",
+        "cast": "['Diane Lane', 'Viggo Mortensen', 'Liev Schreiber']",
+        "crew": "['Tony Goldwyn']"
+    },
+    {
+        "title": "A Walk to Remember",
+        "movie_id": "10229",
+        "cast": "['Mandy Moore', 'Shane West', 'Peter Coyote']",
+        "crew": "['Adam Shankman']"
+    },
+    {
+        "title": "A Woman, a Gun and a Noodle Shop",
+        "movie_id": "44555",
+        "cast": "['Sun Honglei', 'Xiao Shen Yang', 'Yan Ni']",
+        "crew": "['Zhang Yimou']"
+    },
+    {
+        "title": "ATL",
+        "movie_id": "13960",
+        "cast": "['T.I.', 'Evan Ross', 'Jackie Long']",
+        "crew": "['Christian Robinson']"
+    },
+    {
+        "title": "About Last Night",
+        "movie_id": "222899",
+        "cast": "['Kevin Hart', 'Michael Ealy', 'Regina Hall']",
+        "crew": "['Steve Pink']"
+    },
+    {
+        "title": "About Time",
+        "movie_id": "122906",
+        "cast": "['Domhnall Gleeson', 'Rachel McAdams', 'Bill Nighy']",
+        "crew": "['Richard Curtis']"
+    },
+    {
+        "title": "Ace Ventura: Pet Detective",
+        "movie_id": "3049",
+        "cast": "['Jim Carrey', 'Sean Young', 'Courteney Cox']",
+        "crew": "['Tom Shadyac']"
+    },
+    {
+        "title": "Act of Valor",
+        "movie_id": "75674",
+        "cast": "['Roselyn S\u00e1nchez', 'Emilio Rivera', 'Nestor Serrano']",
+        "crew": "['Mike McCoy']"
+    },
+    {
+        "title": "Adaptation.",
+        "movie_id": "2757",
+        "cast": "['Nicolas Cage', 'Meryl Streep', 'Chris Cooper']",
+        "crew": "['Spike Jonze']"
+    },
+    {
+        "title": "Admission",
+        "movie_id": "144340",
+        "cast": "['Tina Fey', 'Paul Rudd', 'Michael Sheen']",
+        "crew": "['Paul Weitz']"
+    },
+    {
+        "title": "Aliens",
+        "movie_id": "679",
+        "cast": "['Sigourney Weaver', 'Michael Biehn', 'James Remar']",
+        "crew": "['James Cameron']"
+    },
+    {
+        "title": "All About Steve",
+        "movie_id": "23706",
+        "cast": "['Sandra Bullock', 'Thomas Haden Church', 'Bradley Cooper']",
+        "crew": "['Phil Traill']"
+    },
+    {
+        "title": "All About the Benjamins",
+        "movie_id": "13950",
+        "cast": "['Ice Cube', 'Mike Epps', 'Tommy Flanagan']",
+        "crew": "['Kevin Bray']"
+    },
+    {
+        "title": "All Good Things",
+        "movie_id": "46503",
+        "cast": "['Kirsten Dunst', 'Ryan Gosling', 'Kristen Wiig']",
+        "crew": "['Andrew Jarecki']"
+    },
+    {
+        "title": "All The Queen's Men",
+        "movie_id": "31668",
+        "cast": "['Matt LeBlanc', 'Eddie Izzard', 'James Cosmo']",
+        "crew": "['Stefan Ruzowitzky']"
+    },
+    {
+        "title": "Alone in the Dark",
+        "movie_id": "12142",
+        "cast": "['Christian Slater', 'Tara Reid', 'Stephen Dorff']",
+        "crew": "['Uwe Boll']"
+    },
+    {
+        "title": "Alpha and Omega",
+        "movie_id": "12819",
+        "cast": "['Hayden Panettiere', 'Justin Long', 'Dennis Hopper']",
+        "crew": "['Ben Gluck']"
+    },
+    {
+        "title": "Amadeus",
+        "movie_id": "279",
+        "cast": "['F. Murray Abraham', 'Tom Hulce', 'Elizabeth Berridge']",
+        "crew": "['Milo\u0161 Forman']"
+    },
+    {
+        "title": "Amen.",
+        "movie_id": "9045",
+        "cast": "['Ulrich Tukur', 'Mathieu Kassovitz', 'Ulrich M\u00fche']",
+        "crew": "['Costa-Gavras']"
+    },
+    {
+        "title": "American Beauty",
+        "movie_id": "14",
+        "cast": "['Kevin Spacey', 'Annette Bening', 'Thora Birch']",
+        "crew": "['Sam Mendes']"
+    },
+    {
+        "title": "American Dreamz",
+        "movie_id": "9310",
+        "cast": "['Hugh Grant', 'Dennis Quaid', 'Mandy Moore']",
+        "crew": "['Paul Weitz']"
+    },
+    {
+        "title": "American Pie",
+        "movie_id": "2105",
+        "cast": "['Jason Biggs', 'Chris Klein', 'Thomas Ian Nicholas']",
+        "crew": "['Chris Weitz']"
+    },
+    {
+        "title": "An American Carol",
+        "movie_id": "13948",
+        "cast": "['Kevin Farley', 'Kelsey Grammer', 'Leslie Nielsen']",
+        "crew": "['David Zucker']"
+    },
+    {
+        "title": "An American Haunting",
+        "movie_id": "10008",
+        "cast": "['Donald Sutherland', 'Sissy Spacek', \"James D'Arcy\"]",
+        "crew": "['Courtney Solomon']"
+    },
+    {
+        "title": "An Ideal Husband",
+        "movie_id": "24137",
+        "cast": "['Cate Blanchett', 'Minnie Driver', 'Rupert Everett']",
+        "crew": "['Oliver Parker']"
+    },
+    {
+        "title": "And So It Goes",
+        "movie_id": "253235",
+        "cast": "['Michael Douglas', 'Diane Keaton', 'Sterling Jerins']",
+        "crew": "['Rob Reiner']"
+    },
+    {
+        "title": "Antwone Fisher",
+        "movie_id": "13435",
+        "cast": "['Derek Luke', 'Malcolm David Kelley', 'Cory Hodges']",
+        "crew": "['Denzel Washington']"
+    },
+    {
+        "title": "Anything Else",
+        "movie_id": "10739",
+        "cast": "['Woody Allen', 'Jason Biggs', 'Christina Ricci']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Anywhere But Here",
+        "movie_id": "21349",
+        "cast": "['Susan Sarandon', 'Natalie Portman', 'Hart Bochner']",
+        "crew": "['Wayne Wang']"
+    },
+    {
+        "title": "Appaloosa",
+        "movie_id": "12690",
+        "cast": "['Viggo Mortensen', 'Ed Harris', 'Ren\u00e9e Zellweger']",
+        "crew": "['Ed Harris']"
+    },
+    {
+        "title": "Aquamarine",
+        "movie_id": "14191",
+        "cast": "['Emma Roberts', \"Joanna 'JoJo' Levesque\", 'Sara Paxton']",
+        "crew": "['Elizabeth Allen Rosenbaum']"
+    },
+    {
+        "title": "Ararat",
+        "movie_id": "16351",
+        "cast": "['Simon Abkarian', 'Charles Aznavour', 'Christopher Plummer']",
+        "crew": "['Atom Egoyan']"
+    },
+    {
+        "title": "Arbitrage",
+        "movie_id": "60599",
+        "cast": "['Richard Gere', 'Susan Sarandon', 'Tim Roth']",
+        "crew": "['Nicholas Jarecki']"
+    },
+    {
+        "title": "Are We There Yet?",
+        "movie_id": "11637",
+        "cast": "['Ice Cube', 'Nia Long', 'Aleisha Allen']",
+        "crew": "['Brian Levant']"
+    },
+    {
+        "title": "Arlington Road",
+        "movie_id": "1073",
+        "cast": "['Jeff Bridges', 'Tim Robbins', 'Joan Cusack']",
+        "crew": "['Mark Pellington']"
+    },
+    {
+        "title": "Armored",
+        "movie_id": "4597",
+        "cast": "['Columbus Short', 'Laurence Fishburne', 'Skeet Ulrich']",
+        "crew": "['Nimr\u00f3d Antal']"
+    },
+    {
+        "title": "Army of Darkness",
+        "movie_id": "766",
+        "cast": "['Bruce Campbell', 'Embeth Davidtz', 'Marcus Gilbert']",
+        "crew": "['Sam Raimi']"
+    },
+    {
+        "title": "Arn: The Knight Templar",
+        "movie_id": "13491",
+        "cast": "['Joakim N\u00e4tterqvist', 'Sofia Helin', 'Stellan Skarsg\u00e5rd']",
+        "crew": "['Peter Flinth']"
+    },
+    {
+        "title": "Attack the Block",
+        "movie_id": "59678",
+        "cast": "['Nick Frost', 'Jodie Whittaker', 'John Boyega']",
+        "crew": "['Joe Cornish']"
+    },
+    {
+        "title": "Austin Powers: International Man of Mystery",
+        "movie_id": "816",
+        "cast": "['Mike Myers', 'Elizabeth Hurley', 'Michael York']",
+        "crew": "['Jay Roach']"
+    },
+    {
+        "title": "Automata",
+        "movie_id": "262543",
+        "cast": "['Antonio Banderas', 'Birgitte Hjort S\u00f8rensen', 'Dylan McDermott']",
+        "crew": "['Gabe Ib\u00e1\u00f1ez']"
+    },
+    {
+        "title": "Away We Go",
+        "movie_id": "19255",
+        "cast": "['John Krasinski', 'Maya Rudolph', 'Carmen Ejogo']",
+        "crew": "['Sam Mendes']"
+    },
+    {
+        "title": "Babel",
+        "movie_id": "1164",
+        "cast": "['Brad Pitt', 'Cate Blanchett', 'Gael Garc\u00eda Bernal']",
+        "crew": "['Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu']"
+    },
+    {
+        "title": "Baby Boy",
+        "movie_id": "16161",
+        "cast": "['Tyrese Gibson', 'Taraji P. Henson', 'Omar Gooding']",
+        "crew": "['John Singleton']"
+    },
+    {
+        "title": "Baby Geniuses",
+        "movie_id": "22345",
+        "cast": "['Kathleen Turner', 'Christopher Lloyd', 'Kim Cattrall']",
+        "crew": "['Bob Clark']"
+    },
+    {
+        "title": "Back to the Future",
+        "movie_id": "105",
+        "cast": "['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson']",
+        "crew": "['Robert Zemeckis']"
+    },
+    {
+        "title": "Bad Grandpa",
+        "movie_id": "208134",
+        "cast": "['Johnny Knoxville', 'Jackson Nicoll', 'Georgina Cates']",
+        "crew": "['Jeff Tremaine']"
+    },
+    {
+        "title": "Bad Moms",
+        "movie_id": "376659",
+        "cast": "['Mila Kunis', 'Kristen Bell', 'Kathryn Hahn']",
+        "crew": "['Jon Lucas']"
+    },
+    {
+        "title": "Bad Santa",
+        "movie_id": "10147",
+        "cast": "['Billy Bob Thornton', 'Tony Cox', 'Brett Kelly']",
+        "crew": "['Terry Zwigoff']"
+    },
+    {
+        "title": "Bad Teacher",
+        "movie_id": "52449",
+        "cast": "['Cameron Diaz', 'Jason Segel', 'Justin Timberlake']",
+        "crew": "['Jake Kasdan']"
+    },
+    {
+        "title": "Bandslam",
+        "movie_id": "23367",
+        "cast": "['Vanessa Hudgens', 'Aly Michalka', 'Gaelan Connell']",
+        "crew": "['Todd Graff']"
+    },
+    {
+        "title": "Barbershop",
+        "movie_id": "10611",
+        "cast": "['Ice Cube', 'Anthony Anderson', 'Cedric the Entertainer']",
+        "crew": "['Tim Story']"
+    },
+    {
+        "title": "Barbershop 2:  Back in Business",
+        "movie_id": "21301",
+        "cast": "['Ice Cube', 'Cedric the Entertainer', 'Sean Patrick Thomas']",
+        "crew": "['Kevin Rodney Sullivan']"
+    },
+    {
+        "title": "Barney's Great Adventure",
+        "movie_id": "17644",
+        "cast": "[]",
+        "crew": "['Steve Gomer']"
+    },
+    {
+        "title": "Barry Lyndon",
+        "movie_id": "3175",
+        "cast": "[\"Ryan O'Neal\", 'Marisa Berenson', 'Hardy Kr\u00fcger']",
+        "crew": "['Stanley Kubrick']"
+    },
+    {
+        "title": "Bathory: Countess of Blood",
+        "movie_id": "15208",
+        "cast": "['Anna Friel', 'Karel Roden', 'Hans Matheson']",
+        "crew": "['Juraj Jakubisko']"
+    },
+    {
+        "title": "Battle of the Year",
+        "movie_id": "109417",
+        "cast": "['Josh Holloway', 'Josh Peck', 'Chris Brown']",
+        "crew": "['Benson Lee']"
+    },
+    {
+        "title": "Be Kind Rewind",
+        "movie_id": "4953",
+        "cast": "['Jack Black', 'Yasiin Bey', 'Danny Glover']",
+        "crew": "['Michel Gondry']"
+    },
+    {
+        "title": "Beastly",
+        "movie_id": "38117",
+        "cast": "['Alex Pettyfer', 'Vanessa Hudgens', 'Mary-Kate Olsen']",
+        "crew": "['Daniel Barnz']"
+    },
+    {
+        "title": "Beavis and Butt-Head Do America",
+        "movie_id": "3179",
+        "cast": "['Mike Judge', 'Bruce Willis', 'Demi Moore']",
+        "crew": "['Mike Judge']"
+    },
+    {
+        "title": "Because of Winn-Dixie",
+        "movie_id": "17880",
+        "cast": "['Jeff Daniels', 'AnnaSophia Robb', 'Cicely Tyson']",
+        "crew": "['Wayne Wang']"
+    },
+    {
+        "title": "Becoming Jane",
+        "movie_id": "2977",
+        "cast": "['Anne Hathaway', 'James McAvoy', 'Julie Walters']",
+        "crew": "['Julian Jarrold']"
+    },
+    {
+        "title": "Beerfest",
+        "movie_id": "9988",
+        "cast": "['Erik Stolhanske', 'Jay Chandrasekhar', 'Steve Lemme']",
+        "crew": "['Jay Chandrasekhar']"
+    },
+    {
+        "title": "Beetlejuice",
+        "movie_id": "4011",
+        "cast": "['Geena Davis', 'Alec Baldwin', 'Winona Ryder']",
+        "crew": "['Tim Burton']"
+    },
+    {
+        "title": "Before I Go to Sleep",
+        "movie_id": "204922",
+        "cast": "['Nicole Kidman', 'Colin Firth', 'Mark Strong']",
+        "crew": "['Rowan Joffe']"
+    },
+    {
+        "title": "Being John Malkovich",
+        "movie_id": "492",
+        "cast": "['John Cusack', 'Cameron Diaz', 'Catherine Keener']",
+        "crew": "['Spike Jonze']"
+    },
+    {
+        "title": "Being Julia",
+        "movie_id": "18701",
+        "cast": "['Michael Gambon', 'Annette Bening', 'Leigh Lawson']",
+        "crew": "['Istv\u00e1n Szab\u00f3']"
+    },
+    {
+        "title": "Beverly Hills Chihuahua",
+        "movie_id": "14405",
+        "cast": "['Drew Barrymore', 'Piper Perabo', 'Andy Garc\u00eda']",
+        "crew": "['Raja Gosnell']"
+    },
+    {
+        "title": "Beverly Hills Cop",
+        "movie_id": "90",
+        "cast": "['Eddie Murphy', 'Judge Reinhold', 'John Ashton']",
+        "crew": "['Martin Brest']"
+    },
+    {
+        "title": "Beverly Hills Cop II",
+        "movie_id": "96",
+        "cast": "['Eddie Murphy', 'Judge Reinhold', 'John Ashton']",
+        "crew": "['Tony Scott']"
+    },
+    {
+        "title": "Big",
+        "movie_id": "2280",
+        "cast": "['Tom Hanks', 'Elizabeth Perkins', 'Robert Loggia']",
+        "crew": "['Penny Marshall']"
+    },
+    {
+        "title": "Big Fat Liar",
+        "movie_id": "11870",
+        "cast": "['Frankie Muniz', 'Paul Giamatti', 'Amanda Bynes']",
+        "crew": "['Shawn Levy']"
+    },
+    {
+        "title": "Bill & Ted's Bogus Journey",
+        "movie_id": "1649",
+        "cast": "['Keanu Reeves', 'Alex Winter', 'George Carlin']",
+        "crew": "['Peter Hewitt']"
+    },
+    {
+        "title": "Bill & Ted's Excellent Adventure",
+        "movie_id": "1648",
+        "cast": "['Keanu Reeves', 'Alex Winter', 'George Carlin']",
+        "crew": "['Stephen Herek']"
+    },
+    {
+        "title": "Birdman",
+        "movie_id": "194662",
+        "cast": "['Michael Keaton', 'Emma Stone', 'Zach Galifianakis']",
+        "crew": "['Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu']"
+    },
+    {
+        "title": "Birth",
+        "movie_id": "10740",
+        "cast": "['Nicole Kidman', 'Cameron Bright', 'Danny Huston']",
+        "crew": "['Jonathan Glazer']"
+    },
+    {
+        "title": "Birthday Girl",
+        "movie_id": "2084",
+        "cast": "['Nicole Kidman', 'Ben Chaplin', 'Vincent Cassel']",
+        "crew": "['Jez Butterworth']"
+    },
+    {
+        "title": "Black Book",
+        "movie_id": "9075",
+        "cast": "['Carice van Houten', 'Sebastian Koch', 'Thom Hoffman']",
+        "crew": "['Paul Verhoeven']"
+    },
+    {
+        "title": "Black Nativity",
+        "movie_id": "175541",
+        "cast": "['Forest Whitaker', 'Angela Bassett', 'Jennifer Hudson']",
+        "crew": "['Kasi Lemmons']"
+    },
+    {
+        "title": "Black Snake Moan",
+        "movie_id": "7874",
+        "cast": "['Samuel L. Jackson', 'Christina Ricci', 'Justin Timberlake']",
+        "crew": "['Craig Brewer']"
+    },
+    {
+        "title": "Black Swan",
+        "movie_id": "44214",
+        "cast": "['Natalie Portman', 'Mila Kunis', 'Vincent Cassel']",
+        "crew": "['Darren Aronofsky']"
+    },
+    {
+        "title": "Blood and Chocolate",
+        "movie_id": "10075",
+        "cast": "['Agnes Bruckner', 'Hugh Dancy', 'Katja Riemann']",
+        "crew": "['Katja von Garnier']"
+    },
+    {
+        "title": "Blow Out",
+        "movie_id": "11644",
+        "cast": "['John Travolta', 'Nancy Allen', 'John Lithgow']",
+        "crew": "['Brian De Palma']"
+    },
+    {
+        "title": "Blue Jasmine",
+        "movie_id": "160588",
+        "cast": "['Cate Blanchett', 'Alec Baldwin', 'Sally Hawkins']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Boat Trip",
+        "movie_id": "9557",
+        "cast": "['Cuba Gooding Jr.', 'Horatio Sanz', 'Roselyn S\u00e1nchez']",
+        "crew": "['Mort Nathan']"
+    },
+    {
+        "title": "Bobby",
+        "movie_id": "10741",
+        "cast": "['Anthony Hopkins', 'Heather Graham', 'Ashton Kutcher']",
+        "crew": "['Emilio Estevez']"
+    },
+    {
+        "title": "Bobby Jones: Stroke of Genius",
+        "movie_id": "24747",
+        "cast": "['Jim Caviezel', 'Claire Forlani', 'Jeremy Northam']",
+        "crew": "['Rowdy Herrington']"
+    },
+    {
+        "title": "Bodyguards and Assassins",
+        "movie_id": "30596",
+        "cast": "['Donnie Yen', 'Wang Xue-qi', 'Tony Leung Ka-Fai']",
+        "crew": "['Teddy Chan']"
+    },
+    {
+        "title": "Bon voyage",
+        "movie_id": "14652",
+        "cast": "['Gr\u00e9gori Derang\u00e8re', 'G\u00e9rard Depardieu', 'Isabelle Adjani']",
+        "crew": "['Jean-Paul Rappeneau']"
+    },
+    {
+        "title": "Boogeyman",
+        "movie_id": "8968",
+        "cast": "['Emily Deschanel', 'Barry Watson', 'Skye McCole Bartusiak']",
+        "crew": "['Stephen T. Kay']"
+    },
+    {
+        "title": "Boogie Nights",
+        "movie_id": "4995",
+        "cast": "['Mark Wahlberg', 'Burt Reynolds', 'John C. Reilly']",
+        "crew": "['Paul Thomas Anderson']"
+    },
+    {
+        "title": "Book of Shadows: Blair Witch 2",
+        "movie_id": "11531",
+        "cast": "['Kim Director', 'Jeffrey Donovan', 'Erica Leerhsen']",
+        "crew": "['Joe Berlinger']"
+    },
+    {
+        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "movie_id": "496",
+        "cast": "['Sacha Baron Cohen', 'Ken Davitian', 'Luenell']",
+        "crew": "['Larry Charles']"
+    },
+    {
+        "title": "Born on the Fourth of July",
+        "movie_id": "2604",
+        "cast": "['Tom Cruise', 'Raymond J. Barry', 'Caroline Kava']",
+        "crew": "['Oliver Stone']"
+    },
+    {
+        "title": "Boys and Girls",
+        "movie_id": "10571",
+        "cast": "['Freddie Prinze Jr.', 'Claire Forlani', 'Jason Biggs']",
+        "crew": "['Robert Iscove']"
+    },
+    {
+        "title": "Brazil",
+        "movie_id": "68",
+        "cast": "['Jonathan Pryce', 'Robert De Niro', 'Katherine Helmond']",
+        "crew": "['Terry Gilliam']"
+    },
+    {
+        "title": "Breakfast of Champions",
+        "movie_id": "12479",
+        "cast": "['Bruce Willis', 'Albert Finney', 'Nick Nolte']",
+        "crew": "['Alan Rudolph']"
+    },
+    {
+        "title": "Brighton Rock",
+        "movie_id": "62728",
+        "cast": "['Andy Serkis', 'Helen Mirren', 'John Hurt']",
+        "crew": "['Rowan Joffe']"
+    },
+    {
+        "title": "Bring It On",
+        "movie_id": "1588",
+        "cast": "['Kirsten Dunst', 'Jesse Bradford', 'Eliza Dushku']",
+        "crew": "['Peyton Reed']"
+    },
+    {
+        "title": "Bringing Down the House",
+        "movie_id": "10678",
+        "cast": "['Steve Martin', 'Queen Latifah', 'Eugene Levy']",
+        "crew": "['Adam Shankman']"
+    },
+    {
+        "title": "Brokeback Mountain",
+        "movie_id": "142",
+        "cast": "['Heath Ledger', 'Jake Gyllenhaal', 'Randy Quaid']",
+        "crew": "['Ang Lee']"
+    },
+    {
+        "title": "Broken Horses",
+        "movie_id": "319910",
+        "cast": "['Mar\u00eda Valverde', \"Vincent D'Onofrio\", 'Thomas Jane']",
+        "crew": "['Vidhu Vinod Chopra']"
+    },
+    {
+        "title": "Brooklyn",
+        "movie_id": "167073",
+        "cast": "['Saoirse Ronan', 'Domhnall Gleeson', 'Emory Cohen']",
+        "crew": "['John Crowley']"
+    },
+    {
+        "title": "Brooklyn's Finest",
+        "movie_id": "26390",
+        "cast": "['Richard Gere', 'Don Cheadle', 'Ethan Hawke']",
+        "crew": "['Antoine Fuqua']"
+    },
+    {
+        "title": "Brother",
+        "movie_id": "327",
+        "cast": "['Takeshi Kitano', 'Omar Epps', 'Claude Maki']",
+        "crew": "['Takeshi Kitano']"
+    },
+    {
+        "title": "Bubble Boy",
+        "movie_id": "9683",
+        "cast": "['Jake Gyllenhaal', 'Swoosie Kurtz', 'Marley Shelton']",
+        "crew": "['Blair Hayes']"
+    },
+    {
+        "title": "Buffalo Soldiers",
+        "movie_id": "9104",
+        "cast": "['Joaquin Phoenix', 'Ed Harris', 'Scott Glenn']",
+        "crew": "['Gregor Jordan']"
+    },
+    {
+        "title": "Bullets Over Broadway",
+        "movie_id": "11382",
+        "cast": "['John Cusack', 'Dianne Wiest', 'Jennifer Tilly']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Burnt",
+        "movie_id": "295964",
+        "cast": "['Bradley Cooper', 'Sienna Miller', 'Lily James']",
+        "crew": "['John Wells']"
+    },
+    {
+        "title": "Butterfly on a Wheel",
+        "movie_id": "13250",
+        "cast": "['Pierce Brosnan', 'Maria Bello', 'Gerard Butler']",
+        "crew": "['Mike Barker']"
+    },
+    {
+        "title": "By the Sea",
+        "movie_id": "314385",
+        "cast": "['Angelina Jolie', 'Brad Pitt', 'M\u00e9lanie Laurent']",
+        "crew": "['Angelina Jolie']"
+    },
+    {
+        "title": "CJ7",
+        "movie_id": "13688",
+        "cast": "['Stephen Chow', 'Xu Jiao', 'Kitty Zhang Yuqi']",
+        "crew": "['Stephen Chow']"
+    },
+    {
+        "title": "Cadillac Records",
+        "movie_id": "14299",
+        "cast": "['Adrien Brody', 'Jeffrey Wright', 'Beyonc\u00e9 Knowles']",
+        "crew": "['Darnell Martin']"
+    },
+    {
+        "title": "Can't Stop the Music",
+        "movie_id": "40932",
+        "cast": "['Alex Briley', 'David Hodo', 'Glenn Hughes']",
+        "crew": "['Nancy Walker']"
+    },
+    {
+        "title": "Capitalism: A Love Story",
+        "movie_id": "22074",
+        "cast": "['Michael Moore', 'Thora Birch', 'William Black']",
+        "crew": "['Michael Moore']"
+    },
+    {
+        "title": "Caravans",
+        "movie_id": "41317",
+        "cast": "['Anthony Quinn', \"Jennifer O'Neill\", 'Michael Sarrazin']",
+        "crew": "['James Fargo']"
+    },
+    {
+        "title": "Carlos",
+        "movie_id": "43434",
+        "cast": "['Edgar Ram\u00edrez', 'Alexander Scheer', 'Fadi Abi Samra']",
+        "crew": "['Olivier Assayas']"
+    },
+    {
+        "title": "Casino Jack",
+        "movie_id": "45324",
+        "cast": "['Kevin Spacey', 'Kelly Preston', 'Hannah Endicott-Douglas']",
+        "crew": "['George Hickenlooper']"
+    },
+    {
+        "title": "Cat People",
+        "movie_id": "6217",
+        "cast": "['Nastassja Kinski', 'Malcolm McDowell', 'John Heard']",
+        "crew": "['Paul Schrader']"
+    },
+    {
+        "title": "Catch That Kid",
+        "movie_id": "20483",
+        "cast": "['Kristen Stewart', 'Corbin Bleu', 'Max Thieriot']",
+        "crew": "['Bart Freundlich']"
+    },
+    {
+        "title": "Catch a Fire",
+        "movie_id": "1123",
+        "cast": "['Tim Robbins', 'Derek Luke', 'Bonnie Henna']",
+        "crew": "['Phillip Noyce']"
+    },
+    {
+        "title": "Catch-22",
+        "movie_id": "10364",
+        "cast": "['Alan Arkin', 'Martin Balsam', 'Richard Benjamin']",
+        "crew": "['Mike Nichols']"
+    },
+    {
+        "title": "Celebrity",
+        "movie_id": "9466",
+        "cast": "['Kenneth Branagh', 'Judy Davis', 'Joe Mantegna']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Center Stage",
+        "movie_id": "10560",
+        "cast": "['Amanda Schull', 'Zoe Saldana', 'Susan May Pratt']",
+        "crew": "['Nicholas Hytner']"
+    },
+    {
+        "title": "Centurion",
+        "movie_id": "23759",
+        "cast": "['Michael Fassbender', 'Olga Kurylenko', 'David Morrissey']",
+        "crew": "['Neil Marshall']"
+    },
+    {
+        "title": "Charlie Bartlett",
+        "movie_id": "8669",
+        "cast": "['Anton Yelchin', 'Robert Downey Jr.', 'Hope Davis']",
+        "crew": "['Jon Poll']"
+    },
+    {
+        "title": "Chasing Mavericks",
+        "movie_id": "82684",
+        "cast": "['Gerard Butler', 'Jonny Weston', 'Elisabeth Shue']",
+        "crew": "['Curtis Hanson']"
+    },
+    {
+        "title": "Cheri",
+        "movie_id": "22215",
+        "cast": "['Michelle Pfeiffer', 'Kathy Bates', 'Rupert Friend']",
+        "crew": "['Stephen Frears']"
+    },
+    {
+        "title": "Child's Play 2",
+        "movie_id": "11186",
+        "cast": "['Alex Vincent', 'Jenny Agutter', 'Gerrit Graham']",
+        "crew": "['John Lafia']"
+    },
+    {
+        "title": "Chloe",
+        "movie_id": "28211",
+        "cast": "['Julianne Moore', 'Liam Neeson', 'Amanda Seyfried']",
+        "crew": "['Atom Egoyan']"
+    },
+    {
+        "title": "Chronicle",
+        "movie_id": "76726",
+        "cast": "['Dane DeHaan', 'Alex Russell', 'Michael B. Jordan']",
+        "crew": "['Josh Trank']"
+    },
+    {
+        "title": "City of Ghosts",
+        "movie_id": "31932",
+        "cast": "['Matt Dillon', 'James Caan', 'Natascha McElhone']",
+        "crew": "['Matt Dillon']"
+    },
+    {
+        "title": "City of Life and Death",
+        "movie_id": "21345",
+        "cast": "['Liu Ye', 'Gao Yuanyuan', 'Hideo Nakaizumi']",
+        "crew": "['Lu Chuan']"
+    },
+    {
+        "title": "Close Encounters of the Third Kind",
+        "movie_id": "840",
+        "cast": "['Richard Dreyfuss', 'Fran\u00e7ois Truffaut', 'Teri Garr']",
+        "crew": "['Steven Spielberg']"
+    },
+    {
+        "title": "Clueless",
+        "movie_id": "9603",
+        "cast": "['Alicia Silverstone', 'Stacey Dash', 'Brittany Murphy']",
+        "crew": "['Amy Heckerling']"
+    },
+    {
+        "title": "Coal Miner's Daughter",
+        "movie_id": "16769",
+        "cast": "['Sissy Spacek', 'Tommy Lee Jones', 'Levon Helm']",
+        "crew": "['Michael Apted']"
+    },
+    {
+        "title": "Coco Before Chanel",
+        "movie_id": "11156",
+        "cast": "['Audrey Tautou', 'Beno\u00eet Poelvoorde', 'Alessandro Nivola']",
+        "crew": "['Anne Fontaine']"
+    },
+    {
+        "title": "Code Name: The Cleaner",
+        "movie_id": "14396",
+        "cast": "['Cedric the Entertainer', 'Lucy Liu', 'Nicollette Sheridan']",
+        "crew": "['Les Mayfield']"
+    },
+    {
+        "title": "Commando",
+        "movie_id": "10999",
+        "cast": "['Arnold Schwarzenegger', 'Rae Dawn Chong', 'Dan Hedaya']",
+        "crew": "['Mark L. Lester']"
+    },
+    {
+        "title": "Conan the Destroyer",
+        "movie_id": "9610",
+        "cast": "['Arnold Schwarzenegger', 'Grace Jones', 'Wilt Chamberlain']",
+        "crew": "['Richard Fleischer']"
+    },
+    {
+        "title": "Confessions of a Teenage Drama Queen",
+        "movie_id": "11132",
+        "cast": "['Lindsay Lohan', 'Adam Garcia', 'Glenne Headly']",
+        "crew": "['Sara Sugarman']"
+    },
+    {
+        "title": "Confidence",
+        "movie_id": "10743",
+        "cast": "['Edward Burns', 'Rachel Weisz', 'Morris Chestnut']",
+        "crew": "['James Foley']"
+    },
+    {
+        "title": "Connie and Carla",
+        "movie_id": "15673",
+        "cast": "['Nia Vardalos', 'Toni Collette', 'David Duchovny']",
+        "crew": "['Michael Lembeck']"
+    },
+    {
+        "title": "Cool Runnings",
+        "movie_id": "864",
+        "cast": "['Leon Robinson', 'Doug E. Doug', 'Rawle D. Lewis']",
+        "crew": "['Jon Turteltaub']"
+    },
+    {
+        "title": "Cop Land",
+        "movie_id": "2142",
+        "cast": "['Sylvester Stallone', 'Harvey Keitel', 'Ray Liotta']",
+        "crew": "['James Mangold']"
+    },
+    {
+        "title": "Copycat",
+        "movie_id": "1710",
+        "cast": "['Sigourney Weaver', 'Holly Hunter', 'Will Patton']",
+        "crew": "['Jon Amiel']"
+    },
+    {
+        "title": "Copying Beethoven",
+        "movie_id": "1590",
+        "cast": "['Ed Harris', 'Diane Kruger', 'Matthew Goode']",
+        "crew": "['Agnieszka Holland']"
+    },
+    {
+        "title": "Corky Romano",
+        "movie_id": "17708",
+        "cast": "['Chris Kattan', 'Vinessa Shaw', 'Peter Falk']",
+        "crew": "['Rob Pritts']"
+    },
+    {
+        "title": "Country Strong",
+        "movie_id": "45272",
+        "cast": "['Gwyneth Paltrow', 'Garrett Hedlund', 'Tim McGraw']",
+        "crew": "['Shana Feste']"
+    },
+    {
+        "title": "Crank",
+        "movie_id": "1948",
+        "cast": "['Jason Statham', 'Amy Smart', 'Jose Pablo Cantillo']",
+        "crew": "['Brian Taylor']"
+    },
+    {
+        "title": "Crank: High Voltage",
+        "movie_id": "15092",
+        "cast": "['Jason Statham', 'Amy Smart', 'Dwight Yoakam']",
+        "crew": "['Brian Taylor']"
+    },
+    {
+        "title": "Crazy in Alabama",
+        "movie_id": "31306",
+        "cast": "['Melanie Griffith', 'David Morse', 'Lucas Black']",
+        "crew": "['Antonio Banderas']"
+    },
+    {
+        "title": "Crazy/Beautiful",
+        "movie_id": "10691",
+        "cast": "['Kirsten Dunst', 'Jay Hernandez', 'Bruce Davison']",
+        "crew": "['John Stockwell']"
+    },
+    {
+        "title": "Critical Care",
+        "movie_id": "61337",
+        "cast": "['James Spader', 'Kyra Sedgwick', 'Helen Mirren']",
+        "crew": "['Sidney Lumet']"
+    },
+    {
+        "title": "Crocodile Dundee II",
+        "movie_id": "9396",
+        "cast": "['Paul Hogan', 'Linda Kozlowski', 'John Meillon']",
+        "crew": "['John Cornell']"
+    },
+    {
+        "title": "Crooklyn",
+        "movie_id": "34152",
+        "cast": "['Alfre Woodard', 'Delroy Lindo', 'David Patrick Kelly']",
+        "crew": "['Spike Lee']"
+    },
+    {
+        "title": "Crossroads",
+        "movie_id": "17130",
+        "cast": "['Britney Spears', 'Zoe Saldana', 'Taryn Manning']",
+        "crew": "['Tamra Davis']"
+    },
+    {
+        "title": "Crouching Tiger, Hidden Dragon",
+        "movie_id": "146",
+        "cast": "['Chow Yun-fat', 'Michelle Yeoh', 'Zhang Ziyi']",
+        "crew": "['Ang Lee']"
+    },
+    {
+        "title": "Cruel Intentions",
+        "movie_id": "796",
+        "cast": "['Sarah Michelle Gellar', 'Ryan Phillippe', 'Reese Witherspoon']",
+        "crew": "['Roger Kumble']"
+    },
+    {
+        "title": "Cypher",
+        "movie_id": "10133",
+        "cast": "['Jeremy Northam', 'Lucy Liu', 'Nigel Bennett']",
+        "crew": "['Vincenzo Natali']"
+    },
+    {
+        "title": "Damnation Alley",
+        "movie_id": "25763",
+        "cast": "['Jan-Michael Vincent', 'George Peppard', 'Dominique Sanda']",
+        "crew": "['Jack Smight']"
+    },
+    {
+        "title": "Dancer in the Dark",
+        "movie_id": "16",
+        "cast": "['Bj\u00f6rk', 'Catherine Deneuve', 'David Morse']",
+        "crew": "['Lars von Trier']"
+    },
+    {
+        "title": "Dances with Wolves",
+        "movie_id": "581",
+        "cast": "['Kevin Costner', 'Mary McDonnell', 'Graham Greene']",
+        "crew": "['Kevin Costner']"
+    },
+    {
+        "title": "Dancin' It's On",
+        "movie_id": "357837",
+        "cast": "['Witney Carson', 'Chehon Wespi-Tschopp', 'Gary Daniels']",
+        "crew": "['David Winters']"
+    },
+    {
+        "title": "Dark Blue",
+        "movie_id": "4911",
+        "cast": "['Kurt Russell', 'Scott Speedman', 'Michael Michele']",
+        "crew": "['Ron Shelton']"
+    },
+    {
+        "title": "Darkness",
+        "movie_id": "11056",
+        "cast": "['Anna Paquin', 'Lena Olin', 'Iain Glen']",
+        "crew": "['Jaume Balaguer\u00f3']"
+    },
+    {
+        "title": "Darling Companion",
+        "movie_id": "89325",
+        "cast": "['Diane Keaton', 'Kevin Kline', 'Sam Shepard']",
+        "crew": "['Lawrence Kasdan']"
+    },
+    {
+        "title": "Darling Lili",
+        "movie_id": "42586",
+        "cast": "['Julie Andrews', 'Rock Hudson', 'Jeremy Kemp']",
+        "crew": "['Blake Edwards']"
+    },
+    {
+        "title": "Das Boot",
+        "movie_id": "387",
+        "cast": "['J\u00fcrgen Prochnow', 'Herbert Gr\u00f6nemeyer', 'Klaus Wennemann']",
+        "crew": "['Wolfgang Petersen']"
+    },
+    {
+        "title": "Date Movie",
+        "movie_id": "10073",
+        "cast": "['Alyson Hannigan', 'Adam Campbell', 'Sophie Monk']",
+        "crew": "['Jason Friedberg']"
+    },
+    {
+        "title": "Day of the Dead",
+        "movie_id": "8408",
+        "cast": "['Lori Cardille', 'Terry Alexander', 'Joseph Pilato']",
+        "crew": "['George A. Romero']"
+    },
+    {
+        "title": "Daybreakers",
+        "movie_id": "19901",
+        "cast": "['Ethan Hawke', 'Sam Neill', 'Willem Dafoe']",
+        "crew": "['Michael Spierig']"
+    },
+    {
+        "title": "De-Lovely",
+        "movie_id": "15237",
+        "cast": "['Kevin Kline', 'Ashley Judd', 'Jonathan Pryce']",
+        "crew": "['Irwin Winkler']"
+    },
+    {
+        "title": "Dead Man Walking",
+        "movie_id": "687",
+        "cast": "['Susan Sarandon', 'Sean Penn', 'Robert Prosky']",
+        "crew": "['Tim Robbins']"
+    },
+    {
+        "title": "Dead Man on Campus",
+        "movie_id": "14557",
+        "cast": "['Tom Everett Scott', 'Mark-Paul Gosselaar', 'Poppy Montgomery']",
+        "crew": "['Alan Cohn']"
+    },
+    {
+        "title": "Dead Poets Society",
+        "movie_id": "207",
+        "cast": "['Robin Williams', 'Ethan Hawke', 'Robert Sean Leonard']",
+        "crew": "['Peter Weir']"
+    },
+    {
+        "title": "Death Sentence",
+        "movie_id": "11835",
+        "cast": "['Kevin Bacon', 'Garrett Hedlund', 'Kelly Preston']",
+        "crew": "['James Wan']"
+    },
+    {
+        "title": "Death at a Funeral",
+        "movie_id": "2196",
+        "cast": "['Matthew Macfadyen', 'Keeley Hawes', 'Andy Nyman']",
+        "crew": "['Frank Oz']"
+    },
+    {
+        "title": "Deconstructing Harry",
+        "movie_id": "2639",
+        "cast": "['Woody Allen', 'Kirstie Alley', 'Billy Crystal']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Def Jam's How to Be a Player",
+        "movie_id": "28353",
+        "cast": "['Bill Bellamy', 'Lark Voorhies', 'Bernie Mac']",
+        "crew": "['Lionel C. Martin']"
+    },
+    {
+        "title": "Delivery Man",
+        "movie_id": "146239",
+        "cast": "['Vince Vaughn', 'Cobie Smulders', 'Chris Pratt']",
+        "crew": "['Ken Scott']"
+    },
+    {
+        "title": "Derailed",
+        "movie_id": "8999",
+        "cast": "['Clive Owen', 'Jennifer Aniston', 'Vincent Cassel']",
+        "crew": "['Mikael H\u00e5fstr\u00f6m']"
+    },
+    {
+        "title": "Detroit Rock City",
+        "movie_id": "9781",
+        "cast": "['Giuseppe Andrews', 'James DeBello', 'Edward Furlong']",
+        "crew": "['Adam Rifkin']"
+    },
+    {
+        "title": "Deuce Bigalow: European Gigolo",
+        "movie_id": "11453",
+        "cast": "['Rob Schneider', 'Eddie Griffin', 'Jeroen Krabb\u00e9']",
+        "crew": "['Mike Bigelow']"
+    },
+    {
+        "title": "Deuce Bigalow: Male Gigolo",
+        "movie_id": "10402",
+        "cast": "['Rob Schneider', 'William Forsythe', 'Eddie Griffin']",
+        "crew": "['Mike Mitchell']"
+    },
+    {
+        "title": "Devil",
+        "movie_id": "44040",
+        "cast": "['Chris Messina', 'Jacob Vargas', 'Bojana Novakovi\u0107']",
+        "crew": "['John Erick Dowdle']"
+    },
+    {
+        "title": "Diary of a Wimpy Kid",
+        "movie_id": "33217",
+        "cast": "['Zachary Gordon', 'Robert Capron', 'Rachael Harris']",
+        "crew": "['Thor Freudenthal']"
+    },
+    {
+        "title": "Diary of a Wimpy Kid: Dog Days",
+        "movie_id": "82650",
+        "cast": "['Zachary Gordon', 'Robert Capron', 'Devon Bostick']",
+        "crew": "['David Bowers']"
+    },
+    {
+        "title": "Diary of a Wimpy Kid: Rodrick Rules",
+        "movie_id": "60307",
+        "cast": "['Zachary Gordon', 'Devon Bostick', 'Rachael Harris']",
+        "crew": "['David Bowers']"
+    },
+    {
+        "title": "Dick",
+        "movie_id": "16406",
+        "cast": "['Kirsten Dunst', 'Michelle Williams', 'Will Ferrell']",
+        "crew": "['Andrew Fleming']"
+    },
+    {
+        "title": "Dickie Roberts: Former Child Star",
+        "movie_id": "13778",
+        "cast": "['David Spade', 'Mary McCormack', 'Craig Bierko']",
+        "crew": "['Sam Weisman']"
+    },
+    {
+        "title": "Dirty Grandpa",
+        "movie_id": "291870",
+        "cast": "['Zac Efron', 'Robert De Niro', 'Julianne Hough']",
+        "crew": "['Dan Mazer']"
+    },
+    {
+        "title": "Dirty Work",
+        "movie_id": "14577",
+        "cast": "['Norm Macdonald', 'Artie Lange', 'Jack Warden']",
+        "crew": "['Bob Saget']"
+    },
+    {
+        "title": "Disaster Movie",
+        "movie_id": "13805",
+        "cast": "['Matt Lanter', 'Vanessa Lachey', 'Nicole Ari Parker']",
+        "crew": "['Jason Friedberg']"
+    },
+    {
+        "title": "District B13",
+        "movie_id": "10045",
+        "cast": "['David Belle', 'Cyril Raffaelli', \"Tony D'Amario\"]",
+        "crew": "['Pierre Morel']"
+    },
+    {
+        "title": "Disturbing Behavior",
+        "movie_id": "9424",
+        "cast": "['James Marsden', 'Katie Holmes', 'Nick Stahl']",
+        "crew": "['David Nutter']"
+    },
+    {
+        "title": "Doctor Zhivago",
+        "movie_id": "907",
+        "cast": "['Omar Sharif', 'Julie Christie', 'Geraldine Chaplin']",
+        "crew": "['David Lean']"
+    },
+    {
+        "title": "Doogal",
+        "movie_id": "24432",
+        "cast": "['Daniel Tay', 'Jimmy Fallon', 'Jon Stewart']",
+        "crew": "['Frank Passingham']"
+    },
+    {
+        "title": "Double Impact",
+        "movie_id": "9594",
+        "cast": "['Jean-Claude Van Damme', 'Geoffrey Lewis', 'Alonna Shaw']",
+        "crew": "['Sheldon Lettich']"
+    },
+    {
+        "title": "Doubt",
+        "movie_id": "14359",
+        "cast": "['Meryl Streep', 'Philip Seymour Hoffman', 'Amy Adams']",
+        "crew": "['John Patrick Shanley']"
+    },
+    {
+        "title": "Downfall",
+        "movie_id": "613",
+        "cast": "['Bruno Ganz', 'Alexandra Maria Lara', 'Corinna Harfouch']",
+        "crew": "['Oliver Hirschbiegel']"
+    },
+    {
+        "title": "Dragon Hunters",
+        "movie_id": "10800",
+        "cast": "['Vincent Lindon', 'Patrick Timsit', 'Philippe Nahon']",
+        "crew": "['Guillaume Ivernel']"
+    },
+    {
+        "title": "Dragonslayer",
+        "movie_id": "848",
+        "cast": "['Peter MacNicol', 'Caitlin Clarke', 'Ralph Richardson']",
+        "crew": "['Matthew Robbins']"
+    },
+    {
+        "title": "Drive",
+        "movie_id": "64690",
+        "cast": "['Ryan Gosling', 'Carey Mulligan', 'Bryan Cranston']",
+        "crew": "['Nicolas Winding Refn']"
+    },
+    {
+        "title": "Drive Hard",
+        "movie_id": "256092",
+        "cast": "['Thomas Jane', 'John Cusack', 'Zoe Ventoura']",
+        "crew": "['Brian Trenchard-Smith']"
+    },
+    {
+        "title": "Drowning Mona",
+        "movie_id": "25166",
+        "cast": "['Danny DeVito', 'Bette Midler', 'Neve Campbell']",
+        "crew": "['Nick Gomez']"
+    },
+    {
+        "title": "Drumline",
+        "movie_id": "13497",
+        "cast": "['Nick Cannon', 'Zoe Saldana', 'Orlando Jones']",
+        "crew": "['Charles Stone III']"
+    },
+    {
+        "title": "Dude, Where\u2019s My Car?",
+        "movie_id": "8859",
+        "cast": "['Ashton Kutcher', 'Seann William Scott', 'Kristy Swanson']",
+        "crew": "['Danny Leiner']"
+    },
+    {
+        "title": "Dudley Do-Right",
+        "movie_id": "17709",
+        "cast": "['Brendan Fraser', 'Sarah Jessica Parker', 'Alfred Molina']",
+        "crew": "['Hugh Wilson']"
+    },
+    {
+        "title": "Duets",
+        "movie_id": "18074",
+        "cast": "['Gwyneth Paltrow', 'Scott Speedman', 'Maria Bello']",
+        "crew": "['Bruce Paltrow']"
+    },
+    {
+        "title": "Duma",
+        "movie_id": "15907",
+        "cast": "['Alex Michaeletos', 'Campbell Scott', 'Mary Makhatho']",
+        "crew": "['Carroll Ballard']"
+    },
+    {
+        "title": "Dumb and Dumber",
+        "movie_id": "8467",
+        "cast": "['Jim Carrey', 'Jeff Daniels', 'Lauren Holly']",
+        "crew": "['Bobby Farrelly']"
+    },
+    {
+        "title": "Dungeons & Dragons: Wrath of the Dragon God",
+        "movie_id": "9288",
+        "cast": "['Bruce Payne', 'Mark Dymond', 'Clemency Burton-Hill']",
+        "crew": "['Gerry Lively']"
+    },
+    {
+        "title": "Dwegons",
+        "movie_id": "239897",
+        "cast": "['Melissa Leo', 'Maggie Wheeler', 'Joey D. Vieira']",
+        "crew": "['Tom Walsh']"
+    },
+    {
+        "title": "Dylan Dog: Dead of Night",
+        "movie_id": "43935",
+        "cast": "['Brandon Routh', 'Peter Stormare', 'Sam Huntington']",
+        "crew": "['Kevin Munroe']"
+    },
+    {
+        "title": "E.T. the Extra-Terrestrial",
+        "movie_id": "601",
+        "cast": "['Henry Thomas', 'Drew Barrymore', 'Robert MacNaughton']",
+        "crew": "['Steven Spielberg']"
+    },
+    {
+        "title": "Earth to Echo",
+        "movie_id": "238603",
+        "cast": "['Teo Halm', 'Astro', 'Resse Hartwig']",
+        "crew": "['Dave Green']"
+    },
+    {
+        "title": "Easy Virtue",
+        "movie_id": "16899",
+        "cast": "['Jessica Biel', 'Ben Barnes', 'Kristin Scott Thomas']",
+        "crew": "['Stephan Elliott']"
+    },
+    {
+        "title": "Ed Wood",
+        "movie_id": "522",
+        "cast": "['Johnny Depp', 'Martin Landau', 'Sarah Jessica Parker']",
+        "crew": "['Tim Burton']"
+    },
+    {
+        "title": "Edward Scissorhands",
+        "movie_id": "162",
+        "cast": "['Johnny Depp', 'Winona Ryder', 'Dianne Wiest']",
+        "crew": "['Tim Burton']"
+    },
+    {
+        "title": "End of Watch",
+        "movie_id": "77016",
+        "cast": "['Jake Gyllenhaal', 'Michael Pe\u00f1a', 'Natalie Martinez']",
+        "crew": "['David Ayer']"
+    },
+    {
+        "title": "Endless Love",
+        "movie_id": "226857",
+        "cast": "['Alex Pettyfer', 'Gabriella Wilde', 'Robert Patrick']",
+        "crew": "['Shana Feste']"
+    },
+    {
+        "title": "Enter the Void",
+        "movie_id": "34647",
+        "cast": "['Nathaniel Brown', 'Paz de la Huerta', 'Cyril Roy']",
+        "crew": "['Gaspar No\u00e9']"
+    },
+    {
+        "title": "Envy",
+        "movie_id": "10710",
+        "cast": "['Ben Stiller', 'Jack Black', 'Rachel Weisz']",
+        "crew": "['Barry Levinson']"
+    },
+    {
+        "title": "Epic Movie",
+        "movie_id": "9760",
+        "cast": "['Kal Penn', 'Adam Campbell', 'Jennifer Coolidge']",
+        "crew": "['Jason Friedberg']"
+    },
+    {
+        "title": "Equilibrium",
+        "movie_id": "7299",
+        "cast": "['Christian Bale', 'Taye Diggs', 'Emily Watson']",
+        "crew": "['Kurt Wimmer']"
+    },
+    {
+        "title": "Ernest & Celestine",
+        "movie_id": "126319",
+        "cast": "['Anne-Marie Loop', 'Lambert Wilson', 'Pauline Brunner']",
+        "crew": "['St\u00e9phane Aubier']"
+    },
+    {
+        "title": "Escobar: Paradise Lost",
+        "movie_id": "255343",
+        "cast": "['Benicio del Toro', 'Josh Hutcherson', 'Brady Corbet']",
+        "crew": "['Andrea Di Stefano']"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "movie_id": "38",
+        "cast": "['Jim Carrey', 'Kate Winslet', 'Kirsten Dunst']",
+        "crew": "['Michel Gondry']"
+    },
+    {
+        "title": "Everybody's Fine",
+        "movie_id": "26171",
+        "cast": "['Robert De Niro', 'Drew Barrymore', 'Kate Beckinsale']",
+        "crew": "['Kirk Jones']"
+    },
+    {
+        "title": "Everyone Says I Love You",
+        "movie_id": "9716",
+        "cast": "['Drew Barrymore', 'Diva Gray', 'Natasha Lyonne']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Evil Dead",
+        "movie_id": "109428",
+        "cast": "['Jane Levy', 'Shiloh Fernandez', 'Lou Taylor Pucci']",
+        "crew": "['Fede Alvarez']"
+    },
+    {
+        "title": "Ex Machina",
+        "movie_id": "264660",
+        "cast": "['Domhnall Gleeson', 'Alicia Vikander', 'Oscar Isaac']",
+        "crew": "['Alex Garland']"
+    },
+    {
+        "title": "Excessive Force",
+        "movie_id": "24227",
+        "cast": "['Thomas Ian Griffith', 'Lance Henriksen', 'James Earl Jones']",
+        "crew": "['Jon Hess']"
+    },
+    {
+        "title": "Exorcist II: The Heretic",
+        "movie_id": "11586",
+        "cast": "['Linda Blair', 'Richard Burton', 'Louise Fletcher']",
+        "crew": "['John Boorman']"
+    },
+    {
+        "title": "Eye for an Eye",
+        "movie_id": "17182",
+        "cast": "['Sally Field', 'Kiefer Sutherland', 'Ed Harris']",
+        "crew": "['John Schlesinger']"
+    },
+    {
+        "title": "Eye of the Beholder",
+        "movie_id": "18681",
+        "cast": "['Ewan McGregor', 'Ashley Judd', 'Patrick Bergin']",
+        "crew": "['Stephan Elliott']"
+    },
+    {
+        "title": "F.I.S.T.",
+        "movie_id": "28932",
+        "cast": "['Sylvester Stallone', 'Rod Steiger', 'Peter Boyle']",
+        "crew": "['Norman Jewison']"
+    },
+    {
+        "title": "Faithful",
+        "movie_id": "47502",
+        "cast": "['Cher', 'Chazz Palminteri', \"Ryan O'Neal\"]",
+        "crew": "['Paul Mazursky']"
+    },
+    {
+        "title": "Fame",
+        "movie_id": "28665",
+        "cast": "['Kay Panabaker', 'Naturi Naughton', 'Kherington Payne']",
+        "crew": "['Kevin Tancharoen']"
+    },
+    {
+        "title": "Far from Heaven",
+        "movie_id": "10712",
+        "cast": "['Julianne Moore', 'Dennis Quaid', 'Dennis Haysbert']",
+        "crew": "['Todd Haynes']"
+    },
+    {
+        "title": "Fatal Attraction",
+        "movie_id": "10998",
+        "cast": "['Michael Douglas', 'Glenn Close', 'Anne Archer']",
+        "crew": "['Adrian Lyne']"
+    },
+    {
+        "title": "Fateless",
+        "movie_id": "41508",
+        "cast": "['Marcell Nagy', 'B\u00e9la D\u00f3ra', 'B\u00e1lint P\u00e9ntek']",
+        "crew": "['Lajos Koltai']"
+    },
+    {
+        "title": "Fear and Loathing in Las Vegas",
+        "movie_id": "1878",
+        "cast": "['Johnny Depp', 'Benicio del Toro', 'Tobey Maguire']",
+        "crew": "['Terry Gilliam']"
+    },
+    {
+        "title": "Felicia's Journey",
+        "movie_id": "47692",
+        "cast": "['Bob Hoskins', 'Elaine Cassidy', 'Arsin\u00e9e Khanjian']",
+        "crew": "['Atom Egoyan']"
+    },
+    {
+        "title": "Fight Valley",
+        "movie_id": "385383",
+        "cast": "[\"Erin O'Brien\", 'Miesha Tate', 'Holly Holm']",
+        "crew": "['Rob Hawk']"
+    },
+    {
+        "title": "Find Me Guilty",
+        "movie_id": "9950",
+        "cast": "['Vin Diesel', 'Alex Rocco', 'Frank Pietrangolare']",
+        "crew": "['Sidney Lumet']"
+    },
+    {
+        "title": "Firefox",
+        "movie_id": "10724",
+        "cast": "['Clint Eastwood', 'Freddie Jones', 'David Huffman']",
+        "crew": "['Clint Eastwood']"
+    },
+    {
+        "title": "Firestarter",
+        "movie_id": "11495",
+        "cast": "['David Keith', 'Drew Barrymore', 'Freddie Jones']",
+        "crew": "['Mark L. Lester']"
+    },
+    {
+        "title": "Firestorm",
+        "movie_id": "244114",
+        "cast": "['Andy Lau', 'Gordon Lam Ka-Tung', 'Yao Chen']",
+        "crew": "['Alan Yuen']"
+    },
+    {
+        "title": "Flash of Genius",
+        "movie_id": "14914",
+        "cast": "['Aaron Abrams', 'Alan Alda', 'Lauren Graham']",
+        "crew": "['Marc Abraham']"
+    },
+    {
+        "title": "Flicka",
+        "movie_id": "14012",
+        "cast": "['Tim McGraw', 'Maria Bello', 'Armie Hammer']",
+        "crew": "['Michael Mayer']"
+    },
+    {
+        "title": "Flipped",
+        "movie_id": "43949",
+        "cast": "['Madeline Carroll', 'Callan McAuliffe', 'Rebecca De Mornay']",
+        "crew": "['Rob Reiner']"
+    },
+    {
+        "title": "For Colored Girls",
+        "movie_id": "44944",
+        "cast": "['Kimberly Elise', 'Janet Jackson', 'Loretta Devine']",
+        "crew": "['Tyler Perry']"
+    },
+    {
+        "title": "For Greater Glory - The True Story of Cristiada",
+        "movie_id": "96399",
+        "cast": "['Eva Longoria', 'Andy Garc\u00eda', 'Oscar Isaac']",
+        "crew": "['Dean Wright']"
+    },
+    {
+        "title": "For Your Consideration",
+        "movie_id": "14799",
+        "cast": "[\"Catherine O'Hara\", 'Harry Shearer', 'Parker Posey']",
+        "crew": "['Christopher Guest']"
+    },
+    {
+        "title": "Forsaken",
+        "movie_id": "354110",
+        "cast": "['Demi Moore', 'Kiefer Sutherland', 'Donald Sutherland']",
+        "crew": "['Jon Cassar']"
+    },
+    {
+        "title": "Fortress",
+        "movie_id": "12088",
+        "cast": "['Christopher Lambert', 'Kurtwood Smith', 'Loryn Locklin']",
+        "crew": "['Stuart Gordon']"
+    },
+    {
+        "title": "Frailty",
+        "movie_id": "12149",
+        "cast": "['Bill Paxton', 'Matthew McConaughey', 'Powers Boothe']",
+        "crew": "['Bill Paxton']"
+    },
+    {
+        "title": "Freddy Got Fingered",
+        "movie_id": "13166",
+        "cast": "['Tom Green', 'Rip Torn', 'Marisa Coughlan']",
+        "crew": "['Tom Green']"
+    },
+    {
+        "title": "Freedom",
+        "movie_id": "288980",
+        "cast": "['Cuba Gooding Jr.', 'William Sadler', 'Sharon Leal']",
+        "crew": "['Peter Cousens']"
+    },
+    {
+        "title": "Freedom Writers",
+        "movie_id": "1646",
+        "cast": "['Hilary Swank', 'Scott Glenn', 'Imelda Staunton']",
+        "crew": "['Richard LaGravenese']"
+    },
+    {
+        "title": "Frida",
+        "movie_id": "1360",
+        "cast": "['Salma Hayek', 'Alfred Molina', 'M\u00eda Maestro']",
+        "crew": "['Julie Taymor']"
+    },
+    {
+        "title": "Friday After Next",
+        "movie_id": "10426",
+        "cast": "['Ice Cube', 'Mike Epps', 'John Witherspoon']",
+        "crew": "['Marcus Raboy']"
+    },
+    {
+        "title": "From Dusk Till Dawn",
+        "movie_id": "755",
+        "cast": "['George Clooney', 'Quentin Tarantino', 'Harvey Keitel']",
+        "crew": "['Robert Rodriguez']"
+    },
+    {
+        "title": "From Justin to Kelly",
+        "movie_id": "31246",
+        "cast": "['Kelly Clarkson', 'Justin Guarini ', 'Brandon Henschel']",
+        "crew": "['Robert Iscove']"
+    },
+    {
+        "title": "Fun Size",
+        "movie_id": "82679",
+        "cast": "['Victoria Justice', 'Jackson Nicoll', 'Chelsea Handler']",
+        "crew": "['Josh Schwartz']"
+    },
+    {
+        "title": "Funny Games",
+        "movie_id": "8461",
+        "cast": "['Naomi Watts', 'Tim Roth', 'Michael Pitt']",
+        "crew": "['Michael Haneke']"
+    },
+    {
+        "title": "Fur: An Imaginary Portrait of Diane Arbus",
+        "movie_id": "18615",
+        "cast": "['Nicole Kidman', 'Robert Downey Jr.', 'Ty Burrell']",
+        "crew": "['Steven Shainberg']"
+    },
+    {
+        "title": "Gandhi",
+        "movie_id": "783",
+        "cast": "['Ben Kingsley', 'Candice Bergen', 'Edward Fox']",
+        "crew": "['Richard Attenborough']"
+    },
+    {
+        "title": "Georgia Rule",
+        "movie_id": "13159",
+        "cast": "['Jane Fonda', 'Lindsay Lohan', 'Felicity Huffman']",
+        "crew": "['Garry Marshall']"
+    },
+    {
+        "title": "Getaway",
+        "movie_id": "146227",
+        "cast": "['Ethan Hawke', 'Selena Gomez', 'Jon Voight']",
+        "crew": "['Courtney Solomon']"
+    },
+    {
+        "title": "Ghost",
+        "movie_id": "251",
+        "cast": "['Patrick Swayze', 'Demi Moore', 'Whoopi Goldberg']",
+        "crew": "['Jerry Zucker']"
+    },
+    {
+        "title": "Ghost Ship",
+        "movie_id": "9645",
+        "cast": "['Gabriel Byrne', 'Julianna Margulies', 'Desmond Harrington']",
+        "crew": "['Steve Beck']"
+    },
+    {
+        "title": "Ghost Town",
+        "movie_id": "12797",
+        "cast": "['Ricky Gervais', 'Greg Kinnear', 'T\u00e9a Leoni']",
+        "crew": "['David Koepp']"
+    },
+    {
+        "title": "Girl 6",
+        "movie_id": "61752",
+        "cast": "['Theresa Randle', 'Isaiah Washington', 'Spike Lee']",
+        "crew": "['Spike Lee']"
+    },
+    {
+        "title": "Girl with a Pearl Earring",
+        "movie_id": "3635",
+        "cast": "['Scarlett Johansson', 'Colin Firth', 'Cillian Murphy']",
+        "crew": "['Peter Webber']"
+    },
+    {
+        "title": "Glengarry Glen Ross",
+        "movie_id": "9504",
+        "cast": "['Al Pacino', 'Jack Lemmon', 'Alec Baldwin']",
+        "crew": "['James Foley']"
+    },
+    {
+        "title": "Good",
+        "movie_id": "12410",
+        "cast": "['Viggo Mortensen', 'Jason Isaacs', 'Mark Strong']",
+        "crew": "['Vicente Amorim']"
+    },
+    {
+        "title": "Good Boy!",
+        "movie_id": "21765",
+        "cast": "['Molly Shannon', 'Liam Aiken', 'Matthew Broderick']",
+        "crew": "['John Robert Hoffman']"
+    },
+    {
+        "title": "Good Deeds",
+        "movie_id": "62008",
+        "cast": "['Tyler Perry', 'Phylicia Rash\u0101d', 'Thandie Newton']",
+        "crew": "['Tyler Perry']"
+    },
+    {
+        "title": "Good Morning, Vietnam",
+        "movie_id": "801",
+        "cast": "['Robin Williams', 'Forest Whitaker', 'Tung Thanh Tran']",
+        "crew": "['Barry Levinson']"
+    },
+    {
+        "title": "Good Will Hunting",
+        "movie_id": "489",
+        "cast": "['Robin Williams', 'Matt Damon', 'Ben Affleck']",
+        "crew": "['Gus Van Sant']"
+    },
+    {
+        "title": "Gosford Park",
+        "movie_id": "5279",
+        "cast": "['Helen Mirren', 'Clive Owen', 'Maggie Smith']",
+        "crew": "['Robert Altman']"
+    },
+    {
+        "title": "Gossip",
+        "movie_id": "18041",
+        "cast": "['Joshua Jackson', 'James Marsden', 'Kate Hudson']",
+        "crew": "['Davis Guggenheim']"
+    },
+    {
+        "title": "Gremlins",
+        "movie_id": "927",
+        "cast": "['Zach Galligan', 'Phoebe Cates', 'Hoyt Axton']",
+        "crew": "['Joe Dante']"
+    },
+    {
+        "title": "Grosse Pointe Blank",
+        "movie_id": "9434",
+        "cast": "['John Cusack', 'Minnie Driver', 'Dan Aykroyd']",
+        "crew": "['George Armitage']"
+    },
+    {
+        "title": "Groundhog Day",
+        "movie_id": "137",
+        "cast": "['Bill Murray', 'Andie MacDowell', 'Chris Elliott']",
+        "crew": "['Harold Ramis']"
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "movie_id": "28178",
+        "cast": "['Richard Gere', 'Joan Allen', 'Jason Alexander']",
+        "crew": "['Lasse Hallstr\u00f6m']"
+    },
+    {
+        "title": "Hail, Caesar!",
+        "movie_id": "270487",
+        "cast": "['Josh Brolin', 'George Clooney', 'Alden Ehrenreich']",
+        "crew": "['Joel Coen']"
+    },
+    {
+        "title": "Halloween",
+        "movie_id": "948",
+        "cast": "['Donald Pleasence', 'Jamie Lee Curtis', 'P.J. Soles']",
+        "crew": "['John Carpenter']"
+    },
+    {
+        "title": "Halloween II",
+        "movie_id": "24150",
+        "cast": "['Scout Taylor-Compton', 'Sheri Moon Zombie', 'Tyler Mane']",
+        "crew": "['Rob Zombie']"
+    },
+    {
+        "title": "Halloween: Resurrection",
+        "movie_id": "11442",
+        "cast": "['Jamie Lee Curtis', 'Brad Loree', 'Busta Rhymes']",
+        "crew": "['Rick Rosenthal']"
+    },
+    {
+        "title": "Hamlet",
+        "movie_id": "10549",
+        "cast": "['Kenneth Branagh', 'Derek Jacobi', 'Julie Christie']",
+        "crew": "['Kenneth Branagh']"
+    },
+    {
+        "title": "Hands of Stone",
+        "movie_id": "184341",
+        "cast": "['Robert De Niro', 'Edgar Ram\u00edrez', 'Jurnee Smollett']",
+        "crew": "['Jonathan Jakubowicz']"
+    },
+    {
+        "title": "Happy Gilmore",
+        "movie_id": "9614",
+        "cast": "['Adam Sandler', 'Ben Stiller', 'Christopher McDonald']",
+        "crew": "['Dennis Dugan']"
+    },
+    {
+        "title": "Hardball",
+        "movie_id": "20857",
+        "cast": "['Keanu Reeves', 'Diane Lane', 'Michael B. Jordan']",
+        "crew": "['Brian Robbins']"
+    },
+    {
+        "title": "Harley Davidson and the Marlboro Man",
+        "movie_id": "2453",
+        "cast": "['Mickey Rourke', 'Don Johnson', 'Chelsea Field']",
+        "crew": "['Simon Wincer']"
+    },
+    {
+        "title": "Harold & Kumar Escape from Guantanamo Bay",
+        "movie_id": "13335",
+        "cast": "['John Cho', 'Kal Penn', 'Neil Patrick Harris']",
+        "crew": "['Jon Hurwitz']"
+    },
+    {
+        "title": "Harriet the Spy",
+        "movie_id": "38223",
+        "cast": "['Michelle Trachtenberg', \"Rosie O'Donnell\", 'J. Smith-Cameron']",
+        "crew": "['Bronwen Hughes']"
+    },
+    {
+        "title": "Haywire",
+        "movie_id": "70435",
+        "cast": "['Gina Carano', 'Ewan McGregor', 'Michael Fassbender']",
+        "crew": "['Steven Soderbergh']"
+    },
+    {
+        "title": "Head Over Heels",
+        "movie_id": "24940",
+        "cast": "['Monica Potter', 'Freddie Prinze Jr.', 'Shalom Harlow']",
+        "crew": "['Mark Waters']"
+    },
+    {
+        "title": "Heaven is for Real",
+        "movie_id": "236751",
+        "cast": "['Greg Kinnear', 'Kelly Reilly', 'Connor Corum']",
+        "crew": "['Randall Wallace']"
+    },
+    {
+        "title": "Here On Earth",
+        "movie_id": "13539",
+        "cast": "['Leelee Sobieski', 'Chris Klein', 'Josh Hartnett']",
+        "crew": "['Mark Piznarski']"
+    },
+    {
+        "title": "High Fidelity",
+        "movie_id": "243",
+        "cast": "['John Cusack', 'Iben Hjejle', 'Todd Louiso']",
+        "crew": "['Stephen Frears']"
+    },
+    {
+        "title": "High School Musical 3: Senior Year",
+        "movie_id": "11887",
+        "cast": "['Zac Efron', 'Vanessa Hudgens', 'Ashley Tisdale']",
+        "crew": "['Kenny Ortega']"
+    },
+    {
+        "title": "Highlander",
+        "movie_id": "8009",
+        "cast": "['Christopher Lambert', 'Roxanne Hart', 'Clancy Brown']",
+        "crew": "['Russell Mulcahy']"
+    },
+    {
+        "title": "Highlander: Endgame",
+        "movie_id": "12211",
+        "cast": "['Christopher Lambert', 'Bruce Payne', 'Adrian Paul']",
+        "crew": "['Douglas Aarniokoski']"
+    },
+    {
+        "title": "History of the World: Part I",
+        "movie_id": "10156",
+        "cast": "['Mel Brooks', 'Dom DeLuise', 'Madeline Kahn']",
+        "crew": "['Mel Brooks']"
+    },
+    {
+        "title": "Hit & Run",
+        "movie_id": "109513",
+        "cast": "['Kristen Bell', 'Dax Shepard', 'Tom Arnold']",
+        "crew": "['Dax Shepard']"
+    },
+    {
+        "title": "Hitman",
+        "movie_id": "1620",
+        "cast": "['Timothy Olyphant', 'Dougray Scott', 'Olga Kurylenko']",
+        "crew": "['Xavier Gens']"
+    },
+    {
+        "title": "Holes",
+        "movie_id": "8326",
+        "cast": "['Sigourney Weaver', 'Jon Voight', 'Tim Blake Nelson']",
+        "crew": "['Andrew Davis']"
+    },
+    {
+        "title": "Hollywood Ending",
+        "movie_id": "9689",
+        "cast": "['Woody Allen', 'George Hamilton', 'T\u00e9a Leoni']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Home Alone",
+        "movie_id": "771",
+        "cast": "['Macaulay Culkin', 'Joe Pesci', 'Daniel Stern']",
+        "crew": "['Chris Columbus']"
+    },
+    {
+        "title": "Home Alone 2: Lost in New York",
+        "movie_id": "772",
+        "cast": "['Macaulay Culkin', 'Joe Pesci', \"Catherine O'Hara\"]",
+        "crew": "['Chris Columbus']"
+    },
+    {
+        "title": "Home Fries",
+        "movie_id": "12257",
+        "cast": "['Drew Barrymore', \"Catherine O'Hara\", 'Luke Wilson']",
+        "crew": "['Dean Parisot']"
+    },
+    {
+        "title": "Home for the Holidays",
+        "movie_id": "9089",
+        "cast": "['Holly Hunter', 'Robert Downey Jr.', 'Anne Bancroft']",
+        "crew": "['Jodie Foster']"
+    },
+    {
+        "title": "Homefront",
+        "movie_id": "204082",
+        "cast": "['Jason Statham', 'James Franco', 'Izabela Vidovic']",
+        "crew": "['Gary Fleder']"
+    },
+    {
+        "title": "Honey",
+        "movie_id": "10028",
+        "cast": "['Jessica Alba', 'Mekhi Phifer', 'Joy Bryant']",
+        "crew": "['Bille Woodruff']"
+    },
+    {
+        "title": "Hoodwinked!",
+        "movie_id": "10982",
+        "cast": "['Anne Hathaway', 'Glenn Close', 'Jim Belushi']",
+        "crew": "['Cory Edwards']"
+    },
+    {
+        "title": "Hoot",
+        "movie_id": "18276",
+        "cast": "['Luke Wilson', 'Logan Lerman', 'Brie Larson']",
+        "crew": "['Wil Shriner']"
+    },
+    {
+        "title": "Hot Fuzz",
+        "movie_id": "4638",
+        "cast": "['Simon Pegg', 'Nick Frost', 'Jim Broadbent']",
+        "crew": "['Edgar Wright']"
+    },
+    {
+        "title": "Hot Tub Time Machine 2",
+        "movie_id": "243938",
+        "cast": "['Rob Corddry', 'Craig Robinson', 'Clark Duke']",
+        "crew": "['Steve Pink']"
+    },
+    {
+        "title": "Hotel Rwanda",
+        "movie_id": "205",
+        "cast": "['Don Cheadle', 'Sophie Okonedo', 'Nick Nolte']",
+        "crew": "['Terry George']"
+    },
+    {
+        "title": "House of Flying Daggers",
+        "movie_id": "9550",
+        "cast": "['Takeshi Kaneshiro', 'Andy Lau', 'Zhang Ziyi']",
+        "crew": "['Zhang Yimou']"
+    },
+    {
+        "title": "House of Sand and Fog",
+        "movie_id": "11093",
+        "cast": "['Jennifer Connelly', 'Ben Kingsley', 'Ron Eldard']",
+        "crew": "['Vadim Perelman']"
+    },
+    {
+        "title": "House on Haunted Hill",
+        "movie_id": "11377",
+        "cast": "['Geoffrey Rush', 'Famke Janssen', 'Taye Diggs']",
+        "crew": "['William Malone']"
+    },
+    {
+        "title": "Housefull",
+        "movie_id": "58051",
+        "cast": "['Akshay Kumar', 'Ritesh Deshmukh', 'Deepika Padukone']",
+        "crew": "['Sajid Khan']"
+    },
+    {
+        "title": "How High",
+        "movie_id": "8386",
+        "cast": "['Method Man', 'Redman', 'Obba Babatund\u00e9']",
+        "crew": "['Jesse Dylan']"
+    },
+    {
+        "title": "How She Move",
+        "movie_id": "16988",
+        "cast": "['Rutina Wesley', 'Dwain Murphy', 'Boyd Banks']",
+        "crew": "['Ian Iqbal Rashid']"
+    },
+    {
+        "title": "How Stella Got Her Groove Back",
+        "movie_id": "33644",
+        "cast": "['Angela Bassett', 'Taye Diggs', 'Whoopi Goldberg']",
+        "crew": "['Kevin Rodney Sullivan']"
+    },
+    {
+        "title": "How to Deal",
+        "movie_id": "17403",
+        "cast": "['Mandy Moore', 'Trent Ford', 'Allison Janney']",
+        "crew": "['Clare Kilner']"
+    },
+    {
+        "title": "I Am Sam",
+        "movie_id": "10950",
+        "cast": "['Sean Penn', 'Michelle Pfeiffer', 'Dianne Wiest']",
+        "crew": "['Jessie Nelson']"
+    },
+    {
+        "title": "I Am Wrath",
+        "movie_id": "332411",
+        "cast": "['John Travolta', 'Christopher Meloni', 'Rebecca De Mornay']",
+        "crew": "['Chuck Russell']"
+    },
+    {
+        "title": "I Can Do Bad All By Myself",
+        "movie_id": "26367",
+        "cast": "['Tyler Perry', 'Taraji P. Henson', 'Adam Rodr\u00edguez']",
+        "crew": "['Tyler Perry']"
+    },
+    {
+        "title": "I Come with the Rain",
+        "movie_id": "31166",
+        "cast": "['Josh Hartnett', 'Elias Koteas', 'Takuya Kimura']",
+        "crew": "['Tran Anh Hung']"
+    },
+    {
+        "title": "I Heart Huckabees",
+        "movie_id": "1599",
+        "cast": "['Jason Schwartzman', 'Dustin Hoffman', 'Lily Tomlin']",
+        "crew": "['David O. Russell']"
+    },
+    {
+        "title": "I Know What You Did Last Summer",
+        "movie_id": "3597",
+        "cast": "['Jennifer Love Hewitt', 'Sarah Michelle Gellar', 'Ryan Phillippe']",
+        "crew": "['Jim Gillespie']"
+    },
+    {
+        "title": "I Love You Phillip Morris",
+        "movie_id": "8952",
+        "cast": "['Jim Carrey', 'Ewan McGregor', 'Leslie Mann']",
+        "crew": "['Glenn Ficarra']"
+    },
+    {
+        "title": "I Love You, Beth Cooper",
+        "movie_id": "19840",
+        "cast": "['Hayden Panettiere', 'Paul Rust', 'Lauren London']",
+        "crew": "['Chris Columbus']"
+    },
+    {
+        "title": "I Think I Love My Wife",
+        "movie_id": "14434",
+        "cast": "['Chris Rock', 'Kerry Washington', 'Gina Torres']",
+        "crew": "['Chris Rock']"
+    },
+    {
+        "title": "I'm Not There.",
+        "movie_id": "3902",
+        "cast": "['Cate Blanchett', 'Heath Ledger', 'Julianne Moore']",
+        "crew": "['Todd Haynes']"
+    },
+    {
+        "title": "Idle Hands",
+        "movie_id": "6552",
+        "cast": "['Devon Sawa', 'Seth Green', 'Jessica Alba']",
+        "crew": "['Rodman Flender']"
+    },
+    {
+        "title": "Idlewild",
+        "movie_id": "13816",
+        "cast": "['Andr\u00e9 Benjamin', 'Paula Patton', 'Terrence Howard']",
+        "crew": "['Bryan Barber']"
+    },
+    {
+        "title": "If I Stay",
+        "movie_id": "249164",
+        "cast": "['Chlo\u00eb Grace Moretz', 'Jamie Blackley', 'Liana Liberato']",
+        "crew": "['R.J. Cutler']"
+    },
+    {
+        "title": "In Bruges",
+        "movie_id": "8321",
+        "cast": "['Colin Farrell', 'Brendan Gleeson', 'Ralph Fiennes']",
+        "crew": "['Martin McDonagh']"
+    },
+    {
+        "title": "In the Cut",
+        "movie_id": "10944",
+        "cast": "['Meg Ryan', 'Mark Ruffalo', 'Jennifer Jason Leigh']",
+        "crew": "['Jane Campion']"
+    },
+    {
+        "title": "In the Land of Blood and Honey",
+        "movie_id": "79777",
+        "cast": "['Zana Marjanovi\u0107', 'Goran Kosti\u0107', 'Branko \u0110uri\u0107']",
+        "crew": "['Angelina Jolie']"
+    },
+    {
+        "title": "In the Land of Women",
+        "movie_id": "13067",
+        "cast": "['Meg Ryan', 'Kristen Stewart', 'Adam Brody']",
+        "crew": "['Jon Kasdan']"
+    },
+    {
+        "title": "In the Valley of Elah",
+        "movie_id": "6973",
+        "cast": "['Tommy Lee Jones', 'Charlize Theron', 'Susan Sarandon']",
+        "crew": "['Paul Haggis']"
+    },
+    {
+        "title": "Indignation",
+        "movie_id": "340611",
+        "cast": "['Logan Lerman', 'Sarah Gadon', 'Tracy Letts']",
+        "crew": "['James Schamus']"
+    },
+    {
+        "title": "Infamous",
+        "movie_id": "9672",
+        "cast": "['Sigourney Weaver', 'Toby Jones', 'Gwyneth Paltrow']",
+        "crew": "['Douglas McGrath']"
+    },
+    {
+        "title": "Inherent Vice",
+        "movie_id": "171274",
+        "cast": "['Joaquin Phoenix', 'Josh Brolin', 'Owen Wilson']",
+        "crew": "['Paul Thomas Anderson']"
+    },
+    {
+        "title": "Inside Llewyn Davis",
+        "movie_id": "86829",
+        "cast": "['Oscar Isaac', 'Carey Mulligan', 'Justin Timberlake']",
+        "crew": "['Joel Coen']"
+    },
+    {
+        "title": "Into the Wild",
+        "movie_id": "5915",
+        "cast": "['Emile Hirsch', 'Marcia Gay Harden', 'William Hurt']",
+        "crew": "['Sean Penn']"
+    },
+    {
+        "title": "Invaders from Mars",
+        "movie_id": "31909",
+        "cast": "['Karen Black', 'Hunter Carson', 'Timothy Bottoms']",
+        "crew": "['Tobe Hooper']"
+    },
+    {
+        "title": "Jackass 3D",
+        "movie_id": "16290",
+        "cast": "['Johnny Knoxville', 'Bam Margera', 'Ryan Dunn']",
+        "crew": "['Jeff Tremaine']"
+    },
+    {
+        "title": "Jackass Number Two",
+        "movie_id": "12094",
+        "cast": "['Johnny Knoxville', 'Bam Margera', 'Steve-O']",
+        "crew": "['Jeff Tremaine']"
+    },
+    {
+        "title": "Jackie Brown",
+        "movie_id": "184",
+        "cast": "['Pam Grier', 'Samuel L. Jackson', 'Robert Forster']",
+        "crew": "['Quentin Tarantino']"
+    },
+    {
+        "title": "Jakob the Liar",
+        "movie_id": "2290",
+        "cast": "['Robin Williams', 'Armin Mueller-Stahl', 'Hannah Taylor-Gordon']",
+        "crew": "['Peter Kassovitz']"
+    },
+    {
+        "title": "Jason X",
+        "movie_id": "11470",
+        "cast": "['Kane Hodder', 'Lexa Doig', 'Chuck Campbell']",
+        "crew": "['James Isaac']"
+    },
+    {
+        "title": "Jaws",
+        "movie_id": "578",
+        "cast": "['Roy Scheider', 'Robert Shaw', 'Richard Dreyfuss']",
+        "crew": "['Steven Spielberg']"
+    },
+    {
+        "title": "Jaws 2",
+        "movie_id": "579",
+        "cast": "['Roy Scheider', 'Lorraine Gary', 'Murray Hamilton']",
+        "crew": "['Jeannot Szwarc']"
+    },
+    {
+        "title": "Jaws: The Revenge",
+        "movie_id": "580",
+        "cast": "['Lorraine Gary', 'Lance Guest', 'Mario Van Peebles']",
+        "crew": "['Joseph Sargent']"
+    },
+    {
+        "title": "Jay and Silent Bob Strike Back",
+        "movie_id": "2294",
+        "cast": "['Kevin Smith', 'Jason Mewes', 'Ben Affleck']",
+        "crew": "['Kevin Smith']"
+    },
+    {
+        "title": "Jeepers Creepers",
+        "movie_id": "8922",
+        "cast": "['Gina Philips', 'Justin Long', 'Jonathan Breck']",
+        "crew": "['Victor Salva']"
+    },
+    {
+        "title": "Jefferson in Paris",
+        "movie_id": "87729",
+        "cast": "['Nick Nolte', 'Greta Scacchi', 'Thandie Newton']",
+        "crew": "['James Ivory']"
+    },
+    {
+        "title": "Jennifer's Body",
+        "movie_id": "19994",
+        "cast": "['Megan Fox', 'Amanda Seyfried', 'Johnny Simmons']",
+        "crew": "['Karyn Kusama']"
+    },
+    {
+        "title": "Jindabyne",
+        "movie_id": "4657",
+        "cast": "['Laura Linney', 'Gabriel Byrne', 'Deborra-Lee Furness']",
+        "crew": "['Ray Lawrence']"
+    },
+    {
+        "title": "Joe Dirt",
+        "movie_id": "10956",
+        "cast": "['David Spade', 'Brittany Daniel', 'Dennis Miller']",
+        "crew": "['Dennie Gordon']"
+    },
+    {
+        "title": "Johnson Family Vacation",
+        "movie_id": "19084",
+        "cast": "['Cedric the Entertainer', 'Vanessa Williams', 'Steve Harvey']",
+        "crew": "['Christopher Erskin']"
+    },
+    {
+        "title": "Jonah: A VeggieTales Movie",
+        "movie_id": "15173",
+        "cast": "['Phil Vischer', 'Mike Nawrocki', 'Tim Hodge']",
+        "crew": "['Phil Vischer']"
+    },
+    {
+        "title": "Josie and the Pussycats",
+        "movie_id": "19366",
+        "cast": "['Rachael Leigh Cook', 'Rosario Dawson', 'Tara Reid']",
+        "crew": "['Deborah Kaplan']"
+    },
+    {
+        "title": "Joy Ride",
+        "movie_id": "10866",
+        "cast": "['Steve Zahn', 'Paul Walker', 'Leelee Sobieski']",
+        "crew": "['John Dahl']"
+    },
+    {
+        "title": "Joyeux No\u00ebl",
+        "movie_id": "11661",
+        "cast": "['Diane Kruger', 'Natalie Dessay', 'Benno F\u00fcrmann']",
+        "crew": "['Christian Carion']"
+    },
+    {
+        "title": "Just Married",
+        "movie_id": "12090",
+        "cast": "['Ashton Kutcher', 'Brittany Murphy', 'Christian Kane']",
+        "crew": "['Shawn Levy']"
+    },
+    {
+        "title": "Just Wright",
+        "movie_id": "38093",
+        "cast": "['Queen Latifah', 'Common', 'Paula Patton']",
+        "crew": "['Sanaa Hamri']"
+    },
+    {
+        "title": "Justin Bieber: Never Say Never",
+        "movie_id": "54518",
+        "cast": "['Justin Bieber', 'Miley Cyrus', 'Usher Raymond']",
+        "crew": "['Jon M. Chu']"
+    },
+    {
+        "title": "Juwanna Mann",
+        "movie_id": "35696",
+        "cast": "['Miguel A. N\u00fa\u00f1ez, Jr.', 'Vivica A. Fox', 'Kevin Pollak']",
+        "crew": "['Jesse Vaughan']"
+    },
+    {
+        "title": "Kabhi Alvida Naa Kehna",
+        "movie_id": "14395",
+        "cast": "['Shah Rukh Khan', 'Rani Mukerji', 'Preity Zinta']",
+        "crew": "['Karan Johar']"
+    },
+    {
+        "title": "Kansas City",
+        "movie_id": "22479",
+        "cast": "['Jennifer Jason Leigh', 'Miranda Richardson', 'Harry Belafonte']",
+        "crew": "['Robert Altman']"
+    },
+    {
+        "title": "Katy Perry: Part of Me",
+        "movie_id": "101267",
+        "cast": "['Katy Perry', 'Russell Brand', 'Shannon Woodward']",
+        "crew": "['Dan Cutforth']"
+    },
+    {
+        "title": "Keanu",
+        "movie_id": "342521",
+        "cast": "['Jordan Peele', 'Keegan-Michael Key', 'Tiffany Haddish']",
+        "crew": "['Peter Atencio']"
+    },
+    {
+        "title": "Khumba",
+        "movie_id": "172391",
+        "cast": "['Jake T. Austin', 'Liam Neeson', 'Steve Buscemi']",
+        "crew": "['Anthony Silverston']"
+    },
+    {
+        "title": "Killing Them Softly",
+        "movie_id": "64689",
+        "cast": "['Brad Pitt', 'Scoot McNairy', 'Ben Mendelsohn']",
+        "crew": "['Andrew Dominik']"
+    },
+    {
+        "title": "Kinsey",
+        "movie_id": "11184",
+        "cast": "['Liam Neeson', 'Laura Linney', \"Chris O'Donnell\"]",
+        "crew": "['Bill Condon']"
+    },
+    {
+        "title": "Kiss Kiss Bang Bang",
+        "movie_id": "5236",
+        "cast": "['Robert Downey Jr.', 'Val Kilmer', 'Michelle Monaghan']",
+        "crew": "['Shane Black']"
+    },
+    {
+        "title": "Knockaround Guys",
+        "movie_id": "7501",
+        "cast": "['Barry Pepper', 'Andy Davoli', 'Seth Green']",
+        "crew": "['Brian Koppelman']"
+    },
+    {
+        "title": "Krampus",
+        "movie_id": "287903",
+        "cast": "['Adam Scott', 'Toni Collette', 'Allison Tolman']",
+        "crew": "['Michael Dougherty']"
+    },
+    {
+        "title": "Kung Fu Hustle",
+        "movie_id": "9470",
+        "cast": "['Stephen Chow', 'Yuen Wah', 'Yuen Qiu']",
+        "crew": "['Stephen Chow']"
+    },
+    {
+        "title": "LOL",
+        "movie_id": "80271",
+        "cast": "['Miley Cyrus', 'Demi Moore', 'Douglas Booth']",
+        "crew": "['Lisa Azuelos']"
+    },
+    {
+        "title": "Labor Day",
+        "movie_id": "130150",
+        "cast": "['Josh Brolin', 'Kate Winslet', 'Gattlin Griffith']",
+        "crew": "['Jason Reitman']"
+    },
+    {
+        "title": "Ladyhawke",
+        "movie_id": "526",
+        "cast": "['Matthew Broderick', 'Rutger Hauer', 'Michelle Pfeiffer']",
+        "crew": "['Richard Donner']"
+    },
+    {
+        "title": "Lakeview Terrace",
+        "movie_id": "13279",
+        "cast": "['Samuel L. Jackson', 'Patrick Wilson', 'Kerry Washington']",
+        "crew": "['Neil LaBute']"
+    },
+    {
+        "title": "Land of the Dead",
+        "movie_id": "11683",
+        "cast": "['Simon Baker', 'John Leguizamo', 'Dennis Hopper']",
+        "crew": "['George A. Romero']"
+    },
+    {
+        "title": "Larry the Cable Guy: Health Inspector",
+        "movie_id": "15639",
+        "cast": "['Larry the Cable Guy', 'Iris Bahr', 'Tony Hale']",
+        "crew": "['Trent Cooper']"
+    },
+    {
+        "title": "Lars and the Real Girl",
+        "movie_id": "6615",
+        "cast": "['Ryan Gosling', 'Emily Mortimer', 'Paul Schneider']",
+        "crew": "['Craig Gillespie']"
+    },
+    {
+        "title": "Last Orders",
+        "movie_id": "14778",
+        "cast": "['Michael Caine', 'Tom Courtenay', 'David Hemmings']",
+        "crew": "['Fred Schepisi']"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "movie_id": "947",
+        "cast": "[\"Peter O'Toole\", 'Alec Guinness', 'Anthony Quinn']",
+        "crew": "['David Lean']"
+    },
+    {
+        "title": "Leap Year",
+        "movie_id": "25195",
+        "cast": "['Amy Adams', 'Matthew Goode', 'Adam Scott']",
+        "crew": "['Anand Tucker']"
+    },
+    {
+        "title": "Left Behind",
+        "movie_id": "218043",
+        "cast": "['Nicolas Cage', 'Chad Michael Murray', 'Lea Thompson']",
+        "crew": "['Vic Armstrong']"
+    },
+    {
+        "title": "Legally Blonde",
+        "movie_id": "8835",
+        "cast": "['Reese Witherspoon', 'Luke Wilson', 'Selma Blair']",
+        "crew": "['Robert Luketic']"
+    },
+    {
+        "title": "Legend of a Rabbit",
+        "movie_id": "173931",
+        "cast": "['Jon Heder', 'Tom Arnold', 'Michael Clarke Duncan']",
+        "crew": "['Lijun Sun']"
+    },
+    {
+        "title": "Let Me In",
+        "movie_id": "41402",
+        "cast": "['Kodi Smit-McPhee', 'Chlo\u00eb Grace Moretz', 'Richard Jenkins']",
+        "crew": "['Matt Reeves']"
+    },
+    {
+        "title": "Let's Be Cops",
+        "movie_id": "193893",
+        "cast": "['Jake Johnson', 'Damon Wayans Jr.', 'Nina Dobrev']",
+        "crew": "['Luke Greenfield']"
+    },
+    {
+        "title": "Letters from Iwo Jima",
+        "movie_id": "1251",
+        "cast": "['Ken Watanabe', 'Kazunari Ninomiya', 'Tsuyoshi Ihara']",
+        "crew": "['Clint Eastwood']"
+    },
+    {
+        "title": "Life as a House",
+        "movie_id": "11457",
+        "cast": "['Kevin Kline', 'Kristin Scott Thomas', 'Hayden Christensen']",
+        "crew": "['Irwin Winkler']"
+    },
+    {
+        "title": "Light It Up",
+        "movie_id": "19052",
+        "cast": "['Usher Raymond', 'Vanessa Williams', 'Forest Whitaker']",
+        "crew": "['Craig Bolotin']"
+    },
+    {
+        "title": "Listening",
+        "movie_id": "331592",
+        "cast": "['Thomas Stroppel', 'Artie Ahr', 'Amber Marie Bollinger']",
+        "crew": "['Khalil Sullins']"
+    },
+    {
+        "title": "Little Boy",
+        "movie_id": "256962",
+        "cast": "['Jakob Salvati', 'Emily Watson', 'Cary-Hiroyuki Tagawa']",
+        "crew": "['Alejandro Monteverde']"
+    },
+    {
+        "title": "Little Children",
+        "movie_id": "1440",
+        "cast": "['Kate Winslet', 'Patrick Wilson', 'Jennifer Connelly']",
+        "crew": "['Todd Field']"
+    },
+    {
+        "title": "Little Women",
+        "movie_id": "9587",
+        "cast": "['Winona Ryder', 'Gabriel Byrne', 'Trini Alvarado']",
+        "crew": "['Gillian Armstrong']"
+    },
+    {
+        "title": "Living Out Loud",
+        "movie_id": "46889",
+        "cast": "['Holly Hunter', 'Danny DeVito', 'Queen Latifah']",
+        "crew": "['Richard LaGravenese']"
+    },
+    {
+        "title": "Lockout",
+        "movie_id": "81796",
+        "cast": "['Guy Pearce', 'Maggie Grace', 'Joseph Gilgun']",
+        "crew": "['Stephen St. Leger']"
+    },
+    {
+        "title": "Loser",
+        "movie_id": "10642",
+        "cast": "['Jason Biggs', 'Mena Suvari', 'Zak Orth']",
+        "crew": "['Amy Heckerling']"
+    },
+    {
+        "title": "Lottery Ticket",
+        "movie_id": "41382",
+        "cast": "['Shad Moss', 'Brandon T. Jackson', 'Naturi Naughton']",
+        "crew": "['Erik White']"
+    },
+    {
+        "title": "Love & Basketball",
+        "movie_id": "14736",
+        "cast": "['Chris Warren, Jr.', 'Kyla Pratt', 'Sanaa Lathan']",
+        "crew": "['Gina Prince-Bythewood']"
+    },
+    {
+        "title": "Love Happens",
+        "movie_id": "25643",
+        "cast": "['Aaron Eckhart', 'Jennifer Aniston', 'Judy Greer']",
+        "crew": "['Brandon Camp']"
+    },
+    {
+        "title": "Love the Coopers",
+        "movie_id": "333348",
+        "cast": "['Steve Martin', 'Diane Keaton', 'John Goodman']",
+        "crew": "['Jessie Nelson']"
+    },
+    {
+        "title": "Machete",
+        "movie_id": "23631",
+        "cast": "['Danny Trejo', 'Michelle Rodriguez', 'Jessica Alba']",
+        "crew": "['Robert Rodriguez']"
+    },
+    {
+        "title": "Machete Kills",
+        "movie_id": "106747",
+        "cast": "['Danny Trejo', 'Mel Gibson', 'Amber Heard']",
+        "crew": "['Robert Rodriguez']"
+    },
+    {
+        "title": "Machine Gun McCain",
+        "movie_id": "45138",
+        "cast": "['John Cassavetes', 'Britt Ekland', 'Peter Falk']",
+        "crew": "['Giuliano Montaldo']"
+    },
+    {
+        "title": "Mad Max Beyond Thunderdome",
+        "movie_id": "9355",
+        "cast": "['Mel Gibson', 'Tina Turner', 'Bruce Spence']",
+        "crew": "['George Miller']"
+    },
+    {
+        "title": "Mad Money",
+        "movie_id": "12085",
+        "cast": "['Diane Keaton', 'Queen Latifah', 'Katie Holmes']",
+        "crew": "['Callie Khouri']"
+    },
+    {
+        "title": "Madadayo",
+        "movie_id": "13889",
+        "cast": "['Tatsuo Matsumura', 'Ky\u00f4ko Kagawa', 'Hisashi Igawa']",
+        "crew": "['Akira Kurosawa']"
+    },
+    {
+        "title": "Madea Goes to Jail",
+        "movie_id": "15670",
+        "cast": "['Tyler Perry', 'Derek Luke', 'Keshia Knight Pulliam']",
+        "crew": "['Tyler Perry']"
+    },
+    {
+        "title": "Madea's Family Reunion",
+        "movie_id": "16781",
+        "cast": "['Tyler Perry', 'Blair Underwood', 'Lynn Whitfield']",
+        "crew": "['Tyler Perry']"
+    },
+    {
+        "title": "Madea's Witness Protection",
+        "movie_id": "103370",
+        "cast": "['Tyler Perry', 'Eugene Levy', 'Denise Richards']",
+        "crew": "['Tyler Perry']"
+    },
+    {
+        "title": "Madison",
+        "movie_id": "38717",
+        "cast": "['Jim Caviezel', 'Jake Lloyd', 'Mary McCormack']",
+        "crew": "['William Bindley']"
+    },
+    {
+        "title": "Magic Mike XXL",
+        "movie_id": "264999",
+        "cast": "['Channing Tatum', 'Matt Bomer', 'Joe Manganiello']",
+        "crew": "['Gregory Jacobs']"
+    },
+    {
+        "title": "Major League",
+        "movie_id": "9942",
+        "cast": "['Tom Berenger', 'Charlie Sheen', 'Corbin Bernsen']",
+        "crew": "['David S. Ward']"
+    },
+    {
+        "title": "Malibu's Most Wanted",
+        "movie_id": "13411",
+        "cast": "['Jamie Kennedy', 'Taye Diggs', 'Anthony Anderson']",
+        "crew": "['John Whitesell']"
+    },
+    {
+        "title": "Mama",
+        "movie_id": "132232",
+        "cast": "['Jessica Chastain', 'Nikolaj Coster-Waldau', 'Megan Charpentier']",
+        "crew": "['Andy Muschietti']"
+    },
+    {
+        "title": "Man of the Year",
+        "movie_id": "9895",
+        "cast": "['Robin Williams', 'Christopher Walken', 'Laura Linney']",
+        "crew": "['Barry Levinson']"
+    },
+    {
+        "title": "Manderlay",
+        "movie_id": "1951",
+        "cast": "['Bryce Dallas Howard', 'Isaach De Bankol\u00e9', 'Danny Glover']",
+        "crew": "['Lars von Trier']"
+    },
+    {
+        "title": "Mao's Last Dancer",
+        "movie_id": "33870",
+        "cast": "['Chi Cao', 'Chengwu Guo', 'Wen Bin Huang']",
+        "crew": "['Bruce Beresford']"
+    },
+    {
+        "title": "Marci X",
+        "movie_id": "32316",
+        "cast": "['Lisa Kudrow', 'Damon Wayans', 'Richard Benjamin']",
+        "crew": "['Richard Benjamin']"
+    },
+    {
+        "title": "Margaret",
+        "movie_id": "44754",
+        "cast": "['Anna Paquin', 'Matt Damon', 'Mark Ruffalo']",
+        "crew": "['Kenneth Lonergan']"
+    },
+    {
+        "title": "Married Life",
+        "movie_id": "8060",
+        "cast": "['Chris Cooper', 'Pierce Brosnan', 'Patricia Clarkson']",
+        "crew": "['Ira Sachs']"
+    },
+    {
+        "title": "Marvin's Room",
+        "movie_id": "9819",
+        "cast": "['Diane Keaton', 'Meryl Streep', 'Leonardo DiCaprio']",
+        "crew": "['Jerry Zaks']"
+    },
+    {
+        "title": "Match Point",
+        "movie_id": "116",
+        "cast": "['Jonathan Rhys Meyers', 'Scarlett Johansson', 'Emily Mortimer']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Max",
+        "movie_id": "272878",
+        "cast": "['Thomas Haden Church', 'Josh Wiggins', 'Lauren Graham']",
+        "crew": "['Boaz Yakin']"
+    },
+    {
+        "title": "Max Keeble's Big Move",
+        "movie_id": "34549",
+        "cast": "['Alex D. Linz', 'Zena Grey', 'Nora Dunn']",
+        "crew": "['Tim Hill']"
+    },
+    {
+        "title": "McFarland, USA",
+        "movie_id": "228203",
+        "cast": "['Kevin Costner', 'Ramiro Rodriguez', 'Carlos Pratts']",
+        "crew": "['Niki Caro']"
+    },
+    {
+        "title": "Me Before You",
+        "movie_id": "296096",
+        "cast": "['Emilia Clarke', 'Sam Claflin', 'Janet McTeer']",
+        "crew": "['Thea Sharrock']"
+    },
+    {
+        "title": "Mean Girls",
+        "movie_id": "10625",
+        "cast": "['Lindsay Lohan', 'Rachel McAdams', 'Tim Meadows']",
+        "crew": "['Mark Waters']"
+    },
+    {
+        "title": "Megaforce",
+        "movie_id": "27380",
+        "cast": "['Barry Bostwick', 'Michael Beck', 'Persis Khambatta']",
+        "crew": "['Hal Needham']"
+    },
+    {
+        "title": "Megiddo: The Omega Code 2",
+        "movie_id": "30379",
+        "cast": "['Michael York', 'Michael Biehn', 'Diane Venora']",
+        "crew": "['Brian Trenchard-Smith']"
+    },
+    {
+        "title": "Metallica: Through the Never",
+        "movie_id": "193613",
+        "cast": "['Dane DeHaan', 'Mackenzie Gray', 'James Hetfield']",
+        "crew": "['Nimr\u00f3d Antal']"
+    },
+    {
+        "title": "Meteor",
+        "movie_id": "40160",
+        "cast": "['Sean Connery', 'Natalie Wood', 'Karl Malden']",
+        "crew": "['Ronald Neame']"
+    },
+    {
+        "title": "Metropolis",
+        "movie_id": "19",
+        "cast": "['Brigitte Helm', 'Alfred Abel', 'Gustav Fr\u00f6hlich']",
+        "crew": "['Fritz Lang']"
+    },
+    {
+        "title": "Michael Clayton",
+        "movie_id": "4566",
+        "cast": "['George Clooney', 'Tom Wilkinson', 'Tilda Swinton']",
+        "crew": "['Tony Gilroy']"
+    },
+    {
+        "title": "Midnight Special",
+        "movie_id": "245703",
+        "cast": "['Michael Shannon', 'Jaeden Lieberher', 'Joel Edgerton']",
+        "crew": "['Jeff Nichols']"
+    },
+    {
+        "title": "Milk",
+        "movie_id": "10139",
+        "cast": "['Sean Penn', 'Emile Hirsch', 'James Franco']",
+        "crew": "['Gus Van Sant']"
+    },
+    {
+        "title": "Miracles from Heaven",
+        "movie_id": "339984",
+        "cast": "['Jennifer Garner', 'Kylie Rogers', 'Martin Henderson']",
+        "crew": "['Patricia Riggen']"
+    },
+    {
+        "title": "Misconduct",
+        "movie_id": "373314",
+        "cast": "['Josh Duhamel', 'Alice Eve', 'Malin \u00c5kerman']",
+        "crew": "['Shintaro Shimosawa']"
+    },
+    {
+        "title": "Moliere",
+        "movie_id": "21494",
+        "cast": "['Romain Duris', 'Fabrice Luchini', 'Edouard Baer']",
+        "crew": "['Laurent Tirard']"
+    },
+    {
+        "title": "Molly",
+        "movie_id": "44857",
+        "cast": "['Elisabeth Shue', 'Aaron Eckhart', 'Jill Hennessy']",
+        "crew": "['John Duigan']"
+    },
+    {
+        "title": "Mongol: The Rise of Genghis Khan",
+        "movie_id": "12246",
+        "cast": "['Tadanobu Asano', 'Sun Honglei', 'Khulan Chuluun']",
+        "crew": "['Sergei Bodrov']"
+    },
+    {
+        "title": "Monte Carlo",
+        "movie_id": "59860",
+        "cast": "['Selena Gomez', 'Katie Cassidy', 'Cory Monteith']",
+        "crew": "['Thomas Bezucha']"
+    },
+    {
+        "title": "Moonlight Mile",
+        "movie_id": "31005",
+        "cast": "['Jake Gyllenhaal', 'Dustin Hoffman', 'Susan Sarandon']",
+        "crew": "['Brad Silberling']"
+    },
+    {
+        "title": "Moonrise Kingdom",
+        "movie_id": "83666",
+        "cast": "['Bruce Willis', 'Edward Norton', 'Jared Gilman']",
+        "crew": "['Wes Anderson']"
+    },
+    {
+        "title": "Mortal Kombat",
+        "movie_id": "9312",
+        "cast": "['Christopher Lambert', 'Robin Shou', 'Linden Ashby']",
+        "crew": "['Paul W.S. Anderson']"
+    },
+    {
+        "title": "Mr. Turner",
+        "movie_id": "245700",
+        "cast": "['Timothy Spall', 'Dorothy Atkinson', 'Marion Bailey']",
+        "crew": "['Mike Leigh']"
+    },
+    {
+        "title": "Mrs Henderson Presents",
+        "movie_id": "10773",
+        "cast": "['Judi Dench', 'Bob Hoskins', 'Will Young']",
+        "crew": "['Stephen Frears']"
+    },
+    {
+        "title": "Mulholland Drive",
+        "movie_id": "1018",
+        "cast": "['Naomi Watts', 'Laura Harring', 'Ann Miller']",
+        "crew": "['David Lynch']"
+    },
+    {
+        "title": "My All American",
+        "movie_id": "334531",
+        "cast": "['Aaron Eckhart', 'Finn Wittrock', 'Robin Tunney']",
+        "crew": "['Angelo Pizzo']"
+    },
+    {
+        "title": "My Baby's Daddy",
+        "movie_id": "26710",
+        "cast": "['Eddie Griffin', 'Anthony Anderson', 'Michael Imperioli']",
+        "crew": "['Cheryl Dunye']"
+    },
+    {
+        "title": "My Best Friend's Girl",
+        "movie_id": "13596",
+        "cast": "['Dane Cook', 'Kate Hudson', 'Alec Baldwin']",
+        "crew": "['Howard Deutch']"
+    },
+    {
+        "title": "My Big Fat Greek Wedding 2",
+        "movie_id": "302688",
+        "cast": "['John Corbett', 'Elena Kampouris', 'Nia Vardalos']",
+        "crew": "['Kirk Jones']"
+    },
+    {
+        "title": "My Bloody Valentine",
+        "movie_id": "14435",
+        "cast": "['Jensen Ackles', 'Jaime King', 'Kerr Smith']",
+        "crew": "['Patrick Lussier']"
+    },
+    {
+        "title": "My Boss's Daughter",
+        "movie_id": "2830",
+        "cast": "['Ashton Kutcher', 'Tara Reid', 'Andy Richter']",
+        "crew": "['David Zucker']"
+    },
+    {
+        "title": "My Cousin Vinny",
+        "movie_id": "10377",
+        "cast": "['Joe Pesci', 'Ralph Macchio', 'Marisa Tomei']",
+        "crew": "['Jonathan Lynn']"
+    },
+    {
+        "title": "My Fair Lady",
+        "movie_id": "11113",
+        "cast": "['Audrey Hepburn', 'Rex Harrison', 'Stanley Holloway']",
+        "crew": "['George Cukor']"
+    },
+    {
+        "title": "My Fellow Americans",
+        "movie_id": "17795",
+        "cast": "['Jack Lemmon', 'James Garner', 'Dan Aykroyd']",
+        "crew": "['Peter Segal']"
+    },
+    {
+        "title": "My Girl",
+        "movie_id": "4032",
+        "cast": "['Anna Chlumsky', 'Macaulay Culkin', 'Dan Aykroyd']",
+        "crew": "['Howard Zieff']"
+    },
+    {
+        "title": "My Life in Ruins",
+        "movie_id": "23049",
+        "cast": "['Nia Vardalos', 'Richard Dreyfuss', 'Alexis Georgoulis']",
+        "crew": "['Donald Petrie']"
+    },
+    {
+        "title": "My Stepmother is an Alien",
+        "movie_id": "12120",
+        "cast": "['Dan Aykroyd', 'Kim Basinger', 'Jon Lovitz']",
+        "crew": "['Richard Benjamin']"
+    },
+    {
+        "title": "Nancy Drew",
+        "movie_id": "14043",
+        "cast": "['Emma Roberts', 'Josh Flitter', 'Max Thieriot']",
+        "crew": "['Andrew Fleming']"
+    },
+    {
+        "title": "National Lampoon's Loaded Weapon 1",
+        "movie_id": "9644",
+        "cast": "['Emilio Estevez', 'Samuel L. Jackson', 'Jon Lovitz']",
+        "crew": "['Gene Quintano']"
+    },
+    {
+        "title": "National Lampoon's Vacation",
+        "movie_id": "11153",
+        "cast": "['Chevy Chase', \"Beverly D'Angelo\", 'Imogene Coca']",
+        "crew": "['Harold Ramis']"
+    },
+    {
+        "title": "Nebraska",
+        "movie_id": "129670",
+        "cast": "['Bruce Dern', 'Will Forte', 'Bob Odenkirk']",
+        "crew": "['Alexander Payne']"
+    },
+    {
+        "title": "Neighbors",
+        "movie_id": "195589",
+        "cast": "['Seth Rogen', 'Zac Efron', 'Rose Byrne']",
+        "crew": "['Nicholas Stoller']"
+    },
+    {
+        "title": "Nerve",
+        "movie_id": "328387",
+        "cast": "['Emma Roberts', 'Dave Franco', 'Emily Meade']",
+        "crew": "['Henry Joost']"
+    },
+    {
+        "title": "Never Back Down",
+        "movie_id": "8456",
+        "cast": "['Sean Faris', 'Amber Heard', 'Cam Gigandet']",
+        "crew": "['Jeff Wadlow']"
+    },
+    {
+        "title": "Never Let Me Go",
+        "movie_id": "42188",
+        "cast": "['Carey Mulligan', 'Andrew Garfield', 'Keira Knightley']",
+        "crew": "['Mark Romanek']"
+    },
+    {
+        "title": "New York Stories",
+        "movie_id": "9686",
+        "cast": "['Woody Allen', 'Marvin Chatinover', 'Mae Questel']",
+        "crew": "['Francis Ford Coppola']"
+    },
+    {
+        "title": "New York, New York",
+        "movie_id": "12637",
+        "cast": "['Liza Minnelli', 'Robert De Niro', 'Lionel Stander']",
+        "crew": "['Martin Scorsese']"
+    },
+    {
+        "title": "Nine 1/2 Weeks",
+        "movie_id": "10068",
+        "cast": "['Mickey Rourke', 'Kim Basinger', 'Margaret Whitton']",
+        "crew": "['Adrian Lyne']"
+    },
+    {
+        "title": "No Good Deed",
+        "movie_id": "136835",
+        "cast": "['Idris Elba', 'Taraji P. Henson', 'Leslie Bibb']",
+        "crew": "['Sam Miller']"
+    },
+    {
+        "title": "Not Another Teen Movie",
+        "movie_id": "11397",
+        "cast": "['Chyler Leigh', 'Chris Evans', 'Jaime Pressly']",
+        "crew": "['Joel Gallen']"
+    },
+    {
+        "title": "Nowhere to Run",
+        "movie_id": "10413",
+        "cast": "['Jean-Claude Van Damme', 'Rosanna Arquette', 'Kieran Culkin']",
+        "crew": "['Robert Harmon']"
+    },
+    {
+        "title": "O",
+        "movie_id": "11065",
+        "cast": "['Mekhi Phifer', 'Josh Hartnett', 'Andrew Keegan']",
+        "crew": "['Tim Blake Nelson']"
+    },
+    {
+        "title": "Observe and Report",
+        "movie_id": "16991",
+        "cast": "['Seth Rogen', 'Anna Faris', 'Michael Pe\u00f1a']",
+        "crew": "['Jody Hill']"
+    },
+    {
+        "title": "Oliver!",
+        "movie_id": "17917",
+        "cast": "['Ron Moody', 'Shani Wallis', 'Oliver Reed']",
+        "crew": "['Carol Reed']"
+    },
+    {
+        "title": "Ondine",
+        "movie_id": "38448",
+        "cast": "['Colin Farrell', 'Alicja Bachleda-Curu\u015b', 'Dervla Kirwan']",
+        "crew": "['Neil Jordan']"
+    },
+    {
+        "title": "One Day",
+        "movie_id": "51828",
+        "cast": "['Anne Hathaway', 'Jim Sturgess', 'Patricia Clarkson']",
+        "crew": "['Lone Scherfig']"
+    },
+    {
+        "title": "One Hour Photo",
+        "movie_id": "9357",
+        "cast": "['Robin Williams', 'Connie Nielsen', 'Michael Vartan']",
+        "crew": "['Mark Romanek']"
+    },
+    {
+        "title": "One Man's Hero",
+        "movie_id": "69848",
+        "cast": "['Tom Berenger', 'Joaquim de Almeida', 'Daniela Romo']",
+        "crew": "['Lance Hool']"
+    },
+    {
+        "title": "One Missed Call",
+        "movie_id": "6933",
+        "cast": "['Shannyn Sossamon', 'Edward Burns', 'Ana Claudia Talanc\u00f3n']",
+        "crew": "['Eric Valette']"
+    },
+    {
+        "title": "One Night with the King",
+        "movie_id": "15005",
+        "cast": "['Tiffany Dupont', \"Peter O'Toole\", 'Luke Goss']",
+        "crew": "['Michael O. Sajbel']"
+    },
+    {
+        "title": "Ong Bak 2",
+        "movie_id": "16353",
+        "cast": "['Tony Jaa', 'Sarunyu Wongkrachang', 'Sorapong Chatree']",
+        "crew": "['Tony Jaa']"
+    },
+    {
+        "title": "Operation Chromite",
+        "movie_id": "407887",
+        "cast": "['Lee Jung-jae', 'Liam Neeson', 'Lee Beom-soo']",
+        "crew": "['John H. Lee']"
+    },
+    {
+        "title": "Orphan",
+        "movie_id": "21208",
+        "cast": "['Vera Farmiga', 'Peter Sarsgaard', 'Isabelle Fuhrman']",
+        "crew": "['Jaume Collet-Serra']"
+    },
+    {
+        "title": "Oscar and Lucinda",
+        "movie_id": "39780",
+        "cast": "['Ralph Fiennes', 'Cate Blanchett', 'Ciar\u00e1n Hinds']",
+        "crew": "['Gillian Armstrong']"
+    },
+    {
+        "title": "Our Family Wedding",
+        "movie_id": "34563",
+        "cast": "['Forest Whitaker', 'America Ferrera', 'Carlos Mencia']",
+        "crew": "['Rick Famuyiwa']"
+    },
+    {
+        "title": "Our Kind of Traitor",
+        "movie_id": "205588",
+        "cast": "['Ewan McGregor', 'Stellan Skarsg\u00e5rd', 'Damian Lewis']",
+        "crew": "['Susanna White']"
+    },
+    {
+        "title": "Out Cold",
+        "movie_id": "14369",
+        "cast": "['Jason London', 'Lee Majors', 'Zach Galifianakis']",
+        "crew": "['Brendan Malloy']"
+    },
+    {
+        "title": "Out of Inferno",
+        "movie_id": "244339",
+        "cast": "['Lau Ching-Wan', 'Angelica Lee', 'Chen Sicheng']",
+        "crew": "['Danny Pang']"
+    },
+    {
+        "title": "Out of the Furnace",
+        "movie_id": "164457",
+        "cast": "['Christian Bale', 'Zoe Saldana', 'Woody Harrelson']",
+        "crew": "['Scott Cooper']"
+    },
+    {
+        "title": "Paint Your Wagon",
+        "movie_id": "20391",
+        "cast": "['Lee Marvin', 'Clint Eastwood', 'Jean Seberg']",
+        "crew": "['Joshua Logan']"
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "movie_id": "1417",
+        "cast": "['Ivana Baquero', 'Maribel Verd\u00fa', 'Sergi L\u00f3pez']",
+        "crew": "['Guillermo del Toro']"
+    },
+    {
+        "title": "Pandaemonium",
+        "movie_id": "40880",
+        "cast": "['Linus Roache', 'John Hannah', 'Samantha Morton']",
+        "crew": "['Julien Temple']"
+    },
+    {
+        "title": "Paparazzi",
+        "movie_id": "15644",
+        "cast": "['Cole Hauser', 'Robin Tunney', 'Dennis Farina']",
+        "crew": "['Paul Abascal']"
+    },
+    {
+        "title": "Paper Towns",
+        "movie_id": "286565",
+        "cast": "['Nat Wolff', 'Cara Delevingne', 'Justice Smith']",
+        "crew": "['Jake Schreier']"
+    },
+    {
+        "title": "Paris, je t'aime",
+        "movie_id": "2266",
+        "cast": "['Steve Buscemi', 'Natalie Portman', 'Willem Dafoe']",
+        "crew": "['Isabel Coixet']"
+    },
+    {
+        "title": "Passchendaele",
+        "movie_id": "14582",
+        "cast": "['Paul Gross', 'Caroline Dhavernas', 'Joe Dinicol']",
+        "crew": "['Paul Gross']"
+    },
+    {
+        "title": "Patton",
+        "movie_id": "11202",
+        "cast": "['George C. Scott', 'Karl Malden', 'Stephen Young']",
+        "crew": "['Franklin J. Schaffner']"
+    },
+    {
+        "title": "Peeples",
+        "movie_id": "72359",
+        "cast": "['Craig Robinson', 'Kerry Washington', 'David Alan Grier']",
+        "crew": "['Tina Gordon Chism']"
+    },
+    {
+        "title": "Peggy Sue Got Married",
+        "movie_id": "10013",
+        "cast": "['Kathleen Turner', 'Nicolas Cage', 'Barry Miller']",
+        "crew": "['Francis Ford Coppola']"
+    },
+    {
+        "title": "People I Know",
+        "movie_id": "11458",
+        "cast": "['Al Pacino', 'Kim Basinger', \"Ryan O'Neal\"]",
+        "crew": "['Daniel Algrant']"
+    },
+    {
+        "title": "Pet Sematary",
+        "movie_id": "8913",
+        "cast": "['Dale Midkiff', 'Fred Gwynne', 'Denise Crosby']",
+        "crew": "['Mary Lambert']"
+    },
+    {
+        "title": "Philadelphia",
+        "movie_id": "9800",
+        "cast": "['Tom Hanks', 'Denzel Washington', 'Jason Robards']",
+        "crew": "['Jonathan Demme']"
+    },
+    {
+        "title": "Philomena",
+        "movie_id": "205220",
+        "cast": "['Judi Dench', 'Steve Coogan', 'Sophie Kennedy Clark']",
+        "crew": "['Stephen Frears']"
+    },
+    {
+        "title": "Phone Booth",
+        "movie_id": "1817",
+        "cast": "['Colin Farrell', 'Kiefer Sutherland', 'Forest Whitaker']",
+        "crew": "['Joel Schumacher']"
+    },
+    {
+        "title": "Pitch Perfect",
+        "movie_id": "114150",
+        "cast": "['Anna Kendrick', 'Skylar Astin', 'Brittany Snow']",
+        "crew": "['Jason Moore']"
+    },
+    {
+        "title": "Poetic Justice",
+        "movie_id": "8291",
+        "cast": "['Janet Jackson', 'Tupac Amaru Shakur', 'Regina King']",
+        "crew": "['John Singleton']"
+    },
+    {
+        "title": "Pooh's Heffalump Movie",
+        "movie_id": "13682",
+        "cast": "['Jim Cummings', 'John Fiedler', 'Nikita Hopkins']",
+        "crew": "['Frank Nissen']"
+    },
+    {
+        "title": "Post Grad",
+        "movie_id": "25704",
+        "cast": "['Alexis Bledel', 'Zach Gilford', 'Rodrigo Santoro']",
+        "crew": "['Vicky Jenson']"
+    },
+    {
+        "title": "Predator",
+        "movie_id": "106",
+        "cast": "['Arnold Schwarzenegger', 'Carl Weathers', 'Elpidia Carrillo']",
+        "crew": "['John McTiernan']"
+    },
+    {
+        "title": "Premonition",
+        "movie_id": "9963",
+        "cast": "['Sandra Bullock', 'Julian McMahon', 'Courtney Taylor Burness']",
+        "crew": "['Mennan Yapo']"
+    },
+    {
+        "title": "Pretty Woman",
+        "movie_id": "114",
+        "cast": "['Julia Roberts', 'Richard Gere', 'Ralph Bellamy']",
+        "crew": "['Garry Marshall']"
+    },
+    {
+        "title": "Princess Mononoke",
+        "movie_id": "128",
+        "cast": "['Y\u014dji Matsuda', 'Yuriko Ishida', 'Y\u016bko Tanaka']",
+        "crew": "['Hayao Miyazaki']"
+    },
+    {
+        "title": "Private Benjamin",
+        "movie_id": "10765",
+        "cast": "['Goldie Hawn', 'Eileen Brennan', 'Armand Assante']",
+        "crew": "['Howard Zieff']"
+    },
+    {
+        "title": "Project Almanac",
+        "movie_id": "227719",
+        "cast": "['Jonny Weston', 'Virginia Gardner', \"Sofia Black-D'Elia\"]",
+        "crew": "['Dean Israelite']"
+    },
+    {
+        "title": "Project X",
+        "movie_id": "57214",
+        "cast": "['Oliver Cooper', 'Jonathan Daniel Brown', 'Thomas Mann']",
+        "crew": "['Nima Nourizadeh']"
+    },
+    {
+        "title": "Prom Night",
+        "movie_id": "8617",
+        "cast": "['Brittany Snow', 'Scott Porter', 'Jessica Stroup']",
+        "crew": "['Nelson McCormick']"
+    },
+    {
+        "title": "Promised Land",
+        "movie_id": "133694",
+        "cast": "['Matt Damon', 'John Krasinski', 'Frances McDormand']",
+        "crew": "['Gus Van Sant']"
+    },
+    {
+        "title": "Prophecy",
+        "movie_id": "31915",
+        "cast": "['Talia Shire', 'Robert Foxworth', 'Armand Assante']",
+        "crew": "['John Frankenheimer']"
+    },
+    {
+        "title": "Psycho",
+        "movie_id": "539",
+        "cast": "['Anthony Perkins', 'Vera Miles', 'John Gavin']",
+        "crew": "['Alfred Hitchcock']"
+    },
+    {
+        "title": "Pulse",
+        "movie_id": "9682",
+        "cast": "['Kristen Bell', 'Ian Somerhalder', 'Christina Milian']",
+        "crew": "['Jim Sonzero']"
+    },
+    {
+        "title": "Quarantine",
+        "movie_id": "13812",
+        "cast": "['Jennifer Carpenter', 'Steve Harris', 'Jay Hernandez']",
+        "crew": "['John Erick Dowdle']"
+    },
+    {
+        "title": "Quartet",
+        "movie_id": "121826",
+        "cast": "['Maggie Smith', 'Tom Courtenay', 'Billy Connolly']",
+        "crew": "['Dustin Hoffman']"
+    },
+    {
+        "title": "Quest for Fire",
+        "movie_id": "62204",
+        "cast": "['Everett McGill', 'Ron Perlman', 'Nicholas Kadi']",
+        "crew": "['Jean-Jacques Annaud']"
+    },
+    {
+        "title": "Quigley Down Under",
+        "movie_id": "9588",
+        "cast": "['Tom Selleck', 'Laura San Giacomo', 'Alan Rickman']",
+        "crew": "['Simon Wincer']"
+    },
+    {
+        "title": "Quills",
+        "movie_id": "10876",
+        "cast": "['Geoffrey Rush', 'Kate Winslet', 'Joaquin Phoenix']",
+        "crew": "['Philip Kaufman']"
+    },
+    {
+        "title": "Rachel Getting Married",
+        "movie_id": "14976",
+        "cast": "['Anne Hathaway', 'Rosemarie DeWitt', 'Sebastian Stan']",
+        "crew": "['Jonathan Demme']"
+    },
+    {
+        "title": "Radio Days",
+        "movie_id": "30890",
+        "cast": "['Woody Allen', 'Mia Farrow', 'Jeff Daniels']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Raging Bull",
+        "movie_id": "1578",
+        "cast": "['Robert De Niro', 'Joe Pesci', 'Cathy Moriarty']",
+        "crew": "['Martin Scorsese']"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "movie_id": "85",
+        "cast": "['Harrison Ford', 'Karen Allen', 'Paul Freeman']",
+        "crew": "['Steven Spielberg']"
+    },
+    {
+        "title": "Raise Your Voice",
+        "movie_id": "14024",
+        "cast": "['Hilary Duff', 'Oliver James', 'David Keith']",
+        "crew": "['Sean McNamara']"
+    },
+    {
+        "title": "Raising Cain",
+        "movie_id": "13937",
+        "cast": "['John Lithgow', 'Lolita Davidovich', 'Steven Bauer']",
+        "crew": "['Brian De Palma']"
+    },
+    {
+        "title": "Ramanujan",
+        "movie_id": "280871",
+        "cast": "['Abhinay Vaddi', 'Suhasini Maniratnam', 'Kevin McGowan']",
+        "crew": "['Gnana Rajasekaran']"
+    },
+    {
+        "title": "Ramona and Beezus",
+        "movie_id": "38843",
+        "cast": "['Joey King', 'Selena Gomez', 'John Corbett']",
+        "crew": "['Elizabeth Allen Rosenbaum']"
+    },
+    {
+        "title": "Rapa Nui",
+        "movie_id": "10448",
+        "cast": "['Jason Scott Lee', 'Esai Morales', 'Sandrine Holt']",
+        "crew": "['Kevin Reynolds']"
+    },
+    {
+        "title": "Ravenous",
+        "movie_id": "10212",
+        "cast": "['Guy Pearce', 'Robert Carlyle', 'David Arquette']",
+        "crew": "['Antonia Bird']"
+    },
+    {
+        "title": "Recess: School's Out",
+        "movie_id": "19405",
+        "cast": "[\"Rickey D'Shon Collins\", 'Jason Davis', 'Ashley Johnson']",
+        "crew": "['Chuck Sheetz']"
+    },
+    {
+        "title": "Red Lights",
+        "movie_id": "75638",
+        "cast": "['Sigourney Weaver', 'Robert De Niro', 'Cillian Murphy']",
+        "crew": "['Rodrigo Cort\u00e9s']"
+    },
+    {
+        "title": "Red Sonja",
+        "movie_id": "9626",
+        "cast": "['Arnold Schwarzenegger', 'Brigitte Nielsen', 'Sandahl Bergman']",
+        "crew": "['Richard Fleischer']"
+    },
+    {
+        "title": "Regression",
+        "movie_id": "241257",
+        "cast": "['Ethan Hawke', 'Emma Watson', 'David Thewlis']",
+        "crew": "['Alejandro Amen\u00e1bar']"
+    },
+    {
+        "title": "Reign Over Me",
+        "movie_id": "2355",
+        "cast": "['Adam Sandler', 'Don Cheadle', 'Jada Pinkett Smith']",
+        "crew": "['Mike Binder']"
+    },
+    {
+        "title": "Reign of Assassins",
+        "movie_id": "44092",
+        "cast": "['Michelle Yeoh', 'Jung Woo-sung', 'Wang Xue-qi']",
+        "crew": "['John Woo']"
+    },
+    {
+        "title": "Remember Me",
+        "movie_id": "23169",
+        "cast": "['Robert Pattinson', 'Emilie de Ravin', 'Pierce Brosnan']",
+        "crew": "['Allen Coulter']"
+    },
+    {
+        "title": "Renaissance",
+        "movie_id": "9389",
+        "cast": "['Daniel Craig', 'Catherine McCormack', 'Romola Garai']",
+        "crew": "['Christian Volckman']"
+    },
+    {
+        "title": "Restoration",
+        "movie_id": "396152",
+        "cast": "[\"Emily Roya O'Brien\", 'Adrian Gaeta', 'Zack Ward']",
+        "crew": "['Zack Ward']"
+    },
+    {
+        "title": "Resurrecting the Champ",
+        "movie_id": "13074",
+        "cast": "['Samuel L. Jackson', 'Josh Hartnett', 'Alan Alda']",
+        "crew": "['Rod Lurie']"
+    },
+    {
+        "title": "Return to Never Land",
+        "movie_id": "16690",
+        "cast": "['Harriet Owen', 'Blayne Weaver', 'Jeff Bennett']",
+        "crew": "['Robin Budd']"
+    },
+    {
+        "title": "Return to the Blue Lagoon",
+        "movie_id": "13888",
+        "cast": "['Milla Jovovich', 'Brian Krause', 'Lisa Pelikan']",
+        "crew": "['William A. Graham']"
+    },
+    {
+        "title": "Risen",
+        "movie_id": "335778",
+        "cast": "['Tom Felton', 'Cliff Curtis', 'Joseph Fiennes']",
+        "crew": "['Kevin Reynolds']"
+    },
+    {
+        "title": "Road Trip",
+        "movie_id": "9285",
+        "cast": "['Breckin Meyer', 'Seann William Scott', 'Amy Smart']",
+        "crew": "['Todd Phillips']"
+    },
+    {
+        "title": "Roar",
+        "movie_id": "2989",
+        "cast": "['Tippi Hedren', 'Melanie Griffith', 'Jerry Marshall']",
+        "crew": "['Noel Marshall']"
+    },
+    {
+        "title": "RoboCop 3",
+        "movie_id": "5550",
+        "cast": "['Robert John Burke', 'Nancy Allen', 'Mario Machado']",
+        "crew": "['Fred Dekker']"
+    },
+    {
+        "title": "RockNRolla",
+        "movie_id": "13809",
+        "cast": "['Mark Strong', 'Tom Wilkinson', 'Toby Kebbell']",
+        "crew": "['Guy Ritchie']"
+    },
+    {
+        "title": "Romance & Cigarettes",
+        "movie_id": "13994",
+        "cast": "['James Gandolfini', 'Susan Sarandon', 'Kate Winslet']",
+        "crew": "['John Turturro']"
+    },
+    {
+        "title": "Romeo + Juliet",
+        "movie_id": "454",
+        "cast": "['Leonardo DiCaprio', 'Claire Danes', 'John Leguizamo']",
+        "crew": "['Baz Luhrmann']"
+    },
+    {
+        "title": "Room",
+        "movie_id": "264644",
+        "cast": "['Brie Larson', 'Jacob Tremblay', 'Joan Allen']",
+        "crew": "['Lenny Abrahamson']"
+    },
+    {
+        "title": "Rounders",
+        "movie_id": "10220",
+        "cast": "['Matt Damon', 'John Turturro', 'Gretchen Mol']",
+        "crew": "['John Dahl']"
+    },
+    {
+        "title": "Running Scared",
+        "movie_id": "7304",
+        "cast": "['Paul Walker', 'Cameron Bright', 'Vera Farmiga']",
+        "crew": "['Wayne Kramer']"
+    },
+    {
+        "title": "Running with Scissors",
+        "movie_id": "7510",
+        "cast": "['Annette Bening', 'Brian Cox', 'Joseph Cross']",
+        "crew": "['Ryan Murphy']"
+    },
+    {
+        "title": "Salton Sea",
+        "movie_id": "11468",
+        "cast": "['Val Kilmer', \"Vincent D'Onofrio\", 'Adam Goldberg']",
+        "crew": "['D.J. Caruso']"
+    },
+    {
+        "title": "Sarah's Key",
+        "movie_id": "53457",
+        "cast": "['Kristin Scott Thomas', 'Niels Arestrup', 'Fr\u00e9d\u00e9ric Pierrot']",
+        "crew": "['Gilles Paquet-Brenner']"
+    },
+    {
+        "title": "Save the Last Dance",
+        "movie_id": "9816",
+        "cast": "['Julia Stiles', 'Sean Patrick Thomas', 'Kerry Washington']",
+        "crew": "['Thomas Carter']"
+    },
+    {
+        "title": "Saving Silverman",
+        "movie_id": "10878",
+        "cast": "['Jason Biggs', 'Steve Zahn', 'Jack Black']",
+        "crew": "['Dennis Dugan']"
+    },
+    {
+        "title": "Saw III",
+        "movie_id": "214",
+        "cast": "['Tobin Bell', 'Shawnee Smith', 'Angus Macfadyen']",
+        "crew": "['Darren Lynn Bousman']"
+    },
+    {
+        "title": "Saw IV",
+        "movie_id": "663",
+        "cast": "['Tobin Bell', 'Scott Patterson', 'Costas Mandylor']",
+        "crew": "['Darren Lynn Bousman']"
+    },
+    {
+        "title": "Saw V",
+        "movie_id": "11917",
+        "cast": "['Tobin Bell', 'Costas Mandylor', 'Scott Patterson']",
+        "crew": "['David Hackl']"
+    },
+    {
+        "title": "Saw VI",
+        "movie_id": "22804",
+        "cast": "['Tobin Bell', 'Costas Mandylor', 'Betsy Russell']",
+        "crew": "['Kevin Greutert']"
+    },
+    {
+        "title": "Saw: The Final Chapter",
+        "movie_id": "41439",
+        "cast": "['Tobin Bell', 'Costas Mandylor', 'Betsy Russell']",
+        "crew": "['Kevin Greutert']"
+    },
+    {
+        "title": "Scary Movie 5",
+        "movie_id": "4258",
+        "cast": "['Simon Rex', 'Ashley Tisdale', 'Charlie Sheen']",
+        "crew": "['Malcolm D. Lee']"
+    },
+    {
+        "title": "School for Scoundrels",
+        "movie_id": "9842",
+        "cast": "['Billy Bob Thornton', 'Jon Heder', 'Jacinda Barrett']",
+        "crew": "['Todd Phillips']"
+    },
+    {
+        "title": "School of Rock",
+        "movie_id": "1584",
+        "cast": "['Jack Black', 'Joan Cusack', 'Mike White']",
+        "crew": "['Richard Linklater']"
+    },
+    {
+        "title": "Scream",
+        "movie_id": "4232",
+        "cast": "['David Arquette', 'Neve Campbell', 'Courteney Cox']",
+        "crew": "['Wes Craven']"
+    },
+    {
+        "title": "Screwed",
+        "movie_id": "19419",
+        "cast": "['Norm Macdonald', 'Dave Chappelle', 'Danny DeVito']",
+        "crew": "['Scott Alexander']"
+    },
+    {
+        "title": "Sea of Love",
+        "movie_id": "12150",
+        "cast": "['Al Pacino', 'Ellen Barkin', 'John Goodman']",
+        "crew": "['Harold Becker']"
+    },
+    {
+        "title": "Secret in Their Eyes",
+        "movie_id": "290751",
+        "cast": "['Chiwetel Ejiofor', 'Nicole Kidman', 'Julia Roberts']",
+        "crew": "['Billy Ray']"
+    },
+    {
+        "title": "See Spot Run",
+        "movie_id": "39180",
+        "cast": "['Michael Clarke Duncan', 'David Arquette', 'Leslie Bibb']",
+        "crew": "['John Whitesell']"
+    },
+    {
+        "title": "Selena",
+        "movie_id": "16052",
+        "cast": "['Jennifer Lopez', 'Edward James Olmos', 'Constance Marie']",
+        "crew": "['Gregory Nava']"
+    },
+    {
+        "title": "Selma",
+        "movie_id": "273895",
+        "cast": "['David Oyelowo', 'Tom Wilkinson', 'Carmen Ejogo']",
+        "crew": "['Ava DuVernay']"
+    },
+    {
+        "title": "Sense and Sensibility",
+        "movie_id": "4584",
+        "cast": "['Kate Winslet', 'Emma Thompson', 'Hugh Grant']",
+        "crew": "['Ang Lee']"
+    },
+    {
+        "title": "September Dawn",
+        "movie_id": "14877",
+        "cast": "['Jon Voight', 'Tamara Hope', 'Trent Ford']",
+        "crew": "['Christopher Cain']"
+    },
+    {
+        "title": "Serial Mom",
+        "movie_id": "11592",
+        "cast": "['Kathleen Turner', 'Sam Waterston', 'Ricki Lake']",
+        "crew": "['John Waters']"
+    },
+    {
+        "title": "Seven Psychopaths",
+        "movie_id": "86838",
+        "cast": "['Colin Farrell', 'Sam Rockwell', 'Woody Harrelson']",
+        "crew": "['Martin McDonagh']"
+    },
+    {
+        "title": "Sex Drive",
+        "movie_id": "13523",
+        "cast": "['Josh Zuckerman', 'Amanda Crew', 'Clark Duke']",
+        "crew": "['Sean Anders']"
+    },
+    {
+        "title": "Shadowlands",
+        "movie_id": "10445",
+        "cast": "['Anthony Hopkins', 'Debra Winger', 'John Wood']",
+        "crew": "['Richard Attenborough']"
+    },
+    {
+        "title": "Shanghai Surprise",
+        "movie_id": "58048",
+        "cast": "['Madonna', 'Sean Penn', 'Paul Freeman']",
+        "crew": "['Jim Goddard']"
+    },
+    {
+        "title": "She's All That",
+        "movie_id": "10314",
+        "cast": "['Freddie Prinze Jr.', 'Rachael Leigh Cook', 'Matthew Lillard']",
+        "crew": "['Robert Iscove']"
+    },
+    {
+        "title": "She's Out of My League",
+        "movie_id": "34016",
+        "cast": "['Alice Eve', 'Jay Baruchel', 'Mike Vogel']",
+        "crew": "['Jim Field Smith']"
+    },
+    {
+        "title": "Shinjuku Incident",
+        "movie_id": "20083",
+        "cast": "['Jackie Chan', 'Naoto Takenaka', 'Daniel Wu']",
+        "crew": "['Derek Yee Tung-Sing']"
+    },
+    {
+        "title": "Shorts",
+        "movie_id": "25132",
+        "cast": "['Jimmy Bennett', 'Kat Dennings', 'Jolie Vanier']",
+        "crew": "['Robert Rodriguez']"
+    },
+    {
+        "title": "Sideways",
+        "movie_id": "9675",
+        "cast": "['Paul Giamatti', 'Thomas Haden Church', 'Virginia Madsen']",
+        "crew": "['Alexander Payne']"
+    },
+    {
+        "title": "Silent Hill: Revelation 3D",
+        "movie_id": "61012",
+        "cast": "['Adelaide Clemens', 'Kit Harington', 'Sean Bean']",
+        "crew": "['Michael J. Bassett']"
+    },
+    {
+        "title": "Silent Trigger",
+        "movie_id": "24206",
+        "cast": "['Dolph Lundgren', 'Gina Bellman', 'Conrad Dunn']",
+        "crew": "['Russell Mulcahy']"
+    },
+    {
+        "title": "Silver Linings Playbook",
+        "movie_id": "82693",
+        "cast": "['Bradley Cooper', 'Jennifer Lawrence', 'Robert De Niro']",
+        "crew": "['David O. Russell']"
+    },
+    {
+        "title": "Simon Birch",
+        "movie_id": "22796",
+        "cast": "['Jim Carrey', 'Ashley Judd', 'Ian Michael Smith']",
+        "crew": "['Mark Steven Johnson']"
+    },
+    {
+        "title": "Slackers",
+        "movie_id": "20009",
+        "cast": "['Jason Segel', 'Devon Sawa', 'Jason Schwartzman']",
+        "crew": "['Dewey Nicks']"
+    },
+    {
+        "title": "Slither",
+        "movie_id": "9035",
+        "cast": "['Nathan Fillion', 'Don Thompson', 'Elizabeth Banks']",
+        "crew": "['James Gunn']"
+    },
+    {
+        "title": "Slow Burn",
+        "movie_id": "18777",
+        "cast": "['Ray Liotta', 'LL Cool J', 'Mekhi Phifer']",
+        "crew": "['Wayne Beach']"
+    },
+    {
+        "title": "Slumdog Millionaire",
+        "movie_id": "12405",
+        "cast": "['Dev Patel', 'Freida Pinto', 'Anil Kapoor']",
+        "crew": "['Danny Boyle']"
+    },
+    {
+        "title": "Small Time Crooks",
+        "movie_id": "10569",
+        "cast": "['Woody Allen', 'Carolyn Saxon', 'Tracey Ullman']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Smokin' Aces",
+        "movie_id": "7516",
+        "cast": "['Ryan Reynolds', 'Ray Liotta', 'Joseph Ruskin']",
+        "crew": "['Joe Carnahan']"
+    },
+    {
+        "title": "Snatch",
+        "movie_id": "107",
+        "cast": "['Jason Statham', 'Brad Pitt', 'Vinnie Jones']",
+        "crew": "['Guy Ritchie']"
+    },
+    {
+        "title": "Snitch",
+        "movie_id": "134411",
+        "cast": "['Dwayne Johnson', 'Barry Pepper', 'Jon Bernthal']",
+        "crew": "['Ric Roman Waugh']"
+    },
+    {
+        "title": "Snow Day",
+        "movie_id": "15489",
+        "cast": "['Chevy Chase', 'Chris Elliott', 'Jean Smart']",
+        "crew": "['Chris Koch']"
+    },
+    {
+        "title": "Solitary Man",
+        "movie_id": "36691",
+        "cast": "['Michael Douglas', 'Danny DeVito', 'Jesse Eisenberg']",
+        "crew": "['Brian Koppelman']"
+    },
+    {
+        "title": "Son of God",
+        "movie_id": "235260",
+        "cast": "['Roma Downey', 'Diogo Morgado', 'Louise Delamere']",
+        "crew": "['Christopher Spencer']"
+    },
+    {
+        "title": "Sorcerer",
+        "movie_id": "38985",
+        "cast": "['Roy Scheider', 'Bruno Cremer', 'Francisco Rabal']",
+        "crew": "['William Friedkin']"
+    },
+    {
+        "title": "Sorority Boys",
+        "movie_id": "6020",
+        "cast": "['Barry Watson', 'Michael Rosenbaum', 'Harland Williams']",
+        "crew": "['Wallace Wolodarsky']"
+    },
+    {
+        "title": "Sorority Row",
+        "movie_id": "26688",
+        "cast": "['Rumer Willis', 'Briana Evigan', 'Jamie Chung']",
+        "crew": "['Stewart Hendler']"
+    },
+    {
+        "title": "Soul Plane",
+        "movie_id": "12657",
+        "cast": "['Tom Arnold', 'Kevin Hart', 'Method Man']",
+        "crew": "['Jessy Terrero']"
+    },
+    {
+        "title": "Soul Surfer",
+        "movie_id": "43959",
+        "cast": "['AnnaSophia Robb', 'Helen Hunt', 'Lorraine Nicholson']",
+        "crew": "['Sean McNamara']"
+    },
+    {
+        "title": "Soul Survivors",
+        "movie_id": "14033",
+        "cast": "['Eliza Dushku', 'Melissa Sagemiller', 'Wes Bentley']",
+        "crew": "['Stephen Carpenter']"
+    },
+    {
+        "title": "South Park: Bigger, Longer & Uncut",
+        "movie_id": "9473",
+        "cast": "['Trey Parker', 'Matt Stone', 'Mary Kay Bergman']",
+        "crew": "['Trey Parker']"
+    },
+    {
+        "title": "Southland Tales",
+        "movie_id": "4723",
+        "cast": "['Dwayne Johnson', 'Seann William Scott', 'Sarah Michelle Gellar']",
+        "crew": "['Richard Kelly']"
+    },
+    {
+        "title": "Space Battleship Yamato",
+        "movie_id": "61984",
+        "cast": "['Hiroyuki Ikeuchi', 'Takuya Kimura', 'Meisa Kuroki']",
+        "crew": "['Takashi Yamazaki']"
+    },
+    {
+        "title": "Spaceballs",
+        "movie_id": "957",
+        "cast": "['Mel Brooks', 'Rick Moranis', 'Bill Pullman']",
+        "crew": "['Mel Brooks']"
+    },
+    {
+        "title": "Spirited Away",
+        "movie_id": "129",
+        "cast": "['Rumi Hiiragi', 'Miyu Irino', 'Mari Natsuki']",
+        "crew": "['Hayao Miyazaki']"
+    },
+    {
+        "title": "Spotlight",
+        "movie_id": "314365",
+        "cast": "['Mark Ruffalo', 'Michael Keaton', 'Rachel McAdams']",
+        "crew": "['Tom McCarthy']"
+    },
+    {
+        "title": "Spy Hard",
+        "movie_id": "10535",
+        "cast": "['Leslie Nielsen', 'Nicollette Sheridan', 'Charles Durning']",
+        "crew": "['Rick Friedberg']"
+    },
+    {
+        "title": "St. Trinian's",
+        "movie_id": "10748",
+        "cast": "['Talulah Riley', 'Rupert Everett', 'Gemma Arterton']",
+        "crew": "['Barnaby Thompson']"
+    },
+    {
+        "title": "St. Vincent",
+        "movie_id": "239563",
+        "cast": "['Bill Murray', 'Melissa McCarthy', 'Naomi Watts']",
+        "crew": "['Theodore Melfi']"
+    },
+    {
+        "title": "Stan Helsing",
+        "movie_id": "23988",
+        "cast": "['Diora Baird', 'Leslie Nielsen', 'Steve Howey']",
+        "crew": "['Bo Zenga']"
+    },
+    {
+        "title": "Star Trek II: The Wrath of Khan",
+        "movie_id": "154",
+        "cast": "['William Shatner', 'Leonard Nimoy', 'DeForest Kelley']",
+        "crew": "['Nicholas Meyer']"
+    },
+    {
+        "title": "Star Trek III: The Search for Spock",
+        "movie_id": "157",
+        "cast": "['William Shatner', 'Leonard Nimoy', 'DeForest Kelley']",
+        "crew": "['Leonard Nimoy']"
+    },
+    {
+        "title": "Star Wars",
+        "movie_id": "11",
+        "cast": "['Mark Hamill', 'Harrison Ford', 'Carrie Fisher']",
+        "crew": "['George Lucas']"
+    },
+    {
+        "title": "Stay Alive",
+        "movie_id": "10069",
+        "cast": "['Jon Foster', 'Samaire Armstrong', 'Frankie Muniz']",
+        "crew": "['William Brent Bell']"
+    },
+    {
+        "title": "Steamboy",
+        "movie_id": "8953",
+        "cast": "['Anne Suzuki', 'Masane Tsukayama', 'Katsuo Nakamura']",
+        "crew": "['Katsuhiro \u014ctomo']"
+    },
+    {
+        "title": "Steel",
+        "movie_id": "8854",
+        "cast": "[\"Shaquille O'Neal\", 'Annabeth Gish', 'Richard Roundtree']",
+        "crew": "['Kenneth Johnson']"
+    },
+    {
+        "title": "Step Up",
+        "movie_id": "9762",
+        "cast": "['Channing Tatum', 'Jenna Dewan', 'Damaine Radcliff']",
+        "crew": "['Anne Fletcher']"
+    },
+    {
+        "title": "Step Up 2: The Streets",
+        "movie_id": "8328",
+        "cast": "['Briana Evigan', 'Robert Hoffman', 'Will Kemp']",
+        "crew": "['Jon M. Chu']"
+    },
+    {
+        "title": "Steve Jobs",
+        "movie_id": "321697",
+        "cast": "['Michael Fassbender', 'Kate Winslet', 'Seth Rogen']",
+        "crew": "['Danny Boyle']"
+    },
+    {
+        "title": "Stick It",
+        "movie_id": "10115",
+        "cast": "['Jeff Bridges', 'Missy Peregrym', 'Vanessa Lengies']",
+        "crew": "['Jessica Bendinger']"
+    },
+    {
+        "title": "Stir of Echoes",
+        "movie_id": "11601",
+        "cast": "['Kevin Bacon', 'Kathryn Erbe', 'Illeana Douglas']",
+        "crew": "['David Koepp']"
+    },
+    {
+        "title": "Stoker",
+        "movie_id": "86825",
+        "cast": "['Mia Wasikowska', 'Nicole Kidman', 'Matthew Goode']",
+        "crew": "['Park Chan-wook']"
+    },
+    {
+        "title": "Stomp the Yard",
+        "movie_id": "1931",
+        "cast": "['Columbus Short', 'Meagan Good', 'Ne-Yo']",
+        "crew": "['Sylvain White']"
+    },
+    {
+        "title": "Stone",
+        "movie_id": "44113",
+        "cast": "['Frances Conroy', 'Robert De Niro', 'Edward Norton']",
+        "crew": "['John Curran']"
+    },
+    {
+        "title": "Strange Wilderness",
+        "movie_id": "14220",
+        "cast": "['Steve Zahn', 'Allen Covert', 'Jonah Hill']",
+        "crew": "['Fred Wolf']"
+    },
+    {
+        "title": "Street Kings",
+        "movie_id": "1266",
+        "cast": "['Keanu Reeves', 'Forest Whitaker', 'Chris Evans']",
+        "crew": "['David Ayer']"
+    },
+    {
+        "title": "Stripes",
+        "movie_id": "10890",
+        "cast": "['Bill Murray', 'Harold Ramis', 'Warren Oates']",
+        "crew": "['Ivan Reitman']"
+    },
+    {
+        "title": "Summer Catch",
+        "movie_id": "26602",
+        "cast": "['Freddie Prinze Jr.', 'Jessica Biel', 'Fred Ward']",
+        "crew": "['Mike Tollin']"
+    },
+    {
+        "title": "Summer of Sam",
+        "movie_id": "10279",
+        "cast": "['John Leguizamo', 'Adrien Brody', 'Mira Sorvino']",
+        "crew": "['Spike Lee']"
+    },
+    {
+        "title": "Superbabies: Baby Geniuses 2",
+        "movie_id": "31117",
+        "cast": "['Jon Voight', 'Scott Baio', 'Vanessa Angel']",
+        "crew": "['Bob Clark']"
+    },
+    {
+        "title": "Superbad",
+        "movie_id": "8363",
+        "cast": "['Jonah Hill', 'Michael Cera', 'Christopher Mintz-Plasse']",
+        "crew": "['Greg Mottola']"
+    },
+    {
+        "title": "Superman IV: The Quest for Peace",
+        "movie_id": "11411",
+        "cast": "['Christopher Reeve', 'Margot Kidder', 'Gene Hackman']",
+        "crew": "['Sidney J. Furie']"
+    },
+    {
+        "title": "Superstar",
+        "movie_id": "13824",
+        "cast": "['Molly Shannon', 'Will Ferrell', 'Elaine Hendrix']",
+        "crew": "['Bruce McCulloch']"
+    },
+    {
+        "title": "Survivor",
+        "movie_id": "334074",
+        "cast": "['Pierce Brosnan', 'Milla Jovovich', 'Dylan McDermott']",
+        "crew": "['James McTeigue']"
+    },
+    {
+        "title": "Sweet Charity",
+        "movie_id": "42618",
+        "cast": "['Shirley MacLaine', 'John McMartin', 'Ricardo Montalban']",
+        "crew": "['Bob Fosse']"
+    },
+    {
+        "title": "Swing Vote",
+        "movie_id": "10187",
+        "cast": "['Kevin Costner', 'Madeline Carroll', 'Paula Patton']",
+        "crew": "['Joshua Michael Stern']"
+    },
+    {
+        "title": "Sydney White",
+        "movie_id": "10760",
+        "cast": "['Amanda Bynes', 'Sara Paxton', 'Matt Long']",
+        "crew": "['Joe Nussbaum']"
+    },
+    {
+        "title": "Synecdoche, New York",
+        "movie_id": "4960",
+        "cast": "['Philip Seymour Hoffman', 'Samantha Morton', 'Jennifer Jason Leigh']",
+        "crew": "['Charlie Kaufman']"
+    },
+    {
+        "title": "Tae Guk Gi: The Brotherhood of War",
+        "movie_id": "11658",
+        "cast": "['Jang Dong-gun', 'Won Bin', 'Lee Eun-ju']",
+        "crew": "['Kang Je-gyu']"
+    },
+    {
+        "title": "Take Me Home Tonight",
+        "movie_id": "50725",
+        "cast": "['Topher Grace', 'Anna Faris', 'Dan Fogler']",
+        "crew": "['Michael Dowse']"
+    },
+    {
+        "title": "Tales from the Crypt: Demon Knight",
+        "movie_id": "9059",
+        "cast": "['Billy Zane', 'William Sadler', 'Jada Pinkett Smith']",
+        "crew": "['Ernest R. Dickerson']"
+    },
+    {
+        "title": "Tammy",
+        "movie_id": "226486",
+        "cast": "['Melissa McCarthy', 'Susan Sarandon', 'Kathy Bates']",
+        "crew": "['Ben Falcone']"
+    },
+    {
+        "title": "Tea with Mussolini",
+        "movie_id": "10368",
+        "cast": "['Cher', 'Judi Dench', 'Joan Plowright']",
+        "crew": "['Franco Zeffirelli']"
+    },
+    {
+        "title": "Team America: World Police",
+        "movie_id": "3989",
+        "cast": "['Trey Parker', 'Matt Stone', 'Kristen Miller']",
+        "crew": "['Trey Parker']"
+    },
+    {
+        "title": "Teenage Mutant Ninja Turtles III",
+        "movie_id": "1499",
+        "cast": "['Paige Turco', 'Stuart Wilson', 'Sab Shimono']",
+        "crew": "['Stuart Gillard']"
+    },
+    {
+        "title": "Texas Chainsaw 3D",
+        "movie_id": "76617",
+        "cast": "['Alexandra Daddario', 'Dan Yeager', 'Bill Moseley']",
+        "crew": "['John Luessenhop']"
+    },
+    {
+        "title": "The Adventurer: The Curse of the Midas Box",
+        "movie_id": "227707",
+        "cast": "['Aneurin Barnard', 'Michael Sheen', 'Lena Headey']",
+        "crew": "['Jonathan Newman']"
+    },
+    {
+        "title": "The Adventures of Elmo in Grouchland",
+        "movie_id": "16112",
+        "cast": "['Kevin Clash', 'Mandy Patinkin', 'Vanessa Williams']",
+        "crew": "['Gary Halvorson']"
+    },
+    {
+        "title": "The American",
+        "movie_id": "27579",
+        "cast": "['George Clooney', 'Violante Placido', 'Thekla Reuten']",
+        "crew": "['Anton Corbijn']"
+    },
+    {
+        "title": "The Amityville Horror",
+        "movie_id": "10065",
+        "cast": "['Ryan Reynolds', 'Melissa George', 'Jesse James']",
+        "crew": "['Andrew Douglas']"
+    },
+    {
+        "title": "The Animal",
+        "movie_id": "11090",
+        "cast": "['Rob Schneider', 'Colleen Haskell', 'John C. McGinley']",
+        "crew": "['Luke Greenfield']"
+    },
+    {
+        "title": "The Apparition",
+        "movie_id": "79694",
+        "cast": "['Ashley Greene', 'Sebastian Stan', 'Tom Felton']",
+        "crew": "['Todd Lincoln ']"
+    },
+    {
+        "title": "The Artist",
+        "movie_id": "74643",
+        "cast": "['Jean Dujardin', 'B\u00e9r\u00e9nice Bejo', 'John Goodman']",
+        "crew": "['Michel Hazanavicius']"
+    },
+    {
+        "title": "The Assassin",
+        "movie_id": "253450",
+        "cast": "['Shu Qi', 'Chang Chen', 'Nikki Hsieh']",
+        "crew": "['Hou Hsiao-hsien']"
+    },
+    {
+        "title": "The Astronaut Farmer",
+        "movie_id": "5172",
+        "cast": "['Billy Bob Thornton', 'Virginia Madsen', 'Max Thieriot']",
+        "crew": "['Michael Polish']"
+    },
+    {
+        "title": "The Baader Meinhof Complex",
+        "movie_id": "6968",
+        "cast": "['Martina Gedeck', 'Moritz Bleibtreu', 'Johanna Wokalek']",
+        "crew": "['Uli Edel']"
+    },
+    {
+        "title": "The Bank Job",
+        "movie_id": "8848",
+        "cast": "['Jason Statham', 'Saffron Burrows', 'Stephen Campbell Moore']",
+        "crew": "['Roger Donaldson']"
+    },
+    {
+        "title": "The Beaver",
+        "movie_id": "50780",
+        "cast": "['Jodie Foster', 'Mel Gibson', 'Jennifer Lawrence']",
+        "crew": "['Jodie Foster']"
+    },
+    {
+        "title": "The Best Exotic Marigold Hotel",
+        "movie_id": "74534",
+        "cast": "['Bill Nighy', 'Maggie Smith', 'Tom Wilkinson']",
+        "crew": "['John Madden']"
+    },
+    {
+        "title": "The Best Little Whorehouse in Texas",
+        "movie_id": "16363",
+        "cast": "['Burt Reynolds', 'Dolly Parton', 'Dom DeLuise']",
+        "crew": "['Colin Higgins']"
+    },
+    {
+        "title": "The Best Man Holiday",
+        "movie_id": "146304",
+        "cast": "['Terrence Howard', 'Harold Perrineau', 'Morris Chestnut']",
+        "crew": "['Malcolm D. Lee']"
+    },
+    {
+        "title": "The Big Hit",
+        "movie_id": "9448",
+        "cast": "['Mark Wahlberg', 'Lou Diamond Phillips', 'Christina Applegate']",
+        "crew": "['Kirk Wong']"
+    },
+    {
+        "title": "The Big Lebowski",
+        "movie_id": "115",
+        "cast": "['Jeff Bridges', 'John Goodman', 'Julianne Moore']",
+        "crew": "['Joel Coen']"
+    },
+    {
+        "title": "The Black Hole",
+        "movie_id": "9570",
+        "cast": "['Maximilian Schell', 'Anthony Perkins', 'Robert Forster']",
+        "crew": "['Gary Nelson']"
+    },
+    {
+        "title": "The Blue Butterfly",
+        "movie_id": "25379",
+        "cast": "['Marc Donato', 'Pascale Bussi\u00e8res', 'William Hurt']",
+        "crew": "['L\u00e9a Pool']"
+    },
+    {
+        "title": "The Book Thief",
+        "movie_id": "203833",
+        "cast": "['Geoffrey Rush', 'Sophie N\u00e9lisse', 'Emily Watson']",
+        "crew": "['Brian Percival']"
+    },
+    {
+        "title": "The Bounty",
+        "movie_id": "2669",
+        "cast": "['Mel Gibson', 'Anthony Hopkins', 'Laurence Olivier']",
+        "crew": "['Roger Donaldson']"
+    },
+    {
+        "title": "The Boy",
+        "movie_id": "321258",
+        "cast": "['Lauren Cohan', 'Rupert Evans', 'James Russell']",
+        "crew": "['William Brent Bell']"
+    },
+    {
+        "title": "The Boy in the Striped Pyjamas",
+        "movie_id": "14574",
+        "cast": "['Asa Butterfield', 'Jack Scanlon', 'Vera Farmiga']",
+        "crew": "['Mark Herman']"
+    },
+    {
+        "title": "The Boys from Brazil",
+        "movie_id": "16241",
+        "cast": "['Gregory Peck', 'Laurence Olivier', 'James Mason']",
+        "crew": "['Franklin J. Schaffner']"
+    },
+    {
+        "title": "The Bridges of Madison County",
+        "movie_id": "688",
+        "cast": "['Meryl Streep', 'Clint Eastwood', 'Annie Corley']",
+        "crew": "['Clint Eastwood']"
+    },
+    {
+        "title": "The Brothers Bloom",
+        "movie_id": "21755",
+        "cast": "['Rachel Weisz', 'Adrien Brody', 'Mark Ruffalo']",
+        "crew": "['Rian Johnson']"
+    },
+    {
+        "title": "The Butterfly Effect",
+        "movie_id": "1954",
+        "cast": "['Ashton Kutcher', 'Melora Walters', 'Amy Smart']",
+        "crew": "['Eric Bress']"
+    },
+    {
+        "title": "The B\u00e9lier Family",
+        "movie_id": "304410",
+        "cast": "['Louane Emera', 'Karin Viard', 'Fran\u00e7ois Damiens']",
+        "crew": "['Eric Lartigau']"
+    },
+    {
+        "title": "The Call",
+        "movie_id": "158011",
+        "cast": "['Halle Berry', 'Abigail Breslin', 'Morris Chestnut']",
+        "crew": "['Brad Anderson']"
+    },
+    {
+        "title": "The Caveman's Valentine",
+        "movie_id": "25208",
+        "cast": "['Samuel L. Jackson', 'Colm Feore', 'Ann Magnuson']",
+        "crew": "['Kasi Lemmons']"
+    },
+    {
+        "title": "The Children of Huang Shi",
+        "movie_id": "13405",
+        "cast": "['Jonathan Rhys Meyers', 'Radha Mitchell', 'Chow Yun-fat']",
+        "crew": "['Roger Spottiswoode']"
+    },
+    {
+        "title": "The Claim",
+        "movie_id": "44853",
+        "cast": "['Peter Mullan', 'Milla Jovovich', 'Wes Bentley']",
+        "crew": "['Michael Winterbottom']"
+    },
+    {
+        "title": "The Clan of the Cave Bear",
+        "movie_id": "13853",
+        "cast": "['Daryl Hannah', 'Pamela Reed', 'James Remar']",
+        "crew": "['Michael Chapman']"
+    },
+    {
+        "title": "The Cold Light of Day",
+        "movie_id": "77948",
+        "cast": "['Henry Cavill', 'Ver\u00f3nica Echegui', 'Sigourney Weaver']",
+        "crew": "['Mabrouk El Mechri']"
+    },
+    {
+        "title": "The Color Purple",
+        "movie_id": "873",
+        "cast": "['Whoopi Goldberg', 'Margaret Avery', 'Danny Glover']",
+        "crew": "['Steven Spielberg']"
+    },
+    {
+        "title": "The Color of Money",
+        "movie_id": "11873",
+        "cast": "['Paul Newman', 'Tom Cruise', 'Mary Elizabeth Mastrantonio']",
+        "crew": "['Martin Scorsese']"
+    },
+    {
+        "title": "The Company",
+        "movie_id": "112430",
+        "cast": "[\"Chris O'Donnell\", 'Alfred Molina', 'Michael Keaton']",
+        "crew": "['Mikael Salomon']"
+    },
+    {
+        "title": "The Conjuring",
+        "movie_id": "138843",
+        "cast": "['Patrick Wilson', 'Vera Farmiga', 'Lili Taylor']",
+        "crew": "['James Wan']"
+    },
+    {
+        "title": "The Cookout",
+        "movie_id": "18475",
+        "cast": "['Ja Rule', 'Tim Meadows', 'Jenifer Lewis']",
+        "crew": "['Lance Rivera']"
+    },
+    {
+        "title": "The Country Bears",
+        "movie_id": "18357",
+        "cast": "['Haley Joel Osment', 'Diedrich Bader', 'Candy Ford']",
+        "crew": "['Peter Hastings']"
+    },
+    {
+        "title": "The Covenant",
+        "movie_id": "9954",
+        "cast": "['Steven Strait', 'Laura Ramsey', 'Jessica Lucas']",
+        "crew": "['Renny Harlin']"
+    },
+    {
+        "title": "The Craft",
+        "movie_id": "9100",
+        "cast": "['Robin Tunney', 'Fairuza Balk', 'Neve Campbell']",
+        "crew": "['Andrew Fleming']"
+    },
+    {
+        "title": "The Crazies",
+        "movie_id": "29427",
+        "cast": "['Timothy Olyphant', 'Radha Mitchell', 'Joe Anderson']",
+        "crew": "['Breck Eisner']"
+    },
+    {
+        "title": "The Crew",
+        "movie_id": "19150",
+        "cast": "['Richard Dreyfuss', 'Burt Reynolds', 'Dan Hedaya']",
+        "crew": "['Michael Dinner']"
+    },
+    {
+        "title": "The Crocodile Hunter: Collision Course",
+        "movie_id": "17043",
+        "cast": "['Steve Irwin', 'Terri Irwin', 'Magda Szubanski']",
+        "crew": "['John Stainton']"
+    },
+    {
+        "title": "The Cry of the Owl",
+        "movie_id": "18530",
+        "cast": "['Paddy Considine', 'Julia Stiles', 'Caroline Dhavernas']",
+        "crew": "['Jamie Thraves']"
+    },
+    {
+        "title": "The Dangerous Lives of Altar Boys",
+        "movie_id": "16857",
+        "cast": "['Emile Hirsch', 'Kieran Culkin', 'Jodie Foster']",
+        "crew": "['Peter Care']"
+    },
+    {
+        "title": "The Debt",
+        "movie_id": "48289",
+        "cast": "['Helen Mirren', 'Ciar\u00e1n Hinds', 'Tom Wilkinson']",
+        "crew": "['John Madden']"
+    },
+    {
+        "title": "The Deer Hunter",
+        "movie_id": "11778",
+        "cast": "['Robert De Niro', 'John Cazale', 'John Savage']",
+        "crew": "['Michael Cimino']"
+    },
+    {
+        "title": "The Descendants",
+        "movie_id": "65057",
+        "cast": "['George Clooney', 'Shailene Woodley', 'Amara Miller']",
+        "crew": "['Alexander Payne']"
+    },
+    {
+        "title": "The Devil's Double",
+        "movie_id": "62630",
+        "cast": "['Dominic Cooper', 'Ludivine Sagnier', 'Raad Rawi']",
+        "crew": "['Lee Tamahori']"
+    },
+    {
+        "title": "The Diving Bell and the Butterfly",
+        "movie_id": "2013",
+        "cast": "['Mathieu Amalric', 'Emmanuelle Seigner', 'Marie-Jos\u00e9e Croze']",
+        "crew": "['Julian Schnabel']"
+    },
+    {
+        "title": "The Emperor's Club",
+        "movie_id": "17187",
+        "cast": "['Kevin Kline', 'Emile Hirsch', 'Embeth Davidtz']",
+        "crew": "['Michael Hoffman']"
+    },
+    {
+        "title": "The End of the Affair",
+        "movie_id": "20024",
+        "cast": "['Ralph Fiennes', 'Stephen Rea', 'Julianne Moore']",
+        "crew": "['Neil Jordan']"
+    },
+    {
+        "title": "The Exorcism of Emily Rose",
+        "movie_id": "8643",
+        "cast": "['Laura Linney', 'Tom Wilkinson', 'Campbell Scott']",
+        "crew": "['Scott Derrickson']"
+    },
+    {
+        "title": "The Exorcist",
+        "movie_id": "9552",
+        "cast": "['Linda Blair', 'Max von Sydow', 'Ellen Burstyn']",
+        "crew": "['William Friedkin']"
+    },
+    {
+        "title": "The Eye",
+        "movie_id": "9030",
+        "cast": "['Jessica Alba', 'Alessandro Nivola', 'Parker Posey']",
+        "crew": "['David Moreau']"
+    },
+    {
+        "title": "The Faculty",
+        "movie_id": "9276",
+        "cast": "['Jordana Brewster', 'Elijah Wood', 'Clea DuVall']",
+        "crew": "['Robert Rodriguez']"
+    },
+    {
+        "title": "The Fall of the Roman Empire",
+        "movie_id": "17277",
+        "cast": "['Sophia Loren', 'Stephen Boyd', 'Alec Guinness']",
+        "crew": "['Anthony Mann']"
+    },
+    {
+        "title": "The Family Stone",
+        "movie_id": "9043",
+        "cast": "['Claire Danes', 'Diane Keaton', 'Rachel McAdams']",
+        "crew": "['Thomas Bezucha']"
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "movie_id": "222935",
+        "cast": "['Shailene Woodley', 'Ansel Elgort', 'Nat Wolff']",
+        "crew": "['Josh Boone']"
+    },
+    {
+        "title": "The Fighter",
+        "movie_id": "45317",
+        "cast": "['Mark Wahlberg', 'Christian Bale', 'Amy Adams']",
+        "crew": "['David O. Russell']"
+    },
+    {
+        "title": "The Fog",
+        "movie_id": "790",
+        "cast": "['Adrienne Barbeau', 'Jamie Lee Curtis', 'Janet Leigh']",
+        "crew": "['John Carpenter']"
+    },
+    {
+        "title": "The French Connection",
+        "movie_id": "1051",
+        "cast": "['Gene Hackman', 'Fernando Rey', 'Roy Scheider']",
+        "crew": "['William Friedkin']"
+    },
+    {
+        "title": "The Frozen Ground",
+        "movie_id": "199373",
+        "cast": "['Nicolas Cage', 'Vanessa Hudgens', 'John Cusack']",
+        "crew": "['Scott Walker']"
+    },
+    {
+        "title": "The Funeral",
+        "movie_id": "21612",
+        "cast": "['Christopher Walken', 'Chris Penn', 'Annabella Sciorra']",
+        "crew": "['Abel Ferrara']"
+    },
+    {
+        "title": "The Game Plan",
+        "movie_id": "13680",
+        "cast": "['Dwayne Johnson', 'Madison Pettis', 'Kyra Sedgwick']",
+        "crew": "['Andy Fickman']"
+    },
+    {
+        "title": "The Game of Their Lives",
+        "movie_id": "29078",
+        "cast": "['Gerard Butler', 'Wes Bentley', 'Gavin Rossdale']",
+        "crew": "['David Anspaugh']"
+    },
+    {
+        "title": "The Glass House",
+        "movie_id": "2176",
+        "cast": "['Leelee Sobieski', 'Diane Lane', 'Stellan Skarsg\u00e5rd']",
+        "crew": "['Daniel Sackheim']"
+    },
+    {
+        "title": "The Godfather: Part II",
+        "movie_id": "240",
+        "cast": "['Al Pacino', 'Robert Duvall', 'Diane Keaton']",
+        "crew": "['Francis Ford Coppola']"
+    },
+    {
+        "title": "The Golden Child",
+        "movie_id": "10136",
+        "cast": "['Eddie Murphy', 'Charles Dance', 'Charlotte Lewis']",
+        "crew": "['Michael Ritchie']"
+    },
+    {
+        "title": "The Good Night",
+        "movie_id": "13501",
+        "cast": "['Pen\u00e9lope Cruz', 'Martin Freeman', 'Gwyneth Paltrow']",
+        "crew": "['Jake Paltrow']"
+    },
+    {
+        "title": "The Great Beauty",
+        "movie_id": "179144",
+        "cast": "['Toni Servillo', 'Carlo Verdone', 'Sabrina Ferilli']",
+        "crew": "['Paolo Sorrentino']"
+    },
+    {
+        "title": "The Great Debaters",
+        "movie_id": "14047",
+        "cast": "['Denzel Washington', 'Nate Parker', 'Forest Whitaker']",
+        "crew": "['Denzel Washington']"
+    },
+    {
+        "title": "The Greatest Story Ever Told",
+        "movie_id": "2428",
+        "cast": "['Max von Sydow', 'Michael Anderson Jr.', 'Carroll Baker']",
+        "crew": "['George Stevens']"
+    },
+    {
+        "title": "The Grudge",
+        "movie_id": "1970",
+        "cast": "['Sarah Michelle Gellar', 'Jason Behr', 'Clea DuVall']",
+        "crew": "['Takashi Shimizu']"
+    },
+    {
+        "title": "The Grudge 2",
+        "movie_id": "1975",
+        "cast": "['Sarah Michelle Gellar', 'Amber Tamblyn', 'Edison Chen']",
+        "crew": "['Takashi Shimizu']"
+    },
+    {
+        "title": "The Guru",
+        "movie_id": "9027",
+        "cast": "['Jimi Mistry', 'Heather Graham', 'Marisa Tomei']",
+        "crew": "['Daisy von Scherler Mayer']"
+    },
+    {
+        "title": "The Hills Have Eyes",
+        "movie_id": "9792",
+        "cast": "['Aaron Stanford', 'Kathleen Quinlan', 'Vinessa Shaw']",
+        "crew": "['Alexandre Aja']"
+    },
+    {
+        "title": "The Hills Have Eyes 2",
+        "movie_id": "9793",
+        "cast": "['Michael Bailey Smith', 'Archie Kao', 'Jay Acovone']",
+        "crew": "['Martin Weisz']"
+    },
+    {
+        "title": "The Homesman",
+        "movie_id": "264656",
+        "cast": "['Hilary Swank', 'Tommy Lee Jones', 'Grace Gummer']",
+        "crew": "['Tommy Lee Jones']"
+    },
+    {
+        "title": "The Hundred-Foot Journey",
+        "movie_id": "228194",
+        "cast": "['Helen Mirren', 'Manish Dayal', 'Om Puri']",
+        "crew": "['Lasse Hallstr\u00f6m']"
+    },
+    {
+        "title": "The Hurt Locker",
+        "movie_id": "12162",
+        "cast": "['Jeremy Renner', 'Anthony Mackie', 'Brian Geraghty']",
+        "crew": "['Kathryn Bigelow']"
+    },
+    {
+        "title": "The Ice Storm",
+        "movie_id": "68924",
+        "cast": "['Kevin Kline', 'Joan Allen', 'Sigourney Weaver']",
+        "crew": "['Ang Lee']"
+    },
+    {
+        "title": "The Illusionist",
+        "movie_id": "1491",
+        "cast": "['Edward Norton', 'Jessica Biel', 'Paul Giamatti']",
+        "crew": "['Neil Burger']"
+    },
+    {
+        "title": "The Imitation Game",
+        "movie_id": "205596",
+        "cast": "['Benedict Cumberbatch', 'Keira Knightley', 'Matthew Goode']",
+        "crew": "['Morten Tyldum']"
+    },
+    {
+        "title": "The Immigrant",
+        "movie_id": "152599",
+        "cast": "['Marion Cotillard', 'Jeremy Renner', 'Joaquin Phoenix']",
+        "crew": "['James Gray']"
+    },
+    {
+        "title": "The Importance of Being Earnest",
+        "movie_id": "9026",
+        "cast": "['Rupert Everett', 'Colin Firth', 'Reese Witherspoon']",
+        "crew": "['Oliver Parker']"
+    },
+    {
+        "title": "The In Crowd",
+        "movie_id": "36047",
+        "cast": "['Susan Ward', 'Lori Heuring', 'Matthew Settle']",
+        "crew": "['Mary Lambert']"
+    },
+    {
+        "title": "The Informant!",
+        "movie_id": "11323",
+        "cast": "['Matt Damon', 'Scott Bakula', 'Joel McHale']",
+        "crew": "['Steven Soderbergh']"
+    },
+    {
+        "title": "The Informers",
+        "movie_id": "17436",
+        "cast": "['Billy Bob Thornton', 'Kim Basinger', 'Mickey Rourke']",
+        "crew": "['Gregor Jordan']"
+    },
+    {
+        "title": "The Invention of Lying",
+        "movie_id": "23082",
+        "cast": "['Ricky Gervais', 'Jennifer Garner', 'Jonah Hill']",
+        "crew": "['Ricky Gervais']"
+    },
+    {
+        "title": "The Iron Lady",
+        "movie_id": "71688",
+        "cast": "['Meryl Streep', 'Anthony Stewart Head', 'Harry Lloyd']",
+        "crew": "['Phyllida Lloyd']"
+    },
+    {
+        "title": "The Jungle Book 2",
+        "movie_id": "14873",
+        "cast": "['John Goodman', 'Haley Joel Osment', 'Mae Whitman']",
+        "crew": "['Steve Trenbirth']"
+    },
+    {
+        "title": "The Killer Inside Me",
+        "movie_id": "37414",
+        "cast": "['Casey Affleck', 'Kate Hudson', 'Jessica Alba']",
+        "crew": "['Michael Winterbottom']"
+    },
+    {
+        "title": "The King's Speech",
+        "movie_id": "45269",
+        "cast": "['Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter']",
+        "crew": "['Tom Hooper']"
+    },
+    {
+        "title": "The Kite Runner",
+        "movie_id": "7979",
+        "cast": "['Khalid Abdalla', 'Atossa Leoni', 'Shaun Toub']",
+        "crew": "['Marc Forster']"
+    },
+    {
+        "title": "The Ladies Man",
+        "movie_id": "16888",
+        "cast": "['Tim Meadows', 'Karyn Parsons', 'Billy Dee Williams']",
+        "crew": "['Reginald Hudlin']"
+    },
+    {
+        "title": "The Land Before Time",
+        "movie_id": "12144",
+        "cast": "['Gabriel Damon', 'Candace Hutson', 'Judith Barsi']",
+        "crew": "['Don Bluth']"
+    },
+    {
+        "title": "The Last Days on Mars",
+        "movie_id": "190847",
+        "cast": "['Liev Schreiber', 'Romola Garai', 'Elias Koteas']",
+        "crew": "['Ruairi Robinson']"
+    },
+    {
+        "title": "The Last Godfather",
+        "movie_id": "70829",
+        "cast": "['Harvey Keitel', 'Jason Mewes', 'Blake Clark']",
+        "crew": "['Shim Hyung-Rae']"
+    },
+    {
+        "title": "The Last House on the Left",
+        "movie_id": "18405",
+        "cast": "['Garret Dillahunt', 'Michael Bowen', 'Joshua Cox']",
+        "crew": "['Dennis Iliadis']"
+    },
+    {
+        "title": "The Last Song",
+        "movie_id": "35690",
+        "cast": "['Miley Cyrus', 'Greg Kinnear', 'Bobby Coleman']",
+        "crew": "['Julie Anne Robinson']"
+    },
+    {
+        "title": "The Last Station",
+        "movie_id": "36811",
+        "cast": "['James McAvoy', 'Christopher Plummer', 'Helen Mirren']",
+        "crew": "['Michael Hoffman']"
+    },
+    {
+        "title": "The Legend of the Lone Ranger",
+        "movie_id": "38665",
+        "cast": "['Christopher Lloyd', 'Matt Clark', 'Juanin Clay']",
+        "crew": "['William A. Fraker']"
+    },
+    {
+        "title": "The Libertine",
+        "movie_id": "7548",
+        "cast": "['Johnny Depp', 'Samantha Morton', 'John Malkovich']",
+        "crew": "['Laurence Dunmore']"
+    },
+    {
+        "title": "The Life Before Her Eyes",
+        "movie_id": "13079",
+        "cast": "['Uma Thurman', 'Evan Rachel Wood', 'Eva Amurri Martino']",
+        "crew": "['Vadim Perelman']"
+    },
+    {
+        "title": "The Little Vampire",
+        "movie_id": "24100",
+        "cast": "['Richard E. Grant', 'Jonathan Lipnicki', 'Jim Carter']",
+        "crew": "['Uli Edel']"
+    },
+    {
+        "title": "The Lizzie McGuire Movie",
+        "movie_id": "18736",
+        "cast": "['Hilary Duff', 'Adam Lamberg', 'Hallie Todd']",
+        "crew": "['Jim Fall']"
+    },
+    {
+        "title": "The Longest Day",
+        "movie_id": "9289",
+        "cast": "['Eddie Albert', 'Paul Anka', 'Arletty']",
+        "crew": "['Bernhard Wicki']"
+    },
+    {
+        "title": "The Longshots",
+        "movie_id": "13579",
+        "cast": "['Ice Cube', 'Keke Palmer', 'Tasha Smith']",
+        "crew": "['Fred Durst']"
+    },
+    {
+        "title": "The Love Letter",
+        "movie_id": "57943",
+        "cast": "['Campbell Scott', 'Jennifer Jason Leigh', 'David Dukes']",
+        "crew": "['Dan Curtis']"
+    },
+    {
+        "title": "The Lucky Ones",
+        "movie_id": "16005",
+        "cast": "['Tim Robbins', 'Rachel McAdams', 'Michael Pe\u00f1a']",
+        "crew": "['Neil Burger']"
+    },
+    {
+        "title": "The Man",
+        "movie_id": "9074",
+        "cast": "['Samuel L. Jackson', 'Eugene Levy', 'Luke Goss']",
+        "crew": "['Les Mayfield']"
+    },
+    {
+        "title": "The Man Who Knew Too Little",
+        "movie_id": "9414",
+        "cast": "['Bill Murray', 'Peter Gallagher', 'Joanne Whalley']",
+        "crew": "['Jon Amiel']"
+    },
+    {
+        "title": "The Man with the Iron Fists",
+        "movie_id": "97430",
+        "cast": "['Russell Crowe', 'Lucy Liu', 'Jamie Chung']",
+        "crew": "['RZA']"
+    },
+    {
+        "title": "The Marine",
+        "movie_id": "8975",
+        "cast": "['John Cena', 'Kelly Carlson', 'Robert Patrick']",
+        "crew": "['John Bonito']"
+    },
+    {
+        "title": "The Mask",
+        "movie_id": "854",
+        "cast": "['Jim Carrey', 'Cameron Diaz', 'Nancy Fish']",
+        "crew": "['Chuck Russell']"
+    },
+    {
+        "title": "The Master of Disguise",
+        "movie_id": "13908",
+        "cast": "['Dana Carvey', 'Brent Spiner', 'Jennifer Esposito']",
+        "crew": "['Perry Andelin Blake']"
+    },
+    {
+        "title": "The Midnight Meat Train",
+        "movie_id": "10185",
+        "cast": "['Bradley Cooper', 'Vinnie Jones', 'Brooke Shields']",
+        "crew": "['Ry\u00fbhei Kitamura']"
+    },
+    {
+        "title": "The Mighty Ducks",
+        "movie_id": "10414",
+        "cast": "['Emilio Estevez', 'Joss Ackland', 'Lane Smith']",
+        "crew": "['Stephen Herek']"
+    },
+    {
+        "title": "The Mist",
+        "movie_id": "5876",
+        "cast": "['Thomas Jane', 'Marcia Gay Harden', 'Laurie Holden']",
+        "crew": "['Frank Darabont']"
+    },
+    {
+        "title": "The Molly Maguires",
+        "movie_id": "42345",
+        "cast": "['Sean Connery', 'Samantha Eggar', 'Richard Harris']",
+        "crew": "['Martin Ritt']"
+    },
+    {
+        "title": "The Muppet Christmas Carol",
+        "movie_id": "10437",
+        "cast": "['Michael Caine', 'Don Austen', 'Meredith Braun']",
+        "crew": "['Brian Henson']"
+    },
+    {
+        "title": "The Muse",
+        "movie_id": "37718",
+        "cast": "['Albert Brooks', 'Sharon Stone', 'Andie MacDowell']",
+        "crew": "['Albert Brooks']"
+    },
+    {
+        "title": "The Net",
+        "movie_id": "1642",
+        "cast": "['Sandra Bullock', 'Jeremy Northam', 'Dennis Miller']",
+        "crew": "['Irwin Winkler']"
+    },
+    {
+        "title": "The New Guy",
+        "movie_id": "10985",
+        "cast": "['DJ Qualls', 'Eliza Dushku', 'Zooey Deschanel']",
+        "crew": "['Ed Decter']"
+    },
+    {
+        "title": "The November Man",
+        "movie_id": "254904",
+        "cast": "['Pierce Brosnan', 'Luke Bracey', 'Olga Kurylenko']",
+        "crew": "['Roger Donaldson']"
+    },
+    {
+        "title": "The Nutcracker",
+        "movie_id": "73191",
+        "cast": "['Darci Kistler', 'Damian Woetzel', 'Bart Robinson Cook']",
+        "crew": "['Emile Ardolino']"
+    },
+    {
+        "title": "The Object of My Affection",
+        "movie_id": "17127",
+        "cast": "['Jennifer Aniston', 'Paul Rudd', 'Hayden Panettiere']",
+        "crew": "['Nicholas Hytner']"
+    },
+    {
+        "title": "The Oogieloves in the Big Balloon Adventure",
+        "movie_id": "112937",
+        "cast": "['Christopher Lloyd', 'Cary Elwes', 'Jaime Pressly']",
+        "crew": "['Matthew Diamond']"
+    },
+    {
+        "title": "The Others",
+        "movie_id": "1933",
+        "cast": "['Nicole Kidman', 'Christopher Eccleston', 'Alakina Mann']",
+        "crew": "['Alejandro Amen\u00e1bar']"
+    },
+    {
+        "title": "The Painted Veil",
+        "movie_id": "14202",
+        "cast": "['Edward Norton', 'Juliet Howland', 'Naomi Watts']",
+        "crew": "['John Curran']"
+    },
+    {
+        "title": "The Perez Family",
+        "movie_id": "63020",
+        "cast": "['Marisa Tomei', 'Alfred Molina', 'Anjelica Huston']",
+        "crew": "['Mira Nair']"
+    },
+    {
+        "title": "The Perfect Game",
+        "movie_id": "56601",
+        "cast": "['Clifton Collins Jr', 'Cheech Marin', 'Mois\u00e9s Arias']",
+        "crew": "['William Dear']"
+    },
+    {
+        "title": "The Perks of Being a Wallflower",
+        "movie_id": "84892",
+        "cast": "['Logan Lerman', 'Emma Watson', 'Ezra Miller']",
+        "crew": "['Stephen Chbosky']"
+    },
+    {
+        "title": "The Place Beyond the Pines",
+        "movie_id": "97367",
+        "cast": "['Ryan Gosling', 'Bradley Cooper', 'Eva Mendes']",
+        "crew": "['Derek Cianfrance']"
+    },
+    {
+        "title": "The Postman Always Rings Twice",
+        "movie_id": "11027",
+        "cast": "['Jack Nicholson', 'Jessica Lange', 'John Colicos']",
+        "crew": "['Bob Rafelson']"
+    },
+    {
+        "title": "The Prince",
+        "movie_id": "241254",
+        "cast": "['Bruce Willis', 'Jason Patric', 'John Cusack']",
+        "crew": "['Brian A Miller']"
+    },
+    {
+        "title": "The Princess Bride",
+        "movie_id": "2493",
+        "cast": "['Cary Elwes', 'Robin Wright', 'Mandy Patinkin']",
+        "crew": "['Rob Reiner']"
+    },
+    {
+        "title": "The Prisoner of Zenda",
+        "movie_id": "43867",
+        "cast": "['Ronald Colman', 'Madeleine Carroll', 'Raymond Massey']",
+        "crew": "['John Cromwell']"
+    },
+    {
+        "title": "The Proposition",
+        "movie_id": "16608",
+        "cast": "['Guy Pearce', 'Ray Winstone', 'Emily Watson']",
+        "crew": "['John Hillcoat']"
+    },
+    {
+        "title": "The Purge: Election Year",
+        "movie_id": "316727",
+        "cast": "['Elizabeth Mitchell', 'Frank Grillo', 'Mykelti Williamson']",
+        "crew": "['James DeMonaco']"
+    },
+    {
+        "title": "The Pursuit of D.B. Cooper",
+        "movie_id": "45226",
+        "cast": "['Robert Duvall', 'Treat Williams', 'Kathryn Harrold']",
+        "crew": "['Roger Spottiswoode']"
+    },
+    {
+        "title": "The Queen",
+        "movie_id": "1165",
+        "cast": "['Helen Mirren', 'Michael Sheen', 'James Cromwell']",
+        "crew": "['Stephen Frears']"
+    },
+    {
+        "title": "The Quiet American",
+        "movie_id": "8198",
+        "cast": "['Michael Caine', 'Brendan Fraser', '\u0110\u1ed7 Th\u1ecb H\u1ea3i Y\u1ebfn']",
+        "crew": "['Phillip Noyce']"
+    },
+    {
+        "title": "The Rage: Carrie 2",
+        "movie_id": "7341",
+        "cast": "['Emily Bergl', 'Jason London', 'Amy Irving']",
+        "crew": "['Katt Shea']"
+    },
+    {
+        "title": "The Railway Man",
+        "movie_id": "127560",
+        "cast": "['Jeremy Irvine', 'Colin Firth', 'Stellan Skarsg\u00e5rd']",
+        "crew": "['Jonathan Teplitzky']"
+    },
+    {
+        "title": "The Remains of the Day",
+        "movie_id": "1245",
+        "cast": "['Anthony Hopkins', 'Emma Thompson', 'James Fox']",
+        "crew": "['James Ivory']"
+    },
+    {
+        "title": "The Return",
+        "movie_id": "11190",
+        "cast": "['Vladimir Garin', 'Konstantin Lavronenko', 'Nataliya Vdovina']",
+        "crew": "['Andrey Zvyagintsev']"
+    },
+    {
+        "title": "The Rocker",
+        "movie_id": "10186",
+        "cast": "['Rainn Wilson', 'Josh Gad', 'Christina Applegate']",
+        "crew": "['Peter Cattaneo']"
+    },
+    {
+        "title": "The Rookie",
+        "movie_id": "14635",
+        "cast": "['Dennis Quaid', 'Rachel Griffiths', 'Beth Grant']",
+        "crew": "['John Lee Hancock']"
+    },
+    {
+        "title": "The Roommate",
+        "movie_id": "49950",
+        "cast": "['Minka Kelly', 'Leighton Meester', 'Cam Gigandet']",
+        "crew": "['Christian E. Christiansen']"
+    },
+    {
+        "title": "The Santa Clause",
+        "movie_id": "11395",
+        "cast": "['Tim Allen', 'Judge Reinhold', 'Wendy Crewson']",
+        "crew": "['John Pasquin']"
+    },
+    {
+        "title": "The Sea Inside",
+        "movie_id": "1913",
+        "cast": "['Javier Bardem', 'Bel\u00e9n Rueda', 'Lola Due\u00f1as']",
+        "crew": "['Alejandro Amen\u00e1bar']"
+    },
+    {
+        "title": "The Secret Life of Bees",
+        "movie_id": "12837",
+        "cast": "['Dakota Fanning', 'Queen Latifah', 'Jennifer Hudson']",
+        "crew": "['Gina Prince-Bythewood']"
+    },
+    {
+        "title": "The Shallows",
+        "movie_id": "332567",
+        "cast": "['Blake Lively', '\u00d3scar Jaenada', 'Angelo Josue Lozano Corzo']",
+        "crew": "['Jaume Collet-Serra']"
+    },
+    {
+        "title": "The Shining",
+        "movie_id": "694",
+        "cast": "['Jack Nicholson', 'Shelley Duvall', 'Danny Lloyd']",
+        "crew": "['Stanley Kubrick']"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "movie_id": "274",
+        "cast": "['Jodie Foster', 'Anthony Hopkins', 'Scott Glenn']",
+        "crew": "['Jonathan Demme']"
+    },
+    {
+        "title": "The Skulls",
+        "movie_id": "11478",
+        "cast": "['Joshua Jackson', 'Paul Walker', 'Hill Harper']",
+        "crew": "['Rob Cohen']"
+    },
+    {
+        "title": "The Son of No One",
+        "movie_id": "74536",
+        "cast": "['Channing Tatum', 'Al Pacino', 'Juliette Binoche']",
+        "crew": "['Dito Montiel']"
+    },
+    {
+        "title": "The Spy Who Loved Me",
+        "movie_id": "691",
+        "cast": "['Roger Moore', 'Barbara Bach', 'Curd J\u00fcrgens']",
+        "crew": "['Lewis Gilbert']"
+    },
+    {
+        "title": "The Stepfather",
+        "movie_id": "19904",
+        "cast": "['Dylan Walsh', 'Sela Ward', 'Penn Badgley']",
+        "crew": "['Nelson McCormick']"
+    },
+    {
+        "title": "The Switch",
+        "movie_id": "41210",
+        "cast": "['Jason Bateman', 'Jennifer Aniston', 'Jeff Goldblum']",
+        "crew": "['Josh Gordon']"
+    },
+    {
+        "title": "The Tailor of Panama",
+        "movie_id": "2575",
+        "cast": "['Pierce Brosnan', 'Geoffrey Rush', 'Jamie Lee Curtis']",
+        "crew": "['John Boorman']"
+    },
+    {
+        "title": "The Tempest",
+        "movie_id": "44638",
+        "cast": "['Helen Mirren', 'Felicity Jones', 'Reeve Carney']",
+        "crew": "['Julie Taymor']"
+    },
+    {
+        "title": "The Texas Chainsaw Massacre: The Beginning",
+        "movie_id": "10781",
+        "cast": "['Jordana Brewster', 'Taylor Handley', 'Diora Baird']",
+        "crew": "['Jonathan Liebesman']"
+    },
+    {
+        "title": "The Theory of Everything",
+        "movie_id": "266856",
+        "cast": "['Eddie Redmayne', 'Felicity Jones', 'Charlie Cox']",
+        "crew": "['James Marsh']"
+    },
+    {
+        "title": "The Thirteenth Floor",
+        "movie_id": "1090",
+        "cast": "['Craig Bierko', 'Armin Mueller-Stahl', 'Gretchen Mol']",
+        "crew": "['Josef Rusnak']"
+    },
+    {
+        "title": "The Three Burials of Melquiades Estrada",
+        "movie_id": "8053",
+        "cast": "['Tommy Lee Jones', 'Barry Pepper', 'Dwight Yoakam']",
+        "crew": "['Tommy Lee Jones']"
+    },
+    {
+        "title": "The Tigger Movie",
+        "movie_id": "15655",
+        "cast": "['Jim Cummings', 'Nikita Hopkins', 'Ken Sansom']",
+        "crew": "['Jun Falkenstein']"
+    },
+    {
+        "title": "The Transporter",
+        "movie_id": "4108",
+        "cast": "['Jason Statham', 'Shu Qi', 'Fran\u00e7ois Berl\u00e9and']",
+        "crew": "['Louis Leterrier']"
+    },
+    {
+        "title": "The Transporter Refueled",
+        "movie_id": "287948",
+        "cast": "['Ed Skrein', 'Ray Stevenson', 'Loan Chabanol']",
+        "crew": "['Camille Delamarre']"
+    },
+    {
+        "title": "The Unborn",
+        "movie_id": "13788",
+        "cast": "['Odette Annable', 'Gary Oldman', 'Meagan Good']",
+        "crew": "['David S. Goyer']"
+    },
+    {
+        "title": "The Upside of Anger",
+        "movie_id": "11354",
+        "cast": "['Joan Allen', 'Kevin Costner', 'Erika Christensen']",
+        "crew": "['Mike Binder']"
+    },
+    {
+        "title": "The Vatican Tapes",
+        "movie_id": "157544",
+        "cast": "['Olivia Taylor Dudley', 'Michael Pe\u00f1a', 'Djimon Hounsou']",
+        "crew": "['Mark Neveldine']"
+    },
+    {
+        "title": "The Verdict",
+        "movie_id": "24226",
+        "cast": "['Paul Newman', 'Charlotte Rampling', 'Jack Warden']",
+        "crew": "['Sidney Lumet']"
+    },
+    {
+        "title": "The Visitors II: The Corridors of Time",
+        "movie_id": "10353",
+        "cast": "['Christian Clavier', 'Jean Reno', 'Marie-Anne Chazel']",
+        "crew": "['Jean-Marie Poir\u00e9']"
+    },
+    {
+        "title": "The Visual Bible: The Gospel of John",
+        "movie_id": "30973",
+        "cast": "['Christopher Plummer', 'Henry Ian Cusick', 'Stuart Bunce']",
+        "crew": "['Philip Saville']"
+    },
+    {
+        "title": "The Water Diviner",
+        "movie_id": "256917",
+        "cast": "['Russell Crowe', 'Olga Kurylenko', 'Y\u0131lmaz Erdo\u011fan']",
+        "crew": "['Russell Crowe']"
+    },
+    {
+        "title": "The Weather Man",
+        "movie_id": "6963",
+        "cast": "['Nicolas Cage', 'Michael Caine', 'Hope Davis']",
+        "crew": "['Gore Verbinski']"
+    },
+    {
+        "title": "The Wedding Date",
+        "movie_id": "6961",
+        "cast": "['Debra Messing', 'Dermot Mulroney', 'Amy Adams']",
+        "crew": "['Clare Kilner']"
+    },
+    {
+        "title": "The White Countess",
+        "movie_id": "18840",
+        "cast": "['Ralph Fiennes', 'Natasha Richardson', 'Hiroyuki Sanada']",
+        "crew": "['James Ivory']"
+    },
+    {
+        "title": "The White Ribbon",
+        "movie_id": "37903",
+        "cast": "['Ursina Lardi', 'Ulrich Tukur', 'Burghart Klau\u00dfner']",
+        "crew": "['Michael Haneke']"
+    },
+    {
+        "title": "The Widow of Saint-Pierre",
+        "movie_id": "48217",
+        "cast": "['Daniel Auteuil', 'Emir Kusturica', 'Juliette Binoche']",
+        "crew": "['Patrice Leconte']"
+    },
+    {
+        "title": "The Woman in Black",
+        "movie_id": "65086",
+        "cast": "['Daniel Radcliffe', 'Ciar\u00e1n Hinds', 'Sidney Johnston']",
+        "crew": "['James Watkins']"
+    },
+    {
+        "title": "The Women",
+        "movie_id": "13972",
+        "cast": "['Cloris Leachman', 'India Ennenga', 'Annette Bening']",
+        "crew": "['Diane English']"
+    },
+    {
+        "title": "The World's End",
+        "movie_id": "107985",
+        "cast": "['Simon Pegg', 'Nick Frost', 'Martin Freeman']",
+        "crew": "['Edgar Wright']"
+    },
+    {
+        "title": "The Wraith",
+        "movie_id": "10017",
+        "cast": "['Charlie Sheen', 'Nick Cassavetes', 'Sherilyn Fenn']",
+        "crew": "['Mike Marvin']"
+    },
+    {
+        "title": "The Yards",
+        "movie_id": "19457",
+        "cast": "['Mark Wahlberg', 'Joaquin Phoenix', 'Charlize Theron']",
+        "crew": "['James Gray']"
+    },
+    {
+        "title": "The Yellow Handkerchief",
+        "movie_id": "22556",
+        "cast": "['William Hurt', 'Maria Bello', 'Kristen Stewart']",
+        "crew": "['Udayan Prasad']"
+    },
+    {
+        "title": "The Young Messiah",
+        "movie_id": "318850",
+        "cast": "['Adam Greaves-Neal', 'Sara Lazzaro', 'Vincent Walsh']",
+        "crew": "['Cyrus Nowrasteh']"
+    },
+    {
+        "title": "There Goes My Baby",
+        "movie_id": "88641",
+        "cast": "['Dermot Mulroney', 'Ricky Schroder', 'Kelli Williams']",
+        "crew": "['Floyd Mutrux']"
+    },
+    {
+        "title": "There's Something About Mary",
+        "movie_id": "544",
+        "cast": "['Cameron Diaz', 'Ben Stiller', 'Matt Dillon']",
+        "crew": "['Bobby Farrelly']"
+    },
+    {
+        "title": "They",
+        "movie_id": "16028",
+        "cast": "['Laura Regan', 'Marc Blucas', 'Ethan Embry']",
+        "crew": "['Robert Harmon']"
+    },
+    {
+        "title": "Things We Lost in the Fire",
+        "movie_id": "3877",
+        "cast": "['Halle Berry', 'Benicio del Toro', 'David Duchovny']",
+        "crew": "['Susanne Bier']"
+    },
+    {
+        "title": "Things to Do in Denver When You're Dead",
+        "movie_id": "400",
+        "cast": "['Andy Garc\u00eda', 'Christopher Lloyd', 'William Forsythe']",
+        "crew": "['Gary Fleder']"
+    },
+    {
+        "title": "Think Like a Man",
+        "movie_id": "67660",
+        "cast": "['Michael Ealy', 'Jerry Ferrara', 'Meagan Good']",
+        "crew": "['Tim Story']"
+    },
+    {
+        "title": "Thinner",
+        "movie_id": "10280",
+        "cast": "['Robert John Burke', 'Joe Mantegna', 'Lucinda Jenney']",
+        "crew": "['Tom Holland']"
+    },
+    {
+        "title": "Thir13en Ghosts",
+        "movie_id": "9378",
+        "cast": "['Tony Shalhoub', 'Embeth Davidtz', 'Matthew Lillard']",
+        "crew": "['Steve Beck']"
+    },
+    {
+        "title": "This Christmas",
+        "movie_id": "15250",
+        "cast": "['Loretta Devine', 'Delroy Lindo', 'Idris Elba']",
+        "crew": "['Preston A. Whitmore II']"
+    },
+    {
+        "title": "This Is Where I Leave You",
+        "movie_id": "239678",
+        "cast": "['Jason Bateman', 'Tina Fey', 'Adam Driver']",
+        "crew": "['Shawn Levy']"
+    },
+    {
+        "title": "Thomas and the Magic Railroad",
+        "movie_id": "16110",
+        "cast": "['Alec Baldwin', 'Peter Fonda', 'Mara Wilson']",
+        "crew": "['Britt Allcroft']"
+    },
+    {
+        "title": "Three Kingdoms: Resurrection of the Dragon",
+        "movie_id": "14538",
+        "cast": "['Sammo Hung', 'Vanness Wu', 'Maggie Q']",
+        "crew": "['Daniel Lee']"
+    },
+    {
+        "title": "Three Men and a Baby",
+        "movie_id": "12154",
+        "cast": "['Tom Selleck', 'Steve Guttenberg', 'Ted Danson']",
+        "crew": "['Leonard Nimoy']"
+    },
+    {
+        "title": "Three to Tango",
+        "movie_id": "10563",
+        "cast": "['Matthew Perry', 'Neve Campbell', 'Dylan McDermott']",
+        "crew": "['Damon Santostefano']"
+    },
+    {
+        "title": "Tidal Wave",
+        "movie_id": "33196",
+        "cast": "['Park Joong-hoon', 'Sol Kyung-gu', 'Uhm Jung-hwa']",
+        "crew": "['Yoon Je-kyoon']"
+    },
+    {
+        "title": "Time Bandits",
+        "movie_id": "36819",
+        "cast": "['Sean Connery', 'John Cleese', 'Shelley Duvall']",
+        "crew": "['Terry Gilliam']"
+    },
+    {
+        "title": "Tinker Tailor Soldier Spy",
+        "movie_id": "49517",
+        "cast": "['John Hurt', 'Gary Oldman', 'Kathy Burke']",
+        "crew": "['Tomas Alfredson']"
+    },
+    {
+        "title": "To Die For",
+        "movie_id": "577",
+        "cast": "['Nicole Kidman', 'Matt Dillon', 'Joaquin Phoenix']",
+        "crew": "['Gus Van Sant']"
+    },
+    {
+        "title": "To Rome with Love",
+        "movie_id": "81836",
+        "cast": "['Ellen Page', 'Woody Allen', 'Jesse Eisenberg']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Tomcats",
+        "movie_id": "10646",
+        "cast": "[\"Jerry O'Connell\", 'Shannon Elizabeth', 'Jake Busey']",
+        "crew": "['Gregory Poirier']"
+    },
+    {
+        "title": "Tootsie",
+        "movie_id": "9576",
+        "cast": "['Dustin Hoffman', 'Jessica Lange', 'Teri Garr']",
+        "crew": "['Sydney Pollack']"
+    },
+    {
+        "title": "Top Five",
+        "movie_id": "284296",
+        "cast": "['Chris Rock', 'Rosario Dawson', 'J.B. Smoove']",
+        "crew": "['Chris Rock']"
+    },
+    {
+        "title": "Top Gun",
+        "movie_id": "744",
+        "cast": "['Tom Cruise', 'Kelly McGillis', 'Val Kilmer']",
+        "crew": "['Tony Scott']"
+    },
+    {
+        "title": "Topsy-Turvy",
+        "movie_id": "46435",
+        "cast": "['Allan Corduner', 'Jim Broadbent', 'Timothy Spall']",
+        "crew": "['Mike Leigh']"
+    },
+    {
+        "title": "Trade",
+        "movie_id": "4170",
+        "cast": "['Kevin Kline', 'Cesar Ramos', 'Paulina Gaita\u0301n']",
+        "crew": "['Marco Kreuzpaintner']"
+    },
+    {
+        "title": "Trance",
+        "movie_id": "68727",
+        "cast": "['James McAvoy', 'Vincent Cassel', 'Rosario Dawson']",
+        "crew": "['Danny Boyle']"
+    },
+    {
+        "title": "Transsiberian",
+        "movie_id": "6687",
+        "cast": "['Woody Harrelson', 'Emily Mortimer', 'Kate Mara']",
+        "crew": "['Brad Anderson']"
+    },
+    {
+        "title": "Trash",
+        "movie_id": "206563",
+        "cast": "['Rickson Tevez', 'Eduardo Luis', 'Gabriel Weinstein']",
+        "crew": "['Stephen Daldry']"
+    },
+    {
+        "title": "Triangle",
+        "movie_id": "26466",
+        "cast": "['Melissa George', 'Liam Hemsworth', 'Emma Lung']",
+        "crew": "['Christopher Smith']"
+    },
+    {
+        "title": "Triple 9",
+        "movie_id": "146198",
+        "cast": "['Casey Affleck', 'Chiwetel Ejiofor', 'Woody Harrelson']",
+        "crew": "['John Hillcoat']"
+    },
+    {
+        "title": "Troop Beverly Hills",
+        "movie_id": "22102",
+        "cast": "['Shelley Long', 'Craig T. Nelson', 'Betty Thomas']",
+        "crew": "['Jeff Kanew']"
+    },
+    {
+        "title": "True Romance",
+        "movie_id": "319",
+        "cast": "['Christian Slater', 'Patricia Arquette', 'Michael Rapaport']",
+        "crew": "['Tony Scott']"
+    },
+    {
+        "title": "Tuck Everlasting",
+        "movie_id": "13768",
+        "cast": "['Alexis Bledel', 'William Hurt', 'Sissy Spacek']",
+        "crew": "['Jay Russell']"
+    },
+    {
+        "title": "Twins",
+        "movie_id": "9493",
+        "cast": "['Arnold Schwarzenegger', 'Danny DeVito', 'Kelly Preston']",
+        "crew": "['Ivan Reitman']"
+    },
+    {
+        "title": "Two Can Play That Game",
+        "movie_id": "25462",
+        "cast": "['Vivica A. Fox', 'Morris Chestnut', 'Anthony Anderson']",
+        "crew": "['Mark Brown']"
+    },
+    {
+        "title": "Two Lovers",
+        "movie_id": "10362",
+        "cast": "['Joaquin Phoenix', 'Gwyneth Paltrow', 'Isabella Rossellini']",
+        "crew": "['James Gray']"
+    },
+    {
+        "title": "U2 3D",
+        "movie_id": "37003",
+        "cast": "['Bono', 'The Edge', 'Adam Clayton']",
+        "crew": "['Mark Pellington']"
+    },
+    {
+        "title": "Under the Rainbow",
+        "movie_id": "47941",
+        "cast": "['Chevy Chase', 'Carrie Fisher', 'Eve Arden']",
+        "crew": "['Steve Rash']"
+    },
+    {
+        "title": "Under the Skin",
+        "movie_id": "97370",
+        "cast": "['Scarlett Johansson', 'Kry\u0161tof H\u00e1dek', 'Paul Brannigan']",
+        "crew": "['Jonathan Glazer']"
+    },
+    {
+        "title": "Under the Tuscan Sun",
+        "movie_id": "10934",
+        "cast": "['Diane Lane', 'Sandra Oh', 'Lindsay Duncan']",
+        "crew": "['Audrey Wells']"
+    },
+    {
+        "title": "Underdogs",
+        "movie_id": "153158",
+        "cast": "['Juan Jos\u00e9 Campanella', 'Diego Ramos', 'Pablo Rago']",
+        "crew": "['Juan Jos\u00e9 Campanella']"
+    },
+    {
+        "title": "Underworld",
+        "movie_id": "277",
+        "cast": "['Kate Beckinsale', 'Scott Speedman', 'Michael Sheen']",
+        "crew": "['Len Wiseman']"
+    },
+    {
+        "title": "Undisputed",
+        "movie_id": "15070",
+        "cast": "['Wesley Snipes', 'Ving Rhames', 'Peter Falk']",
+        "crew": "['Walter Hill']"
+    },
+    {
+        "title": "Unforgiven",
+        "movie_id": "33",
+        "cast": "['Clint Eastwood', 'Gene Hackman', 'Morgan Freeman']",
+        "crew": "['Clint Eastwood']"
+    },
+    {
+        "title": "United 93",
+        "movie_id": "9829",
+        "cast": "['J.J. Johnson', 'Polly Adams', 'Trish Gates']",
+        "crew": "['Paul Greengrass']"
+    },
+    {
+        "title": "Urban Legend",
+        "movie_id": "9877",
+        "cast": "['Alicia Witt', 'Jared Leto', 'Rebecca Gayheart']",
+        "crew": "['Jamie Blanks']"
+    },
+    {
+        "title": "Urban Legends: Final Cut",
+        "movie_id": "12212",
+        "cast": "['Jennifer Morrison', 'Matthew Davis', 'Loretta Devine']",
+        "crew": "['John Ottman']"
+    },
+    {
+        "title": "Vampire in Brooklyn",
+        "movie_id": "12158",
+        "cast": "['Eddie Murphy', 'Angela Bassett', 'Allen Payne']",
+        "crew": "['Wes Craven']"
+    },
+    {
+        "title": "Vampires",
+        "movie_id": "9945",
+        "cast": "['James Woods', 'Daniel Baldwin', 'Sheryl Lee']",
+        "crew": "['John Carpenter']"
+    },
+    {
+        "title": "Vampires Suck",
+        "movie_id": "40264",
+        "cast": "['Chris Riggi', 'Matt Lanter', 'Jenn Proske']",
+        "crew": "['Jason Friedberg']"
+    },
+    {
+        "title": "Vamps",
+        "movie_id": "73935",
+        "cast": "['Alicia Silverstone', 'Krysten Ritter', 'Sigourney Weaver']",
+        "crew": "['Amy Heckerling']"
+    },
+    {
+        "title": "Vanity Fair",
+        "movie_id": "11632",
+        "cast": "['Reese Witherspoon', 'James Purefoy', 'Jonathan Rhys Meyers']",
+        "crew": "['Mira Nair']"
+    },
+    {
+        "title": "Varsity Blues",
+        "movie_id": "14709",
+        "cast": "['James Van Der Beek', 'Amy Smart', 'Jon Voight']",
+        "crew": "['Brian Robbins']"
+    },
+    {
+        "title": "VeggieTales: The Pirates Who Don't Do Anything",
+        "movie_id": "15511",
+        "cast": "['Phil Vischer', 'Mike Nawrocki', 'Cam Clarke']",
+        "crew": "['Mike Nawrocki']"
+    },
+    {
+        "title": "Vera Drake",
+        "movie_id": "11109",
+        "cast": "['Imelda Staunton', 'Sally Hawkins', 'Richard Graham']",
+        "crew": "['Mike Leigh']"
+    },
+    {
+        "title": "Veronica Guerin",
+        "movie_id": "10629",
+        "cast": "['Cate Blanchett', 'Gerard McSorley', 'Ciar\u00e1n Hinds']",
+        "crew": "['Joel Schumacher']"
+    },
+    {
+        "title": "Vicky Cristina Barcelona",
+        "movie_id": "5038",
+        "cast": "['Scarlett Johansson', 'Rebecca Hall', 'Javier Bardem']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Wag the Dog",
+        "movie_id": "586",
+        "cast": "['Dustin Hoffman', 'Robert De Niro', 'Anne Heche']",
+        "crew": "['Barry Levinson']"
+    },
+    {
+        "title": "Wall Street",
+        "movie_id": "10673",
+        "cast": "['Charlie Sheen', 'Michael Douglas', 'Martin Sheen']",
+        "crew": "['Oliver Stone']"
+    },
+    {
+        "title": "WarGames",
+        "movie_id": "860",
+        "cast": "['Matthew Broderick', 'Dabney Coleman', 'Ally Sheedy']",
+        "crew": "['John Badham']"
+    },
+    {
+        "title": "Wasabi",
+        "movie_id": "2110",
+        "cast": "['Jean Reno', 'Ryoko Hirosue', 'Michel Muller']",
+        "crew": "['G\u00e9rard Krawczyk']"
+    },
+    {
+        "title": "Wayne's World",
+        "movie_id": "8872",
+        "cast": "['Mike Myers', 'Dana Carvey', 'Rob Lowe']",
+        "crew": "['Penelope Spheeris']"
+    },
+    {
+        "title": "We're No Angels",
+        "movie_id": "5971",
+        "cast": "['Robert De Niro', 'Sean Penn', 'Demi Moore']",
+        "crew": "['Neil Jordan']"
+    },
+    {
+        "title": "Welcome to Collinwood",
+        "movie_id": "9260",
+        "cast": "['William H. Macy', 'Isaiah Washington', 'Sam Rockwell']",
+        "crew": "['Anthony Russo']"
+    },
+    {
+        "title": "Welcome to the Sticks",
+        "movie_id": "8265",
+        "cast": "['Kad Merad', 'Dany Boon', 'Zo\u00e9 F\u00e9lix']",
+        "crew": "['Dany Boon']"
+    },
+    {
+        "title": "What's Eating Gilbert Grape",
+        "movie_id": "1587",
+        "cast": "['Johnny Depp', 'Leonardo DiCaprio', 'Juliette Lewis']",
+        "crew": "['Lasse Hallstr\u00f6m']"
+    },
+    {
+        "title": "What's Love Got to Do with It",
+        "movie_id": "15765",
+        "cast": "['Angela Bassett', 'Laurence Fishburne', 'Vanessa Bell Calloway']",
+        "crew": "['Brian Gibson']"
+    },
+    {
+        "title": "What's Your Number?",
+        "movie_id": "63492",
+        "cast": "['Chris Evans', 'Anna Faris', 'Martin Freeman']",
+        "crew": "['Mark Mylod']"
+    },
+    {
+        "title": "Whatever It Takes",
+        "movie_id": "16222",
+        "cast": "[\"Jodi Lyn O'Keefe\", 'Shane West', 'Marla Sokoloff']",
+        "crew": "['David Raynr']"
+    },
+    {
+        "title": "Whatever Works",
+        "movie_id": "19265",
+        "cast": "['Larry David', 'Evan Rachel Wood', 'Adam Brooks']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "When Harry Met Sally...",
+        "movie_id": "639",
+        "cast": "['Meg Ryan', 'Billy Crystal', 'Carrie Fisher']",
+        "crew": "['Rob Reiner']"
+    },
+    {
+        "title": "When a Stranger Calls",
+        "movie_id": "10053",
+        "cast": "['Camilla Belle', 'Katie Cassidy', 'Tommy Flanagan']",
+        "crew": "['Simon West']"
+    },
+    {
+        "title": "When the Game Stands Tall",
+        "movie_id": "232679",
+        "cast": "['Jim Caviezel', 'Michael Chiklis', 'Laura Dern']",
+        "crew": "['Thomas Carter']"
+    },
+    {
+        "title": "Where the Heart Is",
+        "movie_id": "10564",
+        "cast": "['Natalie Portman', 'Ashley Judd', 'Stockard Channing']",
+        "crew": "['Matt Williams']"
+    },
+    {
+        "title": "Whip It",
+        "movie_id": "22798",
+        "cast": "['Ellen Page', 'Alia Shawkat', 'Kristen Wiig']",
+        "crew": "['Drew Barrymore']"
+    },
+    {
+        "title": "White Chicks",
+        "movie_id": "12153",
+        "cast": "['Shawn Wayans', 'Marlon Wayans', 'Jaime King']",
+        "crew": "['Keenen Ivory Wayans']"
+    },
+    {
+        "title": "White Fang",
+        "movie_id": "12227",
+        "cast": "['Klaus Maria Brandauer', 'Ethan Hawke', 'Seymour Cassel']",
+        "crew": "['Randal Kleiser']"
+    },
+    {
+        "title": "White Noise",
+        "movie_id": "11804",
+        "cast": "['Michael Keaton', 'Chandra West', 'Deborah Kara Unger']",
+        "crew": "['Geoffrey Sax']"
+    },
+    {
+        "title": "White Oleander",
+        "movie_id": "10994",
+        "cast": "['Alison Lohman', 'Michelle Pfeiffer', 'Cole Hauser']",
+        "crew": "['Peter Kosminsky']"
+    },
+    {
+        "title": "Why Did I Get Married Too?",
+        "movie_id": "35688",
+        "cast": "['Tyler Perry', 'Janet Jackson', 'Jill Scott']",
+        "crew": "['Tyler Perry']"
+    },
+    {
+        "title": "Why Did I Get Married?",
+        "movie_id": "17202",
+        "cast": "['Tyler Perry', 'Jill Scott', 'Janet Jackson']",
+        "crew": "['Tyler Perry']"
+    },
+    {
+        "title": "Wild",
+        "movie_id": "228970",
+        "cast": "['Reese Witherspoon', 'Laura Dern', 'Thomas Sadoski']",
+        "crew": "['Jean-Marc Vall\u00e9e']"
+    },
+    {
+        "title": "Wild Grass",
+        "movie_id": "37842",
+        "cast": "['Andr\u00e9 Dussollier', 'Sabine Az\u00e9ma', 'Emmanuelle Devos']",
+        "crew": "['Alain Resnais']"
+    },
+    {
+        "title": "Wild Things",
+        "movie_id": "617",
+        "cast": "['Matt Dillon', 'Kevin Bacon', 'Denise Richards']",
+        "crew": "['John McNaughton']"
+    },
+    {
+        "title": "Willard",
+        "movie_id": "10929",
+        "cast": "['Crispin Glover', 'R. Lee Ermey', 'Laura Harring']",
+        "crew": "['Glen Morgan']"
+    },
+    {
+        "title": "Winnie Mandela",
+        "movie_id": "75033",
+        "cast": "['Elias Koteas', 'Terrence Howard', 'Jennifer Hudson']",
+        "crew": "['Darrell James Roodt']"
+    },
+    {
+        "title": "Witness",
+        "movie_id": "9281",
+        "cast": "['Harrison Ford', 'Kelly McGillis', 'Josef Sommer']",
+        "crew": "['Peter Weir']"
+    },
+    {
+        "title": "Wolves",
+        "movie_id": "290555",
+        "cast": "['Jason Momoa', 'Lucas Till', 'John Pyper-Ferguson']",
+        "crew": "['David Hayter']"
+    },
+    {
+        "title": "Woman in Gold",
+        "movie_id": "304357",
+        "cast": "['Helen Mirren', 'Ryan Reynolds', 'Tatiana Maslany']",
+        "crew": "['Simon Curtis']"
+    },
+    {
+        "title": "Womb",
+        "movie_id": "59457",
+        "cast": "['Eva Green', 'Matt Smith', 'Lesley Manville']",
+        "crew": "['Benedek Fliegauf']"
+    },
+    {
+        "title": "Won't Back Down",
+        "movie_id": "82631",
+        "cast": "['Viola Davis', 'Maggie Gyllenhaal', 'Ving Rhames']",
+        "crew": "['Daniel Barnz']"
+    },
+    {
+        "title": "Woo",
+        "movie_id": "58680",
+        "cast": "['Jada Pinkett Smith', 'Tommy Davidson', 'Duane Martin']",
+        "crew": "['Daisy von Scherler Mayer']"
+    },
+    {
+        "title": "Yentl",
+        "movie_id": "10269",
+        "cast": "['Barbra Streisand', 'Mandy Patinkin', 'Amy Irving']",
+        "crew": "['Barbra Streisand']"
+    },
+    {
+        "title": "You Again",
+        "movie_id": "38303",
+        "cast": "['Kristen Bell', 'Sigourney Weaver', 'Betty White']",
+        "crew": "['Andy Fickman']"
+    },
+    {
+        "title": "You Will Meet a Tall Dark Stranger",
+        "movie_id": "38031",
+        "cast": "['Gemma Jones', 'Anthony Hopkins', 'Naomi Watts']",
+        "crew": "['Woody Allen']"
+    },
+    {
+        "title": "Young Adult",
+        "movie_id": "57157",
+        "cast": "['Charlize Theron', 'Patton Oswalt', 'Patrick Wilson']",
+        "crew": "['Jason Reitman']"
+    },
+    {
+        "title": "Young Guns",
+        "movie_id": "11967",
+        "cast": "['Emilio Estevez', 'Kiefer Sutherland', 'Lou Diamond Phillips']",
+        "crew": "['Christopher Cain']"
+    },
+    {
+        "title": "Young Sherlock Holmes",
+        "movie_id": "11904",
+        "cast": "['Nicholas Rowe', 'Alan Cox', 'Sophie Ward']",
+        "crew": "['Barry Levinson']"
+    },
+    {
+        "title": "Youth in Revolt",
+        "movie_id": "22327",
+        "cast": "['Michael Cera', 'Zach Galifianakis', 'Justin Long']",
+        "crew": "['Miguel Arteta']"
+    },
+    {
+        "title": "Zambezia",
+        "movie_id": "133931",
+        "cast": "['Jeremy Suarez', 'Samuel L. Jackson', 'Abigail Breslin']",
+        "crew": "['Wayne Thornley']"
+    },
+    {
+        "title": "Zulu",
+        "movie_id": "185567",
+        "cast": "['Orlando Bloom', 'Forest Whitaker', 'Conrad Kemp']",
+        "crew": "['J\u00e9r\u00f4me Salle']"
+    },
+    {
+        "title": "eXistenZ",
+        "movie_id": "1946",
+        "cast": "['Jennifer Jason Leigh', 'Jude Law', 'Ian Holm']",
+        "crew": "['David Cronenberg']"
+    }
+]

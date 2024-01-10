@@ -1,0 +1,4002 @@
+[
+    {
+        "movie_id": "10072",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "10072",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "10117",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "10117",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "10117",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "10117",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "10117",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "10160",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "10160",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "10215",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "10215",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "10215",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "10215",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "10217",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1024",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1024",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "10246",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "10283",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "10283",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "10331",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "10339",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "10339",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "103903",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "104896",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "104896",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "10496",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "10496",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "10514",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "10514",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "10622",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "10622",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "10622",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "10664",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "10664",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "10727",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "10727",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "10744",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "10744",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "10786",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "10786",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "10786",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "10786",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "10803",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "10803",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "10803",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "10803",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "10822",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "10844",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1088",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1088",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "10914",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "10914",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "10914",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "10914",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "10925",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "10925",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "10930",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "10947",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "10947",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "10947",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "10947",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "10947",
+        "genre_id": "10770"
+    },
+    {
+        "movie_id": "10970",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "10987",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "10987",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "1103",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "1103",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "11033",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "11033",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "11033",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "110402",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "110402",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "11042",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "11042",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "11042",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11051",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11191",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "11191",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11191",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "11284",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "11284",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "11284",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "113406",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "113406",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11342",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "11342",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "11342",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "11342",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "11357",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "11357",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "11361",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "11361",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "11386",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "11386",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "11386",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11386",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "11404",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11404",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "11452",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "11452",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "11536",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11536",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "11536",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "11577",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "11583",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "11583",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "11583",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11583",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "11600",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11600",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "116613",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "116613",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "116613",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "11687",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "11687",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "11687",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "11826",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "11826",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11826",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "11843",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "11889",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11889",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "11901",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "11935",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "11935",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "11935",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "11935",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "11959",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "11977",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "12079",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "12079",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "12079",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "12093",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "12093",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "12163",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "12163",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "122081",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "122081",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "12271",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "12400",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "12484",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "12484",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "12484",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "12484",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "12486",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "12486",
+        "genre_id": "99"
+    },
+    {
+        "movie_id": "12498",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "12509",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "12509",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "12555",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "12555",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "12573",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "12573",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "13001",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "13001",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "13006",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "13006",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "13006",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "13006",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "13006",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "13090",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13090",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "13173",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13193",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13193",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "13342",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13370",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13370",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "13403",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13403",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "13408",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "13408",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13537",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "13537",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "135595",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "135595",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "13649",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13649",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "13649",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "13649",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "1365",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1365",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "13685",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13685",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "13685",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "13776",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13776",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "13785",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13807",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "13807",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "13807",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "13827",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13849",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "13849",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13849",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "13849",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "138697",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "138697",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "138697",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1391",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1391",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "13919",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13919",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "13990",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "13991",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13996",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "13996",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "141",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "141",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "141",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "14112",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14112",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "14144",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "14144",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "1415",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "1415",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1415",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "14165",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "14165",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "14165",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "1429",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "1429",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14351",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "14351",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "14351",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1443",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1443",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "14474",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "14474",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14474",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "14576",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "14576",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "14576",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "14578",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "14578",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "14578",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "146203",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "146203",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "14631",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14662",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "14662",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14745",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14745",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "147767",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "147767",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "147773",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "147773",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14834",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14834",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "14849",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14849",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "14849",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "14854",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "14854",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "14854",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "14854",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "14854",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "14854",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "15013",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1523",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "152532",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "152532",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "15256",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "15256",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "15256",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "153",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1548",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "1548",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1555",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1555",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "1555",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "15581",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "15660",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "15745",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "15745",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "15745",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "157547",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "15797",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "1591",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "16096",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "16148",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "16148",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "16148",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "16148",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "16158",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "16158",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "16158",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "16172",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "16186",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "16186",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "16186",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "16337",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "164372",
+        "genre_id": "16"
+    },
+    {
+        "movie_id": "164372",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "16441",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "16441",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "16508",
+        "genre_id": "16"
+    },
+    {
+        "movie_id": "16508",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "16508",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "16564",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "16564",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "16564",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "165864",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "165864",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "16619",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "16620",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "16620",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "16633",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "16633",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "16633",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "16633",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "16651",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "16651",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "16651",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "16651",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "166624",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "166624",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "168027",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "1690",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "1696",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1696",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "1696",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "17139",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "17139",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "17139",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "1725",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "1725",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1725",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "173",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "173",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "173",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "17339",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "17339",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "17339",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "17339",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "17431",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "17431",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "17663",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "17663",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "1777",
+        "genre_id": "99"
+    },
+    {
+        "movie_id": "17908",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "17908",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "17908",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "183894",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "183894",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "183894",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "18442",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "18442",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "18442",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "18602",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "18713",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "18713",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "18923",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "18923",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "192134",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "192134",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "192134",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "192141",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "192141",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "193722",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "193722",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1955",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1955",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "19556",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "19556",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "1956",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "1956",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "1956",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "19615",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "19848",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "19913",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "19913",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "19913",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "199933",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "199933",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "199933",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "2011",
+        "genre_id": "16"
+    },
+    {
+        "movie_id": "2011",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "20322",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "20322",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "20322",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "20455",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "20455",
+        "genre_id": "16"
+    },
+    {
+        "movie_id": "20455",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "20455",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "2074",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "2074",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "20794",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "20794",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "20794",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "21014",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "211954",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "211954",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "215",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "21610",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "21610",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "21610",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "21641",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "218",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "218",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "218",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "2211",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "2211",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "2211",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "22314",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "22314",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "22314",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "22314",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "226354",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "226354",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "22649",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "22649",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "22649",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "227348",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "227348",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "22908",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "22908",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "22908",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "2293",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "2293",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "2295",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "230266",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "231576",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "231576",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "235271",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "235271",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "238",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "238",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "241251",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "241771",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "241771",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "242512",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "24266",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "24266",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "24266",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "24266",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "24266",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "243940",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "243940",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "244403",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "244403",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "244403",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "244783",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "245916",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "245916",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "245916",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "245916",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "24913",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "24913",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "24973",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "24973",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "24977",
+        "genre_id": "99"
+    },
+    {
+        "movie_id": "24985",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "24985",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "250546",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "25066",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "25066",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "25066",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "25113",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "25113",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "25113",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "25248",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "25248",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "252680",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "253",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "253",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "253",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "253253",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "25388",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "25388",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "25388",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "25388",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "256274",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "256274",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "2577",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "2577",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "2577",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "2577",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "25941",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "25941",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "25941",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "25941",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "26379",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "26379",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "26379",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "2662",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "26665",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "26665",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "26665",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "26748",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "26748",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "26748",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "27004",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "27004",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "27004",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "270938",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "270938",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "27191",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "27191",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "27191",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "27451",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "27549",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "27549",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "27549",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "27549",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "27585",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "27686",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "27686",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "277519",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "277519",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "28053",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "28053",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "28089",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "28089",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "281730",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "281730",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "281730",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "284293",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "287424",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "2895",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "29064",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "29064",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "290825",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "290825",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "290825",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "290825",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "292481",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "292481",
+        "genre_id": "16"
+    },
+    {
+        "movie_id": "29426",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "29426",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "294512",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "294512",
+        "genre_id": "16"
+    },
+    {
+        "movie_id": "294512",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "294512",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "297596",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "297596",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "298312",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "298312",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "29912",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "29920",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "29920",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "29920",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "299552",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "299552",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "299552",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "29996",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "29996",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "29996",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "29996",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "300706",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "30128",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "30128",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "301365",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "301365",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "3028",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "3028",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "3028",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "3040",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "3040",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "3040",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "306745",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "306745",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "308639",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "308639",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "308639",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "31064",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "31064",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "31175",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "31175",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "312113",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "312113",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "312113",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "313922",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "313922",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "313922",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "31535",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "321",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "321",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "32275",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "323677",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "323677",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "32395",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "325373",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "325373",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "326284",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "3291",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "3291",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "33155",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "33155",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "333371",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "333371",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "333371",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "334527",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "334527",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "334527",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "335",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "33676",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "338",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "338",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "338",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "34069",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "34069",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "34069",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "340816",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "340816",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "343795",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "345911",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "345911",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "34653",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "34653",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "34723",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "34723",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "34723",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "34723",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "347764",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "347764",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "347764",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "347764",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "3482",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "3482",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "3482",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "3482",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "351819",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "351819",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "35689",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "35689",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "35689",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "35944",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "35944",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "361159",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "361159",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "362105",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "362105",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "36351",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "36351",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "36419",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "36419",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "36419",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "36419",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "36739",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "36739",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "37080",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "37080",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "37206",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "37206",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "375290",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "375290",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "375290",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "375290",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "378200",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "378200",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "38415",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "38415",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "38415",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "38415",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "38428",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "38428",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "38428",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "38940",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "38940",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "38970",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "38970",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "38970",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "39053",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "39053",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "39053",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "39210",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "39210",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "39269",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "39781",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "39781",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "398",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "398",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "39800",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "39800",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "40185",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "40185",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "40494",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "41009",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "41009",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "41009",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "41009",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "41730",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "41730",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "42222",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "4251",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "4251",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "433",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "433",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "433",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "44260",
+        "genre_id": "99"
+    },
+    {
+        "movie_id": "447027",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "44718",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "44718",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "44718",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "44835",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "451",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "451",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "45153",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "455",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "455",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "455",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "4550",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "4550",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "4553",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "4553",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "45650",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "45650",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "45650",
+        "genre_id": "14"
+    },
+    {
+        "movie_id": "45658",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "45658",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "45658",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "46332",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "46332",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "46738",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "46738",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "46738",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "46838",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "46838",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "47088",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "47452",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "47452",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "47452",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "47816",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "47816",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "47816",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "4836",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "4836",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "4836",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "48620",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "48620",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "49365",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "49365",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "4997",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "4997",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "4997",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "4997",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "50357",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "50357",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "50357",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "504",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "504",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "50848",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "50848",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "50848",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "510",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "512",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "512",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "51384",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "51384",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "51995",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "51995",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "51995",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "51995",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "535",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "535",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "535",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "5528",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "55567",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "55567",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "55567",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "5689",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "5689",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "5689",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "56930",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "56930",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "56930",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "57022",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "5708",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "57119",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "576",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "576",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "57612",
+        "genre_id": "99"
+    },
+    {
+        "movie_id": "57825",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "57825",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "57825",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "57825",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "57876",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "57876",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "57876",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "58626",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "58626",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "58882",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "58882",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "5925",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "5925",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "5925",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "5925",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "5925",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "59728",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "59968",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "59968",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "6106",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "621",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "62116",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "62255",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "62255",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "62255",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "62255",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "629",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "629",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "629",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "63006",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "63006",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "63006",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "63006",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "641",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "641",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "642",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "642",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "642",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "642",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "64720",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "64720",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "650",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "650",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "6537",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "65749",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "65749",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "65749",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "66607",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "66607",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "66607",
+        "genre_id": "10769"
+    },
+    {
+        "movie_id": "67913",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "67913",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "67913",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "67913",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "681",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "681",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "681",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "682",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "682",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "682",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "68202",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "68202",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "68818",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "68818",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "68818",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "703",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "703",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "703",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "70670",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "70670",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "71",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "71",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "71",
+        "genre_id": "10402"
+    },
+    {
+        "movie_id": "712",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "712",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "712",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "713",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "713",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "71547",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "71547",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "71859",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "71859",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "72571",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "7326",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "7326",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "7326",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "7347",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "7347",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "7347",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "73532",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "73532",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "73873",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "747",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "747",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "7547",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "7547",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "76025",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "77",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "77",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "77156",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "77156",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "77156",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "77156",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "7735",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "7735",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "77495",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "77930",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "77930",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "77949",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "77949",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "77987",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "77987",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "77987",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "78381",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "78381",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "78394",
+        "genre_id": "99"
+    },
+    {
+        "movie_id": "7863",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "78814",
+        "genre_id": "10770"
+    },
+    {
+        "movie_id": "78814",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "78814",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "78814",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "7913",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "792",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "792",
+        "genre_id": "10752"
+    },
+    {
+        "movie_id": "792",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "79316",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "80304",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "80304",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "8068",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "8068",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "8068",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "82505",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "82505",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "82990",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "8337",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "8337",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "8337",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "8337",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "8346",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "8346",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "8346",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "8357",
+        "genre_id": "99"
+    },
+    {
+        "movie_id": "83686",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "83686",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "837",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "837",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "837",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "8374",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "8374",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "8374",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "8390",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "8390",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "84204",
+        "genre_id": "878"
+    },
+    {
+        "movie_id": "84204",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "84204",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "84204",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "8435",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "8435",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "85350",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "8545",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "8545",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "8744",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "8744",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "8744",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "87499",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "87499",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "8847",
+        "genre_id": "99"
+    },
+    {
+        "movie_id": "8879",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "8879",
+        "genre_id": "37"
+    },
+    {
+        "movie_id": "8981",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "8981",
+        "genre_id": "10751"
+    },
+    {
+        "movie_id": "8982",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "8982",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "8982",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "8982",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "89861",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "8998",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "8998",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "8998",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "9012",
+        "genre_id": "99"
+    },
+    {
+        "movie_id": "9012",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "91586",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "91586",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "925",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "92591",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "92591",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "92591",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "9277",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "9277",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "9277",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "9282",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "9282",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "9282",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "9303",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "9303",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "9303",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "9303",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "9336",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "9336",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "9392",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "9392",
+        "genre_id": "27"
+    },
+    {
+        "movie_id": "9430",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "9430",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "9430",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "9443",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "9443",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "9555",
+        "genre_id": "12"
+    },
+    {
+        "movie_id": "9555",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "9555",
+        "genre_id": "28"
+    },
+    {
+        "movie_id": "9555",
+        "genre_id": "36"
+    },
+    {
+        "movie_id": "9571",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "9571",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "97614",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "97614",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "97614",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "9782",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "9782",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "979",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "979",
+        "genre_id": "53"
+    },
+    {
+        "movie_id": "979",
+        "genre_id": "80"
+    },
+    {
+        "movie_id": "979",
+        "genre_id": "9648"
+    },
+    {
+        "movie_id": "987",
+        "genre_id": "10749"
+    },
+    {
+        "movie_id": "987",
+        "genre_id": "18"
+    },
+    {
+        "movie_id": "987",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "9900",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "9991",
+        "genre_id": "35"
+    },
+    {
+        "movie_id": "9991",
+        "genre_id": "18"
+    }
+]
