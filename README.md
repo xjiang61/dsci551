@@ -1,3 +1,5 @@
+This is an online Database Management System, building with React, Node.js and Firebase.
+
 '''For the frontend, you need to download all the npm package required in package.json'''
 npm start
 '''For the backend'''
